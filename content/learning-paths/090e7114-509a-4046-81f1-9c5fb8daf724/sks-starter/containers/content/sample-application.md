@@ -33,5 +33,5 @@ node app.js
 
 The application at work, displaying Hello World!:
 
-![NodeJS App](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c2-l2-1.png)
+![nodejs-app]({{< usestatic "nodejs-app.png" >}})
 
