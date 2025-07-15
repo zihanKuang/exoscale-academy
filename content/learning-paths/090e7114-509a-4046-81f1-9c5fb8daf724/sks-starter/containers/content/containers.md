@@ -10,7 +10,7 @@ weight: 5
 
 
 ### **Containers**
-![Containers](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c2-l5-1.png)
+![container]({{< usestatic "container.png" >}})
 
 #### **Containers**
 

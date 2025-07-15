@@ -18,7 +18,7 @@ The four foundational Kubernetes concepts listed below are essential to run your
 
 These four concepts are explained in more detail in the videos below.
 
-![What is it?](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c3-l8-1.png)
+![basic-concepts]({{< usestatic "basic-concepts.png" >}})
 
 #### **PODs**
 {{< card 
