@@ -7,26 +7,34 @@ title: "Simple Examples"
 weight: 7
 ---
 
-### Simple Examples
+### **Simple Examples**
 
 Let's look at two examples. First, a simple hello-world container and second, a simple Ubuntu container.
 
 - simple hello-world container
 
-![What is it?](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c3_l7_1.png)
+![What is it?](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c3-l7-1.png)
 
 - simple ubuntu container
 
-![What is it?](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c3_l7_2.png)
+![What is it?](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c3-l7-2.png)
 
 Watch these two examples below in the videos.
 
-#### Simple Hello-World Container
-Video: Simple Hello-World Container
+#### **Simple Hello-World Container**
+{{< card 
+title="Video: Simple Hello-World Container">}}
+<video width="100%" height="100%" controls>
+    <source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid14.mp4?1752607636178" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+{{< /card >}}
 
-https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid14.mp4?1752607636178
-
-#### Simple Ubuntu Container
-Video: Simple Ubuntu Container
-
-https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid13.mp4?1752607636187
+#### **Simple Ubuntu Container**
+{{< card 
+title="Video: Simple Ubuntu Container">}}
+<video width="100%" height="100%" controls>
+    <source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid13.mp4?1752607636187" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+{{< /card >}}

@@ -15,6 +15,10 @@ In this SKS Starter training, we cover how Kubernetes (K8s) works, why we want t
 
 #### **Welcome**
 
-Video: Welcome
-
-https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_welcome.mp4?1752608889856
+{{< card 
+title="Video: Welcome">}}
+<video width="100%" height="100%" controls>
+    <source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_welcome.mp4?1752608889856" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+{{< /card >}}

@@ -24,9 +24,10 @@ Containers are similar to VMs, but they have relaxed isolation properties to sha
 
 #### **App Deployment**
 
-Video: Application Deployment Overview
-
-https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid0.mp4?1752340619870
-
-
-
+{{< card 
+title="Video: Application Deployment Overview">}}
+<video width="100%" height="100%" controls>
+    <source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid0.mp4?1752340619870" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+{{< /card >}}

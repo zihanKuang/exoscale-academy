@@ -24,6 +24,10 @@ Considering the next steps based on the Node.js sample app from before.
 
 #### **Running Apps**
 
-Video: Running App
-
-https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid2.mp4?1752341367873
+{{< card 
+title="Video: Running App">}}
+<video width="100%" height="100%" controls>
+    <source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid2.mp4?1752341367873" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+{{< /card >}}

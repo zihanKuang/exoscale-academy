@@ -24,8 +24,20 @@ RUN npm install * dependencies for the application
 CMD ["node", "src/index.js"] * run the app - just like when running outside a container
 ```
 #### **Dockerfile Theory**
-Video: Dockerfile Theory
+{{< card 
+title="Video: Dockerfile Theory">}}
+<video width="100%" height="100%" controls>
+    <source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid5.mp4?1752342254038" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+{{< /card >}}
 
-https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid5.mp4?1752342254038
 
-https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid6.mp4?1752342254053
+#### **Dockerfile Practice**
+{{< card 
+title="Video: Dockerfile Practice">}}
+<video width="100%" height="100%" controls>
+    <source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid6.mp4?1752342254053" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+{{< /card >}}

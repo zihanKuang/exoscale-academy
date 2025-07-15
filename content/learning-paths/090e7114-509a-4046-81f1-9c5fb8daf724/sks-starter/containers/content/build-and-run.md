@@ -15,18 +15,21 @@ docker build
 ```
 In our example, the first step is to build the hello-world container with the > docker build command.
 
-![Docker Build](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c2_l7_1.png)
+![Docker Build](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c2-l7-1.png)
 
 ```bash
 docker run
 ```
 In our example, the second step is to run the hello-world container with the > docker run command.
 
-![Docker Run](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c2_l7_2.png)
+![Docker Run](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c2-l7-2.png)
 
 #### **Build & Run**
 
-Video: Build & Run
-
-
-https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid7.mp4?1752342546480
+{{< card 
+title="Video: Build & Run">}}
+<video width="100%" height="100%" controls>
+    <source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid7.mp4?1752342546480" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+{{< /card >}}

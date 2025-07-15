@@ -12,11 +12,15 @@ weight: 8
 
 Using a publicly available repository to manage, store, retrieve, and share (if you want to) your container images is a real added value. In traditional IT scenarios, such a solution has to be custom-built most of the time. In the container world, such solutions are part of the ecosystem. With docker containers, the Docker Hub is a natural solution as a repository for our scenarios.
 
-![Docker Run](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c2_l8_1.png)
+![Docker Run](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c2-l8-1.png)
 
 
 #### **Docker Hub**
 
-Video: Docker Hub
-
-https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid8.mp4?1752343043012
+{{< card 
+title="Video: Docker Hub">}}
+<video width="100%" height="100%" controls>
+    <source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid8.mp4?1752343043012" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+{{< /card >}}

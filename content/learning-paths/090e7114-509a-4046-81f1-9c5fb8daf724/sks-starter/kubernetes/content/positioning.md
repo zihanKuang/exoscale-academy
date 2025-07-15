@@ -14,7 +14,7 @@ weight: 5
 
 ... **extensible**, and lets users integrate their logging, monitoring, alerting, and many more solutions because it is not monolithic, and these solutions are optional and pluggable.
 
-![What is it?](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c3_l5_1.png)
+![What is it?](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c3-l5-1.png)
 
 #### **Kubernetes is NOT ...**
 **... a traditional, all-inclusive PaaS system.**

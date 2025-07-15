@@ -7,9 +7,9 @@ title: "Features"
 weight: 4
 ---
 
-### Features
+### **Features**
 
-![What is it?](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c3_l4_1.png)
+![What is it?](/090e7114-509a-4046-81f1-9c5fb8daf724/images/sks-starter/c3-l4-1.png)
 
 ### **Kubernetes Feature Details**
 #### **self-healing**
