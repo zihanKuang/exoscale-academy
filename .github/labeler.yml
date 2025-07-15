@@ -5,4 +5,4 @@ area/learning-paths:
 area/challenges:
 - changed-files:
   - any-glob-to-any-file:
-    - "content/en/challenges/**/*
+    - "content/en/challenges/**/*"
