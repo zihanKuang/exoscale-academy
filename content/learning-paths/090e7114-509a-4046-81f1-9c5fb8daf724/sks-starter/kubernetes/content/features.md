@@ -9,7 +9,7 @@ weight: 4
 
 ### **Features**
 
-![features]({{< usestatic "features.png" >}})
+![features]({{< usestatic "sks-starter/features.png" >}})
 
 ### **Kubernetes Feature Details**
 #### **self-healing**

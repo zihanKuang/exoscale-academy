@@ -12,7 +12,7 @@ weight: 8
 
 Using a publicly available repository to manage, store, retrieve, and share (if you want to) your container images is a real added value. In traditional IT scenarios, such a solution has to be custom-built most of the time. In the container world, such solutions are part of the ecosystem. With docker containers, the Docker Hub is a natural solution as a repository for our scenarios.
 
-![docker-hub]({{< usestatic "docker-hub.png" >}})
+![docker-hub]({{< usestatic "sks-starter/docker-hub.png" >}})
 
 
 #### **Docker Hub**
