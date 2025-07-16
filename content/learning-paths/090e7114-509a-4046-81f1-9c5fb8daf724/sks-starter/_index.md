@@ -4,5 +4,5 @@ description: "This SKS STARTER - Learning Path covers the entry topics of (manag
 themeColor: "#3C494F"
 cardImage: "/images/learning-path/kubernetes-icon.svg"
 courses: 3
-weight: 1
+weight: 2
 ---
