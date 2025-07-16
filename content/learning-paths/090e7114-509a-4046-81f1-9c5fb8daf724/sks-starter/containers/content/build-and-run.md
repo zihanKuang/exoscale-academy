@@ -15,14 +15,14 @@ docker build
 ```
 In our example, the first step is to build the hello-world container with the > docker build command.
 
-![docker-build]({{< usestatic "docker-build.png" >}})
+![docker-build]({{< usestatic "sks-starter/docker-build.png" >}})
 
 ```bash
 docker run
 ```
 In our example, the second step is to run the hello-world container with the > docker run command.
 
-![docker-run]({{< usestatic "docker-run.png" >}})
+![docker-run]({{< usestatic "sks-starter/docker-run.png" >}})
 
 #### **Build & Run**
 

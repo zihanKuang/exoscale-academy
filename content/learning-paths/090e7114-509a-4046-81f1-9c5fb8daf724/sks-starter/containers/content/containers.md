@@ -10,7 +10,7 @@ weight: 5
 
 
 ### **Containers**
-![container]({{< usestatic "container.png" >}})
+![container]({{< usestatic "sks-starter/container.png" >}})
 
 #### **Containers**
 
