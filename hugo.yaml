@@ -1,5 +1,5 @@
 baseURL: http://localhost:9876/academy/
-title: Example Academy
+title: Exoscale Academy
 canonifyurls: true
 
 module:
