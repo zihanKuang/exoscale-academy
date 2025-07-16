@@ -1,32 +1,77 @@
-# How to Contribute
+# <a name="contributing">Contributing Overview</a>
+Please do! Thanks for your help improving the project! 🎈
 
-We'd love to accept your patches and contributions to this project. There are
-just a few small guidelines you need to follow.
+All contributors are welcome. Please see the [newcomers welcome guide](https://layer5.io/community/newcomers) for how, where and why to contribute. This project is community-built and welcomes collaboration. Contributors are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Reporting Issues
+Not sure where to start? First, see the [newcomers welcome guide](https://layer5.io/community/newcomers). Grab an open issue with the [help-wanted label](../../labels/help%20wanted) and jump in. Join the [Slack account](http://slack.layer5.io) and engage in conversation. Create a [new issue](/../../issues/new/choose) if needed.  All [pull requests](/../../pulls) should reference an open [issue](/../../issues). Include keywords in your pull request descriptions, as well as commit messages, to [automatically close issues in GitHub](https://help.github.com/en/github/managing-your-work-on-github/closing-issues-using-keywords).
 
-Please use the issue tracker to report bugs or suggest new features. When creating a new issue, please include:
+**Sections**
+- <a name="contributing">General Contribution Flow</a>
+  - <a href="#prerequisites">Prerequisites</a>
+  - <a href="#set-up-your-local-development-environment">Set up your Local Development Environment</a>
+  - <a href="#commit-signing">Developer Certificate of Origin</a>
 
-*   A clear and descriptive title.
-*   A detailed description of the problem or feature request.
-*   Steps to reproduce the bug (if applicable).
-*   Expected and actual behavior.
-*   Any relevant error messages.
+Relevant coding style guidelines are the Go Code Review Comments and the Formatting and style section of Peter Bourgon's Go: Best Practices for Production Environments.
 
-## What We're Looking For
+# <a name="contributing">General Contribution Flow</a>
 
-- **Fixes**: Typos, outdated info, broken links
-- **Improvements**: Better explanations, additional examples, clearer organization
-- **New content**: Helpful guides, missing information, translations
+In order to contribute to Layer5 docs, please follow the fork-and-pull request workflow described [here](./CONTRIBUTING-gitflow.md).
 
-## Content Guidelines
+## Prerequisites
 
-- Use clear, concise language
-- Check spelling and grammar
-- Keep formatting consistent with existing pages
-- Verify links work and information is current
-- Include sources for factual claims
+Make sure you have the following prerequisites installed on your operating system before you start contributing:
 
+- [Nodejs and npm](https://nodejs.org/en/)
+
+  To verify run:
+
+  ```
+  node -v
+  ```
+
+  ```
+  npm -v
+  ```
+
+- [Go](https://go.dev/doc/install)
+
+  To verify run:
+
+  ```
+  go version
+  ```
+
+- [Hugo](https://gohugo.io/installation/) 
+
+
+  - Install a recent release of the Hugo "extended" version. If you install from
+    the [Hugo release page](https://github.com/gohugoio/hugo/releases), make sure
+    you download the `extended` version, which supports SCSS.
+
+    To verify run:
+
+    ```
+    hugo version
+    ```
+
+  - Install `PostCSS` so that the site build can create the final CSS assets. You
+    can install it locally by running the following commands from the root
+    directory of your project:
+
+    ```sh
+    npm install --save-dev autoprefixer
+    npm install --save-dev postcss-cli
+    ```
+
+    Starting in
+    [version 8 of `postcss-cli`](https://github.com/postcss/postcss-cli/blob/master/CHANGELOG.md),
+    you must also separately install `postcss`:
+
+    ```sh
+    npm install -D postcss
+    ```
+
+**Note:** If you're on a _Windows environment_ then it is highly recommended that you install [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install) both for performance and ease of use.
 
 
 ## Set up your Local Development Environment
@@ -85,13 +130,49 @@ make setup
 make site
 ```
 
+This will run a local webserver with "live reload" conveniently enabled. ( **NOTE**: while using the make command on Windows, there sometimes arises an error in identifying the command even after it is installed (unrecognized command), this is because the PATH for the binary might not be set correctly ).
 
-## Before Submitting
+**11.** Track your changes.
 
-- [ ] Content is accurate and well-written
-- [ ] Formatting matches existing style
-- [ ] Links are functional
-- [ ] Changes are clearly described in your PR
+```
+git add .
+```
+
+**12.** Commit your changes. To contribute to this project, you must agree to the [Developer Certificate of Origin (DCO)](#signing-off-on-commits) for each commit you make.
+
+```
+git commit --signoff -m "<commit subject>"
+```
+
+or you could go with the shorter format for the same, as shown below.
+
+```
+git commit -s -m "<commit subject>"
+```
+
+**13.** While you are working on your branch, other developers may update the `master` branch with their branch. This action means your branch is now out of date with the `master` branch and missing content. So to fetch the new changes, follow along:
+
+```
+git checkout master
+git fetch origin master
+git merge upstream/master
+git push origin
+```
+
+Now you need to merge the `master` branch into your branch. This can be done in the following way:
+
+```
+git checkout <your_branch_name>
+git merge master
+```
+
+**14.** Push the committed changes in your feature branch to your remote repo.
+
+```
+git push -u origin <your_branch_name>
+```
+
+**15.** Once you’ve committed and pushed all of your changes to GitHub, go to the page for your fork on GitHub, select your development branch, and click the pull request button. Please ensure that you compare your feature branch to the desired branch of the repo you are supposed to make a PR to. If you need to make any adjustments to your pull request, just push the updates to GitHub. Your pull request will automatically track the changes in your development branch and update it.
 
 ## <a name="commit-signing">Signing-off on Commits (Developer Certificate of Origin)</a>
 
@@ -126,22 +207,61 @@ To ensure all your commits are signed, you may choose to add this alias to your 
 ```
 Or you may configure your IDE, for example, Visual Studio Code to automatically sign-off commits for you:
 
-<a href="https://user-images.githubusercontent.com/7570704/64490167-98906400-d25a-11e9-8b8a-5f465b854d49.png" ><img src="https://user-images.githubusercontent.com/7570704/64490167-98906400-d25a-11e9-8b8a-5f465b854d49.png" width="50%"></a>
+<a href="https://user-images.githubusercontent.com/7570704/64490167-98906400-d25a-11e9-8b8a-5f465b854d49.png" ><img src="https://user-images.githubusercontent.com/7570704/64490167-98906400-d25a-11e9-8b8a-5f465b854d49.png" width="50%"><a>
+
+## <a name="contributing-docs">Documentation Contribution Flow</a>
+Please contribute! Layer5 documentation uses Jekyll and GitHub Pages to host docs sites. Learn more about [Layer5's documentation framework](https://docs.google.com/document/d/17guuaxb0xsfutBCzyj2CT6OZiFnMu9w4PzoILXhRXSo/edit?usp=sharing). The process of contributing follows this flow:
+
+1. Create a fork, if you have not already, by following the steps described [here](./CONTRIBUTING-gitflow.md)
+1. In the local copy of your fork, navigate to the docs folder.
+`cd docs`
+1. Create and checkout a new branch to make changes within
+`git checkout -b <my-changes>`
+1. Edit/add documentation.
+`vi <specific page>.md`
+1. Run site locally to preview changes.
+`make site`
+1. Commit, [sign-off](#commit-signing), and push changes to your remote branch.
+`git push origin <my-changes>`
+1. Open a pull request (in your web browser) against the repo.
 
 
+#### Tests
+Users can now test their code on their local machine against the CI checks implemented using `make run-tests`.
 
-## Code reviews
+To test code changes on your local machine, run the following command:
+```
+make run-tests
+```
 
-All submissions, including submissions by project members, require review. We
-use GitHub pull requests for this purpose. Consult
-[GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
-information on using pull requests.
+#### Building Docker image
+To build a Docker image of the project, please ensure you have `Docker` installed to be able to build the image. Now, run the following command to build and serve the files locally.:
 
-## Community Guidelines
+> [!IMPORTANT]  
+> This requires Docker Desktop version **4.24** or later, or Docker Engine with Docker
+> Compose version [**2.22**](https://docs.docker.com/compose/file-watch/) or later.
+```sh
+make docker
+```
 
-This project follows
-[Google's Open Source Community Guidelines](https://opensource.google.com/conduct/).
+### UI Lint Rules
 
-## Need Help?
+Layer5 uses ES-Lint to maintain code quality & consistency in our UI Code.
 
-Open an issue with questions or check the existing documentation. Thanks for contributing! 🎉
+# <a name="maintaining"> Reviews</a>
+All contributors are invited to review pull requests. See this short video on [how to review a pull request](https://www.youtube.com/watch?v=isLfo7jfE6g&feature=youtu.be).
+
+# New to Git?
+Resources: https://lab.github.com and https://try.github.com/
+
+### License
+
+This repository and site are available as open source under the terms of the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
+
+### About Layer5
+
+**Community First**
+<p>The <a href="https://layer5.io/community">Layer5 community</a> represents the largest collection of service mesh projects and their maintainers in the world.</p>
+
+**Open Source First**
+<p>At Layer5, we champion developer-defined infrastructure, giving engineers the power to reshape application delivery. We empower operators in reimagining how they manage modern infrastructure: collaboratively.</p>
