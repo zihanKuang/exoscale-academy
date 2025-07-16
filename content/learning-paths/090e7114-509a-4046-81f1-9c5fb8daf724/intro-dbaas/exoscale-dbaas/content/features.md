@@ -11,7 +11,7 @@ weight: 1
 
 Exoscale DBaaS is an excellent solution for everyone looking for a diverse portfolio of open-source data services used in all types of applications and business solutions.
 
-![image]({{< usestatic "intro-dbaas/sec3_sub3_unit1_dbaas.png" >}}) 
+![dbaas]({{< usestatic "intro-dbaas/sec3_sub3_unit1_dbaas.png" >}}) 
 
 If you want to know more about the actual service offers, please go to [Exoscale DBaaS](https://www.exoscale.com/dbaas/) on our website.
 

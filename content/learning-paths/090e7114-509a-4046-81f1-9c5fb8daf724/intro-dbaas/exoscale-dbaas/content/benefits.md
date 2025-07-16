@@ -9,7 +9,7 @@ weight: 2
 
 ### **Exoscale DBaaS Features**
 
-![image]({{< usestatic "intro-dbaas/sec3_sub3_unit2_dbaas_features.png" >}}) 
+![dbaas_features]({{< usestatic "intro-dbaas/sec3_sub3_unit2_dbaas_features.png" >}}) 
 
 #### **Daily Backups included**
 

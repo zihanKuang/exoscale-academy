@@ -14,7 +14,7 @@ Data is the fuel of our society. Can we agree on that? There were many bold stat
 " Like water, data needs to be accessible, it needs to be clean, and it is needed to survive." - Dan Vesset (IDC)
 
 
-![image]({{< usestatic "intro-dbaas/sec3_sub1_unit1_data_word_cloud.png" >}}) 
+![cloud]({{< usestatic "intro-dbaas/sec3_sub1_unit1_data_word_cloud.png" >}}) 
 
 *Data Word Cloud*
 
