@@ -7,11 +7,11 @@ title: "Direct Shipping"
 weight: 6
 ---
 
-### **Overview**
+### Overview
 
 We ship our **servers directly** from the distributor to our data centers, **avoiding unnecessary** equipment **transport** and **reducing** our **carbon footprint**.
 
-### **Benefits**
+### Benefits
 
 Direct shipping refers to shipping goods directly from the manufacturer or supplier to the customer, without any intermediaries such as wholesalers or retailers. In this method, the manufacturer or supplier handles the entire shipping process, including packaging, labeling, and delivery. Direct shipping is often used by e-commerce businesses that sell products online, allowing them to reduce costs and streamline their operations. It also allows for faster delivery times and greater control over the customer experience.
 
