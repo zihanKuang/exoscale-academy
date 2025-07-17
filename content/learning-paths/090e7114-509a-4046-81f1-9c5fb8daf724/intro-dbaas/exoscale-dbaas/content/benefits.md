@@ -1,36 +1,28 @@
 ---
 docType: "Chapter"
-id: "Exoscale DBaaS Features"
-chapterTitle: "Exoscale DBaaS Features"
+id: "Exoscale DBaaS Benefits"
+chapterTitle: "Exoscale DBaaS Benefits"
 description: ""
-title: "Exoscale DBaaS Features"
-weight: 2
+title: "Exoscale DBaaS Benefits"
+weight: 1
 ---
 
-### **Exoscale DBaaS Features**
+### **Exoscale DBaaS Benefits**
 
-![dbaas-features]({{< usestatic "intro-dbaas/sec3_sub3_unit2_dbaas_features.png" >}}) 
+Exoscale DBaaS is an excellent solution for everyone looking for a diverse portfolio of open-source data services used in all types of applications and business solutions.
 
-#### **Daily Backups included**
+![dbaas]({{< usestatic "intro-dbaas/dbaas.png" >}}) 
 
-Backups are done on a daily basis and are included with every DBaaS offering.
+If you want to know more about the actual service offers, please go to [Exoscale DBaaS](https://www.exoscale.com/dbaas/) on our website.
 
-#### **Completely Integrated**
+Exoscale DBaaS is deeply integrated into the Infrastructure as a Service platform and is easy to use with well-known user interfaces like the CLI, the API, and Terraform automation to-do your Infrastructure as Code (IaC) as usual.
 
-Integrated DBaaS for your instances. Easily manage your database, instance, or storage from the same interface.
+#### **Quick Start**
 
-#### **No Vendor Lock-In**
+Set up your database within minutes. Focus on your application; we take care of the rest.
+Open Source
 
-Keep your cloud infrastructure independent and flexible with our offering of open source databases.
+Choose between a wide range of open-source databases: PostgreSQL, Apache Kafka, Redis and many more to come.
+Fully Managed
 
-#### **Your Data Stays In Europe**
-
-All data is stored in the country of your chosen zone, fully GDPR-compliant. DBaaS is available across European zones.
-
-#### **Automate Everything**
-
-Easily automate everything with our simple web portal, CLI, API or tools like Terraform.
-
-#### **99.99% Uptime SLA**
-
-All DBaaS (cluster) offerings come with an uptime SLA of 99.99%.
+You don't have to care about maintenance or upgrades. Launch your database; we take care of the rest.

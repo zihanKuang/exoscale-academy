@@ -11,7 +11,7 @@ weight: 2
 
 Statista provides incredible insights into our world via the looking glass of statistics. The mind-boggling statistic about the created volume of data we make worldwide every year can be found just below this paragraph.
 
-![volume-of-data]({{< usestatic "intro-dbaas/sec3_sub1_unit2_volume_of_data.png" >}}) 
+![volume-of-data]({{< usestatic "intro-dbaas/volume-of-data.png" >}}) 
 
 You can quickly see that the amount of data we produce every year doubled, tripled, or even quadrupled in the last years. Depending on how many years you look back, the internet, the smartphone, social media, digital photography, digital music, digital films, and the Internet of Things, to name a few of the contributors to this enormous peak in the growth of data.
 
@@ -21,7 +21,7 @@ It is difficult to grasp this amount of data. Therefore, follow the experiment o
 
 The figure the statistic gave us was 79 Zettabytes in 2021. In 2021 the world population is stated as 7.9 billion people. This means; statistically, every person on the planet is creating 10 Terabyte of data in 2021. But, what if we would store all the 79 Zettabytes on good old Floppy Disks? How high, or how long would this stack be?
 
-![zettabyte]({{< usestatic "intro-dbaas/sec3_sub1_unit2_zettabyte.png" >}}) 
+![zettabyte]({{< usestatic "intro-dbaas/zettabyte.png" >}}) 
 
 As you can see, the stack out of Floppy Disks in the diagram is pretty BIG. Our solar system expands 4.5 billion km into space there, and you can find the last planet, Neptune. But the stack of Floppy Disks would go on and finally point 181 billion km into space. There is nothing exceptional there, and in terms of interstellar travel, this is a short trip, but we would never get there in a lifetime with the means of transportation available today. All these astronomical facts and figures aside, the horror of Zettabytes starts probably taking shape in your mind now.
 

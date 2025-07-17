@@ -20,12 +20,12 @@ The questions can go on and on; thinking about them and solving them can easily 
 
 The last question from the list above is essential in modern applications because usually one database technology is not enough. Application architecture has changed a lot, and the usage of data technologies with it. Look at the diagram below for a glimpse into the new application design and the impact on database features needed and used. Self-hosted is out of the race; managed is the way to go, end of the story. Managed Databases are the next step in the evolution, but an extensive DBaaS portfolio is the ultimate goal.
 
-![scenario]({{< usestatic "intro-dbaas/sec3_sub2_unit3_scenario.png" >}}) 
+![scenario]({{< usestatic "intro-dbaas/scenario.png" >}}) 
 
 Looking back on the diagram of the example application shows that more and more data technologies are being utilized. So, sourcing different database technologies from a managed service provider is definitely not the final solution there. However, they are reducing complexity, increasing convenience for data service usage.
 
 Meaning we have to look for a managed database technology portfolio, ideally from one provider. Hence, Exoscale DBaaS is precisely that.
 
-![evolution]({{< usestatic "intro-dbaas/sec3_sub2_unit3_evolution.png" >}}) 
+![evolution]({{< usestatic "intro-dbaas/evolution.png" >}}) 
 
 If you want to have a QuickStart with these technologies, go to our DBaaS Documentation [here](https://community.exoscale.com/documentation/dbaas/quick-start/).

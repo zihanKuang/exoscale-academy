@@ -9,7 +9,7 @@ weight: 4
 
 ### **Tools for Data**
 
-![db-cloud]({{< usestatic "intro-dbaas/sec3_sub1_unit4_db_word_cloud.png" >}}) 
+![db-cloud]({{< usestatic "intro-dbaas/db-word-cloud.png" >}}) 
 
 *Database Word Cloud*
 
@@ -17,7 +17,7 @@ Using databases to organize data started long before the age of computers. Sumer
 
 The first database model in the computer era was the Flat File Model, a simple consecutive list of records that mimicked the non-computational model from the past as card catalogs or ship manifests. In the mid-1960s, IBM developed a hierarchical database model for their software solution called IMS (Information Management System), which was debuted in 1968 and supported NASA's Moon Mission efforts.
 
-![CHM]({{< usestatic "intro-dbaas/sec3_sub1_unit4_CHM.png" >}}) 
+![CHM]({{< usestatic "intro-dbaas/CHM.png" >}}) 
 
 *Computer History Museum - Databases*
 
