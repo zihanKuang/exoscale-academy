@@ -14,4 +14,4 @@ A simple and convenient tool to get product pricing for various configurations a
 
 www.exoscale.com/calculator
 
-![image]({{< usestatic "pricing/calculator.png" >}})
+![calculator]({{< usestatic "pricing/calculator.png" >}})
