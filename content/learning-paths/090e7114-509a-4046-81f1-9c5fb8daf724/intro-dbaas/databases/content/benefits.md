@@ -9,7 +9,7 @@ weight: 6
 
 ### **Benefits of Databases**
 
-![db_icon_1]({{< usestatic "intro-dbaas/sec3_sub1_unit6_db_icon_1.png" >}}) 
+![db-icon-1]({{< usestatic "intro-dbaas/sec3_sub1_unit6_db_icon_1.png" >}}) 
 
 #### **Why use computerized Databases?**
 
@@ -23,7 +23,7 @@ Because it makes it easier to:
 
 If there are advantages, then there are also disadvantages, and to get a complete picture of the database situation, let us contrast them.
 
-![db_icon_2]({{< usestatic "intro-dbaas/sec3_sub1_unit6_db_icon_2.png" >}}) 
+![db-icon-2]({{< usestatic "intro-dbaas/sec3_sub1_unit6_db_icon_2.png" >}}) 
 
 #### **Advantages of Databases:**
 
@@ -36,7 +36,7 @@ If there are advantages, then there are also disadvantages, and to get a complet
 - Data Redundancy Controlling
 - Data Inconsistency Minimizing
 
-![db_icon_3]({{< usestatic "intro-dbaas/sec3_sub1_unit6_db_icon_3.png" >}})
+![db-icon-3]({{< usestatic "intro-dbaas/sec3_sub1_unit6_db_icon_3.png" >}})
 
 #### **Disadvantages of Databases:**
 

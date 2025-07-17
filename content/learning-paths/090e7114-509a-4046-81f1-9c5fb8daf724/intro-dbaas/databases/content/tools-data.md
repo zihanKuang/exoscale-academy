@@ -9,7 +9,7 @@ weight: 4
 
 ### **Tools for Data**
 
-![db_cloud]({{< usestatic "intro-dbaas/sec3_sub1_unit4_db_word_cloud.png" >}}) 
+![db-cloud]({{< usestatic "intro-dbaas/sec3_sub1_unit4_db_word_cloud.png" >}}) 
 
 *Database Word Cloud*
 

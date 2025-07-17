@@ -11,7 +11,7 @@ weight: 2
 
 Statista provides incredible insights into our world via the looking glass of statistics. The mind-boggling statistic about the created volume of data we make worldwide every year can be found just below this paragraph.
 
-![volume_of_data]({{< usestatic "intro-dbaas/sec3_sub1_unit2_volume_of_data.png" >}}) 
+![volume-of-data]({{< usestatic "intro-dbaas/sec3_sub1_unit2_volume_of_data.png" >}}) 
 
 You can quickly see that the amount of data we produce every year doubled, tripled, or even quadrupled in the last years. Depending on how many years you look back, the internet, the smartphone, social media, digital photography, digital music, digital films, and the Internet of Things, to name a few of the contributors to this enormous peak in the growth of data.
 
