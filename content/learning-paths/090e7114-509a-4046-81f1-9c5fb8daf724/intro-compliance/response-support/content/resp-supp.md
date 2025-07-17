@@ -27,7 +27,7 @@ Our experts will handle your problems and help you to run and scale production w
 
 Pick the most suitable option for your requirements.
 
-![rsponse-support]({{< usestatic "intro-compliance/sec3_sub7_unit1_response_support.png" >}})
+![rsponse-support]({{< usestatic "intro-compliance/response-support.png" >}})
 
 ### **Support Plans -** ***your success is our goal***
 

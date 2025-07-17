@@ -19,6 +19,6 @@ By extending the life of servers, organizations can save money on purchasing new
 
 However, it is essential to note that extending the lifespan of servers requires careful planning and management to ensure that they remain secure and reliable. Regular security updates and patches must be applied, and any hardware failures or issues must be addressed promptly to prevent downtime and data loss.
 
-![server-fleet]({{< usestatic "intro-compliance/sec3_sub4_unit3_extended_server_fleet.png" >}})
+![server-fleet]({{< usestatic "intro-compliance/extended-server-fleet.png" >}})
 
 

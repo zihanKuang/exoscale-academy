@@ -9,13 +9,13 @@ weight: 1
 
 ### **Overview**
 
-![contract-setup]({{< usestatic "intro-compliance/sec3_sub6_unit1_contractual_setup.png" >}})
+![contract-setup]({{< usestatic "intro-compliance/contractual-setup.png" >}})
 
 ### **Terms & Conditions - client and supplier relations**
 
 - Exoscale's Terms & Conditions - [exoscale.com/terms](https://www.exoscale.com/terms/)
 
-![terms-of-service]({{< usestatic "intro-compliance/sec3_sub6_unit1_terms_of_service.png" >}})
+![terms-of-service]({{< usestatic "intro-compliance/terms-of-service.png" >}})
 
 #### **T&C's Categories**
 
@@ -44,7 +44,7 @@ Exoscale collects only information you choose to give us and processes it with y
 
 Personal information is not sold to third parties and is used and processed as described on this page. Furthermore, we comply with the EU's Privacy Shield Framework and the General Data Protection Regulation (GDPR). As a result, we provide the same level of privacy protection regardless of your country of origin or location.
 
-![data-privacy]({{< usestatic "intro-compliance/sec3_sub6_unit1_data_privacy.png" >}})
+![data-privacy]({{< usestatic "intro-compliance/data-privacy.png" >}})
 
 ### **Jurisdiction -** ***laws and courts***
 
@@ -52,4 +52,4 @@ Personal information is not sold to third parties and is used and processed as d
 
 These Terms and Conditions and any Order shall be governed by the laws of Switzerland. The Parties irrevocably submit to the exclusive jurisdiction of the courts of the canton of Vaud, district of Lausanne. 
 
-![justice]({{< usestatic "intro-compliance/sec3_sub6_unit1_justicia2.png" >}})
+![justice]({{< usestatic "intro-compliance/justicia2.png" >}})

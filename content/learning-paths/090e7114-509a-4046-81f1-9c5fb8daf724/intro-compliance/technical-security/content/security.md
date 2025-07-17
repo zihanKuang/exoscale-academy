@@ -25,7 +25,7 @@ weight: 1
 - Network Redundancy
 - Power-Supply Redundancy
 
-![secure]({{< usestatic "intro-compliance/sec3_sub5_unit1_secure.png" >}})
+![secure]({{< usestatic "intro-compliance/secure.png" >}})
 
 ### **Protect - protected by default**
 
@@ -34,7 +34,7 @@ weight: 1
 - Secured Access Control Lists on all storage buckets
 - Included DDOS Protection of the network
 
-![protect]({{< usestatic "intro-compliance/sec3_sub5_unit1_protect.png" >}})
+![protect]({{< usestatic "intro-compliance/protect.png" >}})
 
 ### **Control - fine-grained access control**
 
@@ -44,7 +44,7 @@ weight: 1
 - Full IAM for all API calls
 - Audit Trail for all events
 
-![control]({{< usestatic "intro-compliance/sec3_sub5_unit1_control.png" >}})
+![control]({{< usestatic "intro-compliance/control.png" >}})
 
 ### **Secure Dev - world-class engineering**
 
@@ -52,7 +52,7 @@ weight: 1
 - Change Management
 - Secure Development Practices
 
-![secure-dev]({{< usestatic "intro-compliance/sec3_sub5_unit1_secure_dev.png" >}})
+![secure-dev]({{< usestatic "intro-compliance/secure-dev.png" >}})
 
 ### **Bug Bounty Program - crowdfunded security**
 
@@ -60,7 +60,7 @@ weight: 1
 - 300 active Researchers taking part in the program
 - **Bugcrowd** a crowdsourced security platform. It is one of the internet's largest bug bounty and vulnerability disclosure companies.
 
-![bug-bounty]({{< usestatic "intro-compliance/sec3_sub5_unit1_bug_bounty.png" >}})
+![bug-bounty]({{< usestatic "intro-compliance/bug-bounty.png" >}})
 
 ### **Regular Pentest - timeboxed assessments**
 
@@ -68,4 +68,4 @@ weight: 1
 - Performed by Third Parties
 - Full Product Coverage
 
-![regular-pentest]({{< usestatic "intro-compliance/sec3_sub5_unit1_regular_pentests.png" >}})
+![regular-pentest]({{< usestatic "intro-compliance/regular-pentests.png" >}})

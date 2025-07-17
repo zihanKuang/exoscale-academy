@@ -17,7 +17,7 @@ Here are five reasons why compliance is imperative for any business:
 - **Improving** internal processes
 - **Avoiding** fines and penalties
 
-![cloud]({{< usestatic "intro-compliance/sec3_sub1_unit2_money.png" >}}) 
+![cloud]({{< usestatic "intro-compliance/money.png" >}}) 
 
 #### **Enhancing customer trust**
 When customers know a company complies with the law and quality standards, they're more likely to trust the brand and purchase its products and services. This is possible because they understand that the law protects their interests and health, and the standards set by the company consider their preferences and expectations. Enhancing customer trust is one of the most important goals of an organization, as this can improve brand awareness and avoid complaints and product returns. This can help a business increase its revenue, improve its reputation, avoid adverse publicity, and expand its customer base.

@@ -19,6 +19,6 @@ High-density racks typically feature a more significant number of servers per ra
 
 The benefits of high-density rack design include increased computing power, reduced footprint and energy consumption, and lower overall costs. However, it also requires careful planning and maintenance to ensure that the equipment remains cool and functional and has good power and cooling infrastructure to support the higher density.
 
-![high-density-rack]({{< usestatic "intro-compliance/sec3_sub4_unit4_high_density_rack.png" >}})
+![high-density-rack]({{< usestatic "intro-compliance/high-density-rack.png" >}})
 
 

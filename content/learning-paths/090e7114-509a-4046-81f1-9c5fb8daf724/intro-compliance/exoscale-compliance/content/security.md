@@ -29,7 +29,7 @@ To maintain that documentation, **Exoscale has developed its security referentia
 
 This referential allows us to implement **a single set of security controls** while meeting all the requirements of the **targeted standards** and frameworks.
 
-![SCF-logo]({{< usestatic "intro-compliance/sec3_sub3_unit5_SCF_logo.png" >}}) 
+![SCF-logo]({{< usestatic "intro-compliance/SCF-logo.png" >}}) 
 
 #### **Our Security Control Domains**
 

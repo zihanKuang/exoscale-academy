@@ -24,6 +24,6 @@ Direct shipping can have a positive impact on sustainability in several ways:
 - **Efficient use of resources** - Direct shipping allows manufacturers and suppliers to be more efficient in using resources, as they can control the entire shipping process and optimize their operations accordingly.
 
 
-![direct-shipping]({{< usestatic "intro-compliance/sec3_sub4_unit6_direct_shipping.png" >}})
+![direct-shipping]({{< usestatic "intro-compliance/direct-shipping.png" >}})
 
 

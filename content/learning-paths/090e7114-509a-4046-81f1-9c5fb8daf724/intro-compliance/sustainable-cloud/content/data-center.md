@@ -13,6 +13,6 @@ At Exoscale, we understand that the physical infrastructure of our data centers 
 
 **By choosing Exoscale, you can be confident that your cloud computing needs are being met in a highly sustainable and reliable way.**
 
-![dc-sustainability]({{< usestatic "intro-compliance/sec3_sub4_unit7_dc_sustainability.png" >}})
+![dc-sustainability]({{< usestatic "intro-compliance/dc-sustainability.png" >}})
 
 

@@ -37,7 +37,7 @@ The LCA process consists of four phases:
 
 Overall, the LCA process provides a comprehensive approach to evaluating the environmental impact of products and services and can be used to inform decision-making and improve sustainability.
 
-![multi-criteria]({{< usestatic "intro-compliance/sec3_sub4_unit9_multi_criteria.png" >}})
+![multi-criteria]({{< usestatic "intro-compliance/multi-criteria.png" >}})
 
 ### **Certified Energy Management by 2024**
 
@@ -49,16 +49,16 @@ The goal of ISO 50001 is to help organizations reduce their energy consumption a
 
 ISO 50001 certification can benefit organizations, including improved energy efficiency, reduced energy costs, enhanced environmental performance, and increased competitiveness. It can also help organizations to comply with energy-related regulations and demonstrate their commitment to sustainability and corporate social responsibility.
 
-![energy-mgmt]({{< usestatic "intro-compliance/sec3_sub4_unit9_energy_mgmt.png" >}})
+![energy-mgmt]({{< usestatic "intro-compliance/energy-mgmt.png" >}})
 
 ### **Impact Calculator for Our Clients by 2024**
 
 Exoscale is committed to **providing** the necessary **information** and **tooling**, including an impact calculator, for our clients to make **quantifiable GreenOps decisions** about their cloud services' sustainability and environmental impact. Our goal is to launch this calculator **by 2024**.
 
-![impact-calculator]({{< usestatic "intro-compliance/sec3_sub4_unit9_impact_calculator.png" >}})
+![impact-calculator]({{< usestatic "intro-compliance/impact-calculator.png" >}})
 
 ### **100% Renewable Energy by 2025**
 
 Our locations in Germany and Switzerland are powered by 100% renewable energy, in Austria by 99%, and in Bulgaria by 45%. We are **committed to sourcing 100%** of our **energy from renewable sources** for all our locations **by 2025**.
 
-![renewable-energy]({{< usestatic "intro-compliance/sec3_sub4_unit9_renewable_energy.png" >}})
+![renewable-energy]({{< usestatic "intro-compliance/renewable-energy.png" >}})

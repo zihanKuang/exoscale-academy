@@ -19,6 +19,6 @@ Renewable energy technologies are becoming increasingly popular as the world see
 
 Examples of renewable energy technologies include solar panels, wind turbines, hydroelectric power plants, geothermal power plants, and biomass energy systems. These technologies generate electricity and heat without producing greenhouse gas emissions, which makes them a cleaner and more sustainable option for powering homes, businesses, and communities.
 
-![renewable-energy]({{< usestatic "intro-compliance/sec3_sub4_unit2_renewable_energy.png" >}})
+![renewable-energy]({{< usestatic "intro-compliance/renewable-energy.png" >}})
 
 

@@ -36,6 +36,6 @@ As a public cloud provider, **we are responsible** for **operating** in an **env
 - Impact Calculator for Our Clients by 2024
 - 100% Renewable Energy by 2025
 
-![sustainable-cloud]({{< usestatic "intro-compliance/sec3_sub4_unit1_sustainable_cloud.png" >}})
+![sustainable-cloud]({{< usestatic "intro-compliance/sustainable-cloud.png" >}})
 
 

@@ -15,4 +15,4 @@ weight: 1
 
 
 
-![justificial]({{< usestatic "intro-compliance/sec3_sub1_unit1_justicia1.png" >}}) 
+![justificia]({{< usestatic "intro-compliance/justicia1.png" >}}) 
