@@ -14,7 +14,7 @@ It is a form of secondary storage where users can save their files on remote ser
 
 This approach simplifies data management, enhances data security, and promotes collaboration through shared access to files among users.
 
-![storage]({{< usestatic "intro-storage/sec3_sub2_unit1_cloud_storage.png" >}})
+![storage]({{< usestatic "intro-storage/sec3-sub2-unit1-cloud-storage.png" >}})
 
 ### **Benefits**
 

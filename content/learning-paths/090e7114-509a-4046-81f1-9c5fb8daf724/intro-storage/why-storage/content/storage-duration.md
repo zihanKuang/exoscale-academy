@@ -12,7 +12,7 @@ Storage Duration or Data Retention refers to the period of time that data is sto
 
 Data retention policies are typically defined by organizations to determine how long different types of data should be retained. These policies are influenced by various factors, including legal requirements, industry regulations, business needs, and data management best practices.
 
-![storage]({{< usestatic "intro-storage/sec3_sub1_unit3_duration.jpg" >}})
+![storage]({{< usestatic "intro-storage/sec3-sub1-unit3-duration.jpg" >}})
 
 The purpose of data retention is to ensure that data is available for future use, analysis, compliance, or reference. It helps organizations meet legal and regulatory obligations, support business operations, facilitate data analysis and reporting, and address potential disputes or investigations.
 
