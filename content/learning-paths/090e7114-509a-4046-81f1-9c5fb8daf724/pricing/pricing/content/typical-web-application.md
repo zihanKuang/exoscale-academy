@@ -33,7 +33,7 @@ in v2 is used as a simple load balancer in this scenario that distributes traffi
 #### **Exoscale DNS**
 responsible for resolving the service domain name (example.com).
 
-![image]({{< usestatic "pricing/pricing.png" >}})
+![pricing]({{< usestatic "pricing/pricing.png" >}})
 
 {{< card 
 title="Video: Containers">}}
