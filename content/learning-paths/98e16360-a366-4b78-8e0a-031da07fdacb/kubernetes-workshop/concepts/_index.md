@@ -3,9 +3,8 @@ docType: "Course"
 title: "Concepts"
 description: "Kubernetes Basic Concepts"
 courseTitle: "Concepts"
-themeColor: "#3C494F"
 weight: 1
-cardImage: ""
+banner: "/images/learning-path/kubernetes-icon.svg"
 ---
 
 ## History
