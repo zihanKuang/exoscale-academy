@@ -2,7 +2,6 @@
 docType: "Chapter"
 title: "Learn"
 courseTitle: "Deployment"
-themeColor: "#3C494F"
 weight: 2
 ---
 
