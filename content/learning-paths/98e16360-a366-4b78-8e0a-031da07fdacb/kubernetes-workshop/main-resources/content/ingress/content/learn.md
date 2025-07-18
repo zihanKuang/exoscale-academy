@@ -4,7 +4,6 @@ title: "Learn"
 courseTitle: "Ingress"
 themeColor: "#3C494F"
 weight: 2
-cardImage: ""
 ---
 
 ## What is an Ingress ?
