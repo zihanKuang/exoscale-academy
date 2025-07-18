@@ -2,9 +2,7 @@
 docType: "Chapter"
 title: "Practice"
 courseTitle: "Storage"
-themeColor: "#3C494F"
 weight: 4
-cardImage: ""
 ---
 
 ## Persist the VotingApp's databases

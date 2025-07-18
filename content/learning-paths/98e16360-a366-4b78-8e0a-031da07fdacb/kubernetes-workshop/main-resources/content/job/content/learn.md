@@ -3,9 +3,7 @@ docType: "Chapter"
 title: "Learn"
 lectures: 1
 courseTitle: "Jobs & CronJobs"
-themeColor: "#3C494F"
 weight: 2
-cardImage: ""
 ---
 
 ## What is a Job ?

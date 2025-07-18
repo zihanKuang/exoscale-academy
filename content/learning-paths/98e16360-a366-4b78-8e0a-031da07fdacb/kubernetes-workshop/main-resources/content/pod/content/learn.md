@@ -2,9 +2,7 @@
 docType: "Chapter"
 title: "Learn"
 courseTitle: "Pod"
-themeColor: "#3C494F"
 weight: 2
-cardImage: ""
 ---
 
 ## What is a Pod ?

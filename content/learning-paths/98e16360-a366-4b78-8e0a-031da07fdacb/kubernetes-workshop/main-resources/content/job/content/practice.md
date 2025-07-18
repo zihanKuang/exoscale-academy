@@ -2,9 +2,7 @@
 docType: "Chapter"
 title: "Practice"
 courseTitle: "Jobs & CronJobs"
-themeColor: "#3C494F"
 weight: 2
-cardImage: ""
 ---
 
 ## Use a CronJob to create dummy votes

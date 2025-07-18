@@ -2,9 +2,7 @@
 docType: "Chapter"
 title: "Practice"
 courseTitle: "Pod"
-themeColor: "#3C494F"
 weight: 4
-cardImage: ""
 ---
 
 ## Run the VotingApp in Pods

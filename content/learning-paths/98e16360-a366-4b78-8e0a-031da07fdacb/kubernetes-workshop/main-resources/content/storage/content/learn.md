@@ -2,9 +2,7 @@
 docType: "Chapter"
 title: "Learn"
 courseTitle: "Storage"
-themeColor: "#3C494F"
 weight: 2
-cardImage: ""
 ---
 
 ## Storage in Kubernetes

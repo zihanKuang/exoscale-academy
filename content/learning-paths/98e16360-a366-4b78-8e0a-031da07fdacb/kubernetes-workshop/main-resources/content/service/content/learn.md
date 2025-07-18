@@ -2,9 +2,7 @@
 docType: "Chapter"
 title: "Learn"
 courseTitle: "Service"
-themeColor: "#3C494F"
 weight: 4
-cardImage: ""
 ---
 
 ## What is a Service ?

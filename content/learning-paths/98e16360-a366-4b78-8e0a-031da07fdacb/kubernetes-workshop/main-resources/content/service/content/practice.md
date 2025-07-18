@@ -2,9 +2,7 @@
 docType: "Chapter"
 title: "Practice"
 courseTitle: "Service"
-themeColor: "#3C494F"
 weight: 4
-cardImage: ""
 ---
 
 ## Add Services to the VotingApp
