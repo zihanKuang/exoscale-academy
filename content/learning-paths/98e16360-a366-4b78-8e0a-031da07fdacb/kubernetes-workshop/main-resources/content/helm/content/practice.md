@@ -3,7 +3,6 @@ docType: "Chapter"
 title: "Practice"
 courseTitle: "Helm"
 weight: 2
-cardImage: ""
 ---
 ## Package and distribute the VotingApp with Helm
 
