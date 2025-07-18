@@ -3,7 +3,6 @@ docType: "Chapter"
 title: "Practice"
 courseTitle: "Configuration"
 weight: 4
-cardImage: ""
 ---
 
 
