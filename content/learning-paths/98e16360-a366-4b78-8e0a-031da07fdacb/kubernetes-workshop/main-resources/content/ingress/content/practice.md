@@ -3,7 +3,6 @@ docType: "Chapter"
 title: "Practice"
 courseTitle: "Ingress"
 weight: 2
-cardImage: ""
 ---
 
 ## Expose the VotingApp with an Ingress resource
