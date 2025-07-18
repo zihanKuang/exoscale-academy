@@ -5,7 +5,7 @@ description: "Create Local kubernetes cluster"
 courseTitle: "Creation of a local cluster"
 themeColor: "#3C494F"
 weight: 1
-cardImage: ""
+banner: "/images/learning-path/kubernetes-icon.svg"
 
 ---
 
