@@ -3,7 +3,6 @@ docType: "Course"
 title: "Creation of a local cluster"
 description: "Create Local kubernetes cluster"
 courseTitle: "Creation of a local cluster"
-themeColor: "#3C494F"
 weight: 1
 banner: "/images/learning-path/kubernetes-icon.svg"
 
