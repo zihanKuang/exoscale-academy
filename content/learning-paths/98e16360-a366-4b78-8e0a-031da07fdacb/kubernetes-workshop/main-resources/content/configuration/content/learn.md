@@ -3,7 +3,6 @@ docType: "Chapter"
 title: "Learn"
 courseTitle: "Configuration"
 weight: 2
-cardImage: ""
 ---
 
 ## Configuration resources
