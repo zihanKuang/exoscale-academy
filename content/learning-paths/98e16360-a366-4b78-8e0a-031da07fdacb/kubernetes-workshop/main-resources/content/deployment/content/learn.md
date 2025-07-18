@@ -4,7 +4,6 @@ title: "Learn"
 courseTitle: "Deployment"
 themeColor: "#3C494F"
 weight: 2
-cardImage: ""
 ---
 
 ## What is a Deployment ?
