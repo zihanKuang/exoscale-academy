@@ -2,7 +2,6 @@
 docType: "Chapter"
 title: "Practice"
 courseTitle: "Configuration"
-themeColor: "#3C494F"
 weight: 4
 cardImage: ""
 ---
