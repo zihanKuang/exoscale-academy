@@ -4,7 +4,6 @@ title: "Learn"
 courseTitle: "Helm"
 themeColor: "#3C494F"
 weight: 2
-cardImage: ""
 ---
 
 ## What is Helm ?
