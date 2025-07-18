@@ -8,9 +8,9 @@ weight: 3
 ---
 
 
-### **Framework**
+### Framework
 
-#### **TISAX (Trusted Information Security Assessment Exchange)**
+#### TISAX (Trusted Information Security Assessment Exchange)
 
 *Is a certification designed for the automotive industry's assessment and exchange mechanism of information security.*
 
@@ -22,7 +22,7 @@ TISAX assessments cover various information security topics, including access co
 
 TISAX certification is becoming increasingly important for companies that supply products or services to the automotive industry, as it demonstrates a commitment to information security and provides a competitive advantage in the marketplace.
 
-#### **HDS (Health Data Hosting)**
+#### HDS (Health Data Hosting)
 
 *Is a certification designed to reinforce personal health data protection and build a trustworthy environment around eHealth and patient monitoring.*
 
@@ -40,7 +40,7 @@ Under the HDS framework, healthcare data must be stored and processed in complia
 
 Failure to comply with HDS requirements can result in significant penalties and fines. As such, healthcare data hosting providers in France must take HDS compliance very seriously and implement robust security and privacy measures to protect personal health data.
 
-#### **FINMA (Swiss Financial Market Supervisory Authority)**
+#### FINMA (Swiss Financial Market Supervisory Authority)
 
 *Is a government financial regulation for supervising banks, insurance companies, stock exchanges, securities dealers, and other financial intermediaries in Switzerland.*
 

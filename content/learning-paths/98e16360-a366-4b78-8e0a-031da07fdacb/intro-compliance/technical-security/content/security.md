@@ -7,7 +7,7 @@ title: "Technical Security"
 weight: 1
 ---
 
-### **Overview**
+### Overview
 
 - Secure
 - Protect
@@ -18,7 +18,7 @@ weight: 1
 
 ![technical-security]({{< usestatic "intro-compliance/sec3_sub5_unit1_technical_security.png" >}})
 
-### **Secure - secured by default**
+### Secure - secured by default
 
 - Secure Code
 - Data Center Redundancy
@@ -27,7 +27,7 @@ weight: 1
 
 ![secure]({{< usestatic "intro-compliance/secure.png" >}})
 
-### **Protect - protected by default**
+### Protect - protected by default
 
 - Instances and Security Groups are closed by default
 - Databases fully encrypted and filtered by default
@@ -36,7 +36,7 @@ weight: 1
 
 ![protect]({{< usestatic "intro-compliance/protect.png" >}})
 
-### **Control - fine-grained access control**
+### Control - fine-grained access control
 
 - Role-Based Access Control to Exoscale organizations
 - Two-Factor Authentication supported
@@ -46,7 +46,7 @@ weight: 1
 
 ![control]({{< usestatic "intro-compliance/control.png" >}})
 
-### **Secure Dev - world-class engineering**
+### Secure Dev - world-class engineering
 
 - Code Review
 - Change Management
@@ -54,7 +54,7 @@ weight: 1
 
 ![secure-dev]({{< usestatic "intro-compliance/secure-dev.png" >}})
 
-### **Bug Bounty Program - crowdfunded security**
+### Bug Bounty Program - crowdfunded security
 
 - Competitive Bounties
 - 300 active Researchers taking part in the program
@@ -62,7 +62,7 @@ weight: 1
 
 ![bug-bounty]({{< usestatic "intro-compliance/bug-bounty.png" >}})
 
-### **Regular Pentest - timeboxed assessments**
+### Regular Pentest - timeboxed assessments
 
 - Annual Pentest
 - Performed by Third Parties

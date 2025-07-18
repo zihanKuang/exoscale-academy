@@ -7,7 +7,7 @@ title: "Risk Assessment"
 weight: 4
 ---
 
-### **Framework**
+### Framework
 
 Understanding the risks that could significantly impact the organization and its ability to achieve its objectives is critical.
 
@@ -17,7 +17,7 @@ Risks are typically grouped into three categories:
 - Compliance Risks
 - Operational Risks
 
-#### **Business Risks**
+#### Business Risks
 
 that could impact the organization's ability to achieve its objectives, for example, a natural disaster disrupting operations.
 
@@ -25,7 +25,7 @@ Business risk refers to the potential for financial loss or other negative conse
 
 ![bussiness]({{< usestatic "intro-compliance/business.png" >}}) 
 
-#### **Compliance Risks**
+#### Compliance Risks
 
 that could lead to non-compliance with legal or regulatory requirements, for example, a data breach that leads to a fine from a data privacy regulatory body.
 
@@ -33,10 +33,10 @@ Compliance risk is the potential for financial loss or legal penalties arising f
 
 ![risk-compliance]({{< usestatic "intro-compliance/risk-compliance.png" >}}) 
 
-#### **Operational Risks**
+#### Operational Risks
 
 that could impact day-to-day operations, for example, a system failure that disrupts business processes.
 
 Operational risk is the potential for financial loss or other negative consequences arising from a company's internal processes, systems, or human error. This can include risks related to technology failures, supply chain disruptions, employee misconduct, fraud, and other operational issues that can impact a company's ability to conduct business effectively. Operational risks can also arise from external events, such as natural disasters or cyberattacks. Practical risk assessment and management strategies can help enterprises to identify and mitigate potential operational risks, improve processes and systems, and minimize the potential for financial losses or other negative impacts.
 
-![operational risk]({{< usestatic "intro-compliance/risk-operational.png" >}}) 
+![operational-risk]({{< usestatic "intro-compliance/risk-operational.png" >}}) 

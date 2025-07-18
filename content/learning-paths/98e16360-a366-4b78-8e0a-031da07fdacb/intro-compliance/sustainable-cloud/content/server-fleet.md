@@ -7,11 +7,11 @@ title: "Extended Server Fleet Life"
 weight: 3
 ---
 
-### **Overview**
+### Overview
 
 The average age of our server fleet is over three years old, and we have **a program** in place **to repurpose** older servers for non-customer-facing workloads to keep them in **use as long** as they are **practical**.
 
-### **Benefits**
+### Benefits
 
 Extended Server Fleet Life refers to extending the lifespan of servers in a data center beyond their original expected lifespan. This is achieved by implementing regular maintenance, upgrades, and optimization measures to ensure that the servers continue operating efficiently and effectively.
 

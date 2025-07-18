@@ -7,7 +7,7 @@ title: "Response & Support"
 weight: 1
 ---
 
-### **Overview**
+### Overview
 
 At our cloud platform, we understand that running operations can be a challenging task. That's why we offer hands-on, direct contact with experienced engineers who power our cloud platform. In addition, we believe in building solid relationships with our customers and providing them with the support they need to succeed.
 
@@ -15,25 +15,25 @@ Whether you're a small business or a large enterprise, we care about your succes
 
 We are committed to building long-term relationships with our customers and helping them grow their businesses. We aim to provide a reliable, secure, and scalable cloud platform that meets the needs of companies of all sizes. With our hands-on, direct contact approach, you can be confident that you have a trusted partner invested in your success.
 
-#### **Free support included**
+#### Free support included
 
 Free customer support is included. Just open and track tickets in the portal.
 
-#### **Access to our engineers**
+#### Access to our engineers
 
 Our experts will handle your problems and help you to run and scale production workloads.
 
-#### **Choose your plan**
+#### Choose your plan
 
 Pick the most suitable option for your requirements.
 
 ![rsponse-support]({{< usestatic "intro-compliance/response-support.png" >}})
 
-### **Support Plans -** ***your success is our goal***
+### Support Plans - *your success is our goal*
 
 Hands-on, direct contact with the engineers powering our cloud platform. We know running operations is challenging. We care about you no matter what size your company is.
 
-#### **Available Support Plans**
+#### Available Support Plans
 
 - **Built-In** - included for all customers. Perfect for testers, developers, and non-critical applications.
 - **Starter** - for startups and SMEs running production infrastructures. Everything from Built-In, the four-hour guaranteed response time, additional authentication options, and detailed usage reporting.

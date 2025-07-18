@@ -8,7 +8,7 @@ weight: 2
 ---
 
 
-### **Definition**
+### Definition
 
 Cloud Compliance is the art and science of complying with regulatory standards of cloud usage following industry guidelines and local, national, and international laws, like:
 
@@ -20,7 +20,7 @@ Cloud Compliance is the art and science of complying with regulatory standards o
 
 However, they all share a unified goal: **keeping sensitive data secure.**
 
-### **Security is a Shared Responsibility**
+### Security is a Shared Responsibility
 
 Cloud involves infrastructure the organization doesn't own and manage. Hence, many **organizations share responsibility with cloud providers** for access control.
 
@@ -35,7 +35,8 @@ This partnership is often described as:
 - cloud provider is responsible for the security of the cloud
 - organization is responsible for the access to its resources in the cloud
 
-### **Demystifying Acronyms**
+### Demystifying Acronyms
+
 If you dive into the realm of compliance, you stumble upon an endless number of acronyms related to standards and compliance frameworks; here is a list of the most often encounters depending on your geography:
 
 - **HIPAA** ... Health Insurance Portability and Accountability Act - mandates the security of electronic healthcare information, confidentiality and privacy of health-related information, and information access for insurance.

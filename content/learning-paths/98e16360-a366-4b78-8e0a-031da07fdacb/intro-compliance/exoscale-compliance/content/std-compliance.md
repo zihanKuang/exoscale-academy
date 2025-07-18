@@ -7,15 +7,15 @@ title: "Standard Compliance"
 weight: 2
 ---
 
-### **Framework**
+### Framework
 
-#### **ISO 27001**
+#### ISO 27001
 
 *Information Security Management specifies a set of requirements that helps organizations manage their assets' security.*
 
 ISO 27001 is a globally recognized standard for information security management. It provides a framework for managing and protecting sensitive information assets like customer data, financial information, and intellectual property. The standard outlines a systematic approach to managing information security risks, including risk assessment, risk treatment, and continuous monitoring and improvement. Organizations that implement ISO 27001 can demonstrate to customers, partners, and regulators that they have a robust information security management system in place. The standard covers many security controls, including physical security, access controls, network security, and incident management.
 
-#### **ISO 27017**
+#### ISO 27017
 
 *Information Security Controls for cloud services is a code of practice that provides guidelines on managing information security controls.*
 
@@ -25,7 +25,7 @@ ISO 27017 covers a range of essential security controls for cloud service provid
 
 By implementing ISO 27017, cloud service providers can demonstrate to their customers that they have implemented adequate security controls to protect their data and systems in the cloud. It can also help cloud service providers comply with regulatory requirements related to data protection and privacy.
 
-#### **ISO 27018**
+#### ISO 27018
 
 *Personally Identifiable Information (PII) protection is a code of practice that helps secure PII for the public cloud computing environment.*
 
@@ -35,7 +35,7 @@ ISO 27018 covers a range of security controls necessary for cloud service provid
 
 By implementing ISO 27018, cloud service providers can demonstrate to their customers that they have implemented adequate security controls to protect their PII in the cloud. It can also help cloud service providers comply with regulatory requirements related to data protection and privacy, such as the European Union's General Data Protection Regulation (GDPR).
 
-#### **SOC 2**
+#### SOC 2
 
 *Design, implement, and operate controls to meet security, availability, processing integrity, confidentiality, and privacy objectives.*
 
@@ -45,7 +45,7 @@ SOC 2 audits evaluate a service organization's data security and privacy control
 
 The SOC 2 report provides a detailed description of the service organization's controls and includes an opinion from the auditor on the effectiveness of those controls. Service organizations often use it to demonstrate to their customers that they have implemented adequate security and privacy controls and to provide assurance that their systems and data are protected.
 
-#### **CSA STAR**
+#### CSA STAR
 
 *Is a third-party independent, technology-neutral assessment and certification of the security of a cloud service provider.*
 
@@ -55,7 +55,7 @@ The CSA STAR program provides a comprehensive set of criteria for assessing the 
 
 By participating in the CSA STAR program, cloud service providers can demonstrate to their customers and partners that they have implemented adequate security and compliance controls and have undergone an independent assessment of their security and compliance capabilities. This can increase transparency and trust in cloud services and give customers the information they need to make informed decisions about cloud service providers.
 
-#### **C5**
+#### C5
 
 *Is a cloud computing compliance criteria catalog (C5) to define a baseline security level for cloud computing.*
 

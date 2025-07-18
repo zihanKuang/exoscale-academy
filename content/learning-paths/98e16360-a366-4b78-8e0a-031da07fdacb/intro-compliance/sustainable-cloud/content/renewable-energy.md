@@ -7,11 +7,11 @@ title: "Renewable Energy"
 weight: 2
 ---
 
-### **Overview**
+### Overview
 
 Currently, **90%** of **our electricity** comes **from renewable energy** sources. This is a significant accomplishment demonstrating our commitment to **reducing** our **carbon footprint** and sourcing energy from environmentally responsible sources.
 
-### **Benefits**
+### Benefits
 
 Renewable energy refers to the energy generated from natural resources that can be replenished relatively quickly. These resources include sunlight, wind, water, geothermal heat, and biomass. Unlike finite fossil fuels, which will eventually run out, renewable energy sources are sustainable and can be used indefinitely without depleting the resource.
 

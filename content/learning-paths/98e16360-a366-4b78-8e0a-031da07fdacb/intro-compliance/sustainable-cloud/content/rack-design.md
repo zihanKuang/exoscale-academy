@@ -7,11 +7,11 @@ title: "High-Density Rack Design"
 weight: 4
 ---
 
-### **Overview**
+### Overview
 
 By packing more servers and other equipment into high-density racks, **Exoscale reduces** its **overall data center footprint** and the associated costs of building and maintaining a larger facility. In addition, smaller data centers require less energy to power and cool.
 
-### **Benefits**
+### Benefits
 
 The high-density rack design is an approach to the layout and organization of server racks in a data center that maximizes the computing power that can be packed into a given space. This is achieved through specialized equipment and techniques for greater power and cooling efficiency, better cable management, and airflow.
 

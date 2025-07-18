@@ -7,7 +7,7 @@ title: "Compliance Security"
 weight: 5
 ---
 
-### **Security Referential**
+### Security Referential
 
 **Organizations** can **need help maintaining** an ever-growing number of **compliance standards** and security frameworks.
 
@@ -17,13 +17,13 @@ The Security Referential is a set of standards and best practices that we follow
 
 The Security Referential is based on industry standards and is regularly updated to address new security threats and vulnerabilities. Customers can use the Security Referential as a reference for their security needs and compliance requirements.
 
-### **Certified Security**
+### Certified Security
 
 The **security of your data is our highest priority**, and we work hard to ensure that our platform meets the highest security standards.
 
 We believe trust is essential. Therefore, **we regularly undergo third-party audits** to help you meet your compliance obligations.
 
-### **Secure Control Framework**
+### Secure Control Framework
 
 To maintain that documentation, **Exoscale has developed its security referential** based on the 32 Control Domains of the SCF framework.
 
@@ -31,7 +31,7 @@ This referential allows us to implement **a single set of security controls** wh
 
 ![SCF-logo]({{< usestatic "intro-compliance/SCF-logo.png" >}}) 
 
-#### **Our Security Control Domains**
+#### Our Security Control Domains
 
 1. Security & Privacy Governance
 1. Asset Management

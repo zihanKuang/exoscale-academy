@@ -7,13 +7,13 @@ title: "Data Center"
 weight: 6
 ---
 
-### **Locations**
+### Locations
 
 All **Exoscale zones** are hosted **in** carefully selected **state-of-the-art data centers**. 
 
 ![dc-location]({{< usestatic "intro-compliance/dc-location.png" >}}) 
 
-### **Certifications**
+### Certifications
 
 Data centers must **pass stringent** criteria defined in our requirements, including various **security and quality certifications**.
 

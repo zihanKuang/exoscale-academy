@@ -7,14 +7,14 @@ title: "Exoscale's Goals"
 weight: 8
 ---
 
-### **Overview**
+### Overview
 
 - Multi-Criteria Life Cycle Assessment by 2023
 - Certified Energy Management by 2024
 - Impact Calculator for Our Clients by 2024
 - 100% Renewable Energy by 2025
 
-### **Multi-Criteria Life Cycle Assessment by 2023**
+### Multi-Criteria Life Cycle Assessment by 2023
 
 Exoscale is committed to conducting a **life cycle assessment** of our products and services under ISO 14040. This analysis will **show our** products and services **environmental impact** throughout their life cycle, from raw materials to disposal. We aim to complete this analysis **by** the end of **2023**.
 
@@ -39,7 +39,7 @@ Overall, the LCA process provides a comprehensive approach to evaluating the env
 
 ![multi-criteria]({{< usestatic "intro-compliance/multi-criteria.png" >}})
 
-### **Certified Energy Management by 2024**
+### Certified Energy Management by 2024
 
 Exoscale is in the process of implementing an **ISO 50001 Energy Management System** (EnMS). This standard provides a framework for managing organizations' energy efficiency, reducing energy costs, and minimizing environmental impact. Our goal is to **complete** an **audit** against this standard **by 2024**.
 
@@ -51,13 +51,13 @@ ISO 50001 certification can benefit organizations, including improved energy eff
 
 ![energy-mgmt]({{< usestatic "intro-compliance/energy-mgmt.png" >}})
 
-### **Impact Calculator for Our Clients by 2024**
+### Impact Calculator for Our Clients by 2024
 
 Exoscale is committed to **providing** the necessary **information** and **tooling**, including an impact calculator, for our clients to make **quantifiable GreenOps decisions** about their cloud services' sustainability and environmental impact. Our goal is to launch this calculator **by 2024**.
 
 ![impact-calculator]({{< usestatic "intro-compliance/impact-calculator.png" >}})
 
-### **100% Renewable Energy by 2025**
+### 100% Renewable Energy by 2025
 
 Our locations in Germany and Switzerland are powered by 100% renewable energy, in Austria by 99%, and in Bulgaria by 45%. We are **committed to sourcing 100%** of our **energy from renewable sources** for all our locations **by 2025**.
 
