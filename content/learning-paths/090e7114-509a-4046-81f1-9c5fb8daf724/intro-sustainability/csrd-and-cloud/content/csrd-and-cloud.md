@@ -12,7 +12,7 @@ weight: 2
 Incorporating cloud computing into the Corporate Sustainability Reporting Directive (CSRD) context represents a strategic alignment between technological innovation and sustainable business practices. The role of cloud computing in the context of the CSRD can be significant for several reasons.
 
 
-![image]({{< usestatic "sks-advance/sec3-sub4-unit1-csrd-cloud-1.jpg" >}})
+![image]({{< usestatic "intro-sustainability/sec3-sub4-unit1-csrd-cloud-1.jpg" >}})
 
 ### Reasons
 

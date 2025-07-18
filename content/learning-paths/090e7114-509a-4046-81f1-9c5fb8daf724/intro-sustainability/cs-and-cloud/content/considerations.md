@@ -4,7 +4,7 @@ id: "Considerations"
 chapterTitle: "Considerations"
 description: ""
 title: "Considerations"
-weight: 2
+weight: 3
 ---
 
 ### Checkpoints

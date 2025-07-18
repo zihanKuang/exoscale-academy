@@ -1,9 +1,8 @@
 ---
-title: "CSRD & Providers"
+title: "CSRD & Exoscale"
 description: ""
 themeColor: "#3C494F"
 cardImage: ""
-weight: 5
+weight: 6
 ---
-
 

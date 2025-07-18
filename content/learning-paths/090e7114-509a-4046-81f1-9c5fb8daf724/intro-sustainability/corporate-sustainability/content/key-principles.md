@@ -4,17 +4,17 @@ id: "Key Principles"
 chapterTitle: "Key Principles"
 description: ""
 title: "Key Principles"
-weight: 3
+weight: 2
 ---
 
-### **Overview**
+### Overview
 
 - Stakeholder Engagement
 - Environmental Responsibility
 - Social Equity and Ethics
 - Economic Viability
 
-### **Stakeholder Engagement**
+### Stakeholder Engagement
 
 - Sustainable Businesses
 - Stakeholder Involvement
@@ -24,7 +24,7 @@ weight: 3
 
 A sustainable business doesn't just involve stakeholders, it values them. It actively engages them in dialogue and decision-making processes related to sustainability issues that affect them. This includes investors, employees, customers, suppliers, communities, and regulators, recognizing their integral role in the sustainability journey.
 
-### **Environmental Responsibility**
+### Environmental Responsibility
 
 - Energy Efficiency
 - Resource Conservation
@@ -34,7 +34,7 @@ A sustainable business doesn't just involve stakeholders, it values them. It act
 
 Companies adopt practices that promote environmental stewardship, conservation, and sustainability, aiming to reduce their carbon footprint, enhance energy efficiency, minimize waste, and conserve resources.
 
-### **Social Equity and Ethics**
+### Social Equity and Ethics
 
 - Diversity and Inclusion
 - Community Engagement
@@ -44,7 +44,7 @@ Companies adopt practices that promote environmental stewardship, conservation, 
 
 Fostering fair treatment, respect, and ethical practices for all stakeholders, including employees, customers, communities, and suppliers. This involves addressing issues like labor rights, fair trade, diversity, inclusion, and community engagement.
 
-### **Economic Viability**
+### Economic Viability
 
 - Sustainability
 - Long-term Value

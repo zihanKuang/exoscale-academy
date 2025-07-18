@@ -4,7 +4,7 @@ id: "Deinition"
 chapterTitle: "Deinition"
 description: ""
 title: "Deinition"
-weight: 1
+weight: 2
 ---
 
 

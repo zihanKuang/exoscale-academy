@@ -3,5 +3,5 @@ title: "CSRD"
 description: ""
 themeColor: "#3C494F"
 cardImage: ""
-weight: 1
+weight: 3
 ---

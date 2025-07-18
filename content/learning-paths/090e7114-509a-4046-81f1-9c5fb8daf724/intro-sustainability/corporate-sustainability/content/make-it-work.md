@@ -4,10 +4,10 @@ id: "Make it Work"
 chapterTitle: "Make it Work"
 description: ""
 title: "Make it Work"
-weight: 3
+weight: 5
 ---
 
-### **Described**
+### Described
 
 - Accountability
 - Standards and Frameworks
@@ -17,7 +17,7 @@ weight: 3
 
 Reporting sustainability performance and strategies is vital for accountability and transparency. Tools like the Global Reporting Initiative (GRI) and Sustainable Accounting Standards Board (SASB) and frameworks like the EU Corporate Sustainability Reporting Directive (CSRD) set standards for reporting on environmental, social, and governance (ESG) criteria.
 
-### **7 Factors to Make it Work!**
+### 7 Factors to Make it Work!
 
 - **Leadership commitment**: A firm commitment from top management is essential to prioritizing sustainability goals and driving change throughout the organization.
 

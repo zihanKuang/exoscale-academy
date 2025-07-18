@@ -4,7 +4,7 @@ id: "Challenges"
 chapterTitle: "Challenges"
 description: ""
 title: "Challenges"
-weight: 3
+weight: 4
 ---
 
 ### **Watch out!**

@@ -4,7 +4,7 @@ id: "CS & Cloud"
 chapterTitle: "CS & Cloud"
 description: ""
 title: "CS & Cloud"
-weight: 2
+weight: 1
 ---
 
 ### Explained

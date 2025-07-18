@@ -1,7 +1,7 @@
 ---
 title: "CSRD & Cloud"
-description: "CSRD & Cloud"
+description: ""
 themeColor: "#3C494F"
 cardImage: ""
-weight: 2
+weight: 4
 ---

@@ -4,7 +4,7 @@ id: "Aspects"
 chapterTitle: "Aspects"
 description: ""
 title: "Aspects"
-weight: 1
+weight: 3
 ---
 
 ### EU CSRD

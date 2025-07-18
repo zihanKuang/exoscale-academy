@@ -4,7 +4,7 @@ id: "Conclusion"
 chapterTitle: "Conclusion"
 description: ""
 title: "Conclusion"
-weight: 2
+weight: 4
 ---
 
 ### Summary
@@ -12,7 +12,7 @@ weight: 2
 Cloud computing offers an array of opportunities for organizations to enhance their sustainability practices and reduce their environmental footprint. Companies must choose cloud solutions that align best with their sustainability goals!
 
 
-![image]({{< usestatic "sks-advance/sec3-sub2-unit4-sus101-con.png" >}})
+![image]({{< usestatic "intro-sustainability/sec3-sub2-unit4-sus101-con.png" >}})
 
 Incorporating cloud computing into the corporate sustainability strategy can offer significant environmental benefits, driving efficiencies, reducing waste, and minimizing carbon footprints.
 

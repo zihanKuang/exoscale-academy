@@ -4,10 +4,10 @@ id: "Corporate Sustainability (CS)"
 chapterTitle: "Corporate Sustainability (CS)"
 description: ""
 title: "Corporate Sustainability (CS)"
-weight: 3
+weight: 1
 ---
 
-### **Why?**
+### Why?
 
 - Long-term Viability: Businesses prioritizing sustainability are better equipped to navigate the risks associated with resource scarcity, climate change, and evolving regulatory landscapes. A sustainable approach helps ensure long-term viability in a rapidly changing world.
 
@@ -23,7 +23,7 @@ weight: 3
 
 ![sustainability]({{< usestatic "intro-sustainability/sec3-sub1-unit1-cs-1.png" >}})
 
-### **Definition**
+### Definition
 
 Corporate Sustainability is a way of doing business that focuses on creating value for everyone involved, not just short-term profits. This holistic approach recognizes the interdependence of companies with societal and ecological systems.
 
