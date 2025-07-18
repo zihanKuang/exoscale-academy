@@ -3,7 +3,6 @@ docType: "Chapter"
 title: "Practice"
 courseTitle: "Deployment"
 weight: 2
-cardImage: ""
 ---
 
 ## Use Deployments in the VotingApp
