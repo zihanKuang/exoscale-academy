@@ -1,8 +1,5 @@
 ---
 title: "Advanced"
-description: "This Course is where you learn some Advanced concept"
-themeColor: "#3C494F"
-cardImage: ""
+description: "This Course is where you learn some Advanced concept""
 weight: 4
 ---
-
