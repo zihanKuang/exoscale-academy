@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Basics - Knowledge Check"
-chapterTitle: "Basics - Knowledge Check"
 description: ""
 title: "Basics - Knowledge Check"
 weight: 8
 ---
 
-### **Question 1 - Basics**
+**Question 1 - Basics**
 0.0/1.0 point (ungraded)
 
 **On Exoscale, I can ...**

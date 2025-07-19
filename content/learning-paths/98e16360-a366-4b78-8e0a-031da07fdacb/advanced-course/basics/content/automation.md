@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Automation"
-chapterTitle: "Automation"
 description: ""
 title: "Automation"
 weight: 3
 ---
 
-### **Overview**
+**Overview**
 
 Taking the basic concept of **cloud-init** to the next level by using methods like:
 

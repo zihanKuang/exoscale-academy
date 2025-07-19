@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Database"
-chapterTitle: "Database"
 description: ""
 title: "Database"
 weight: 3
 ---
 
-### **Overview**
+**Overview**
 
 Looking at databases, we see that the managed version delivers the benefits of simplifying the tasks associated with provisioning and maintaining a database. However, you will still need some experience working with databases to interact with them as you build and scale your app.
 
@@ -20,11 +19,11 @@ Exoscale DBaaS is an excellent solution for everyone looking for a diverse portf
 - **No Vendor Lock-In** - keep your cloud infrastructure independent and flexible with our offering of open-source databases.
 - **Your Data Stays In Europe** - all data is stored in the country of your chosen zone, fully GDPR compliant. DBaaS is available across European zones.
 
-![image]({{< usestatic "advanced-course/dbaas_fully_managed.png" >}})
+![image]({{< usestatic "advanced-course/dbaas-fully-managed.png" >}})
 
 ### **DBaas Plans**
 
-![image]({{< usestatic "advanced-course/dbaas_plans.png" >}})
+![image]({{< usestatic "advanced-course/dbaas-plans.png" >}})
 
 ### **DBaaS Update**
 **Update Process – how does it work ?**
@@ -41,19 +40,19 @@ Update Process handles everything fully automatic in the background:
 
 **->** Downtime of less than 10 seconds
 
-![image]({{< usestatic "advanced-course/dbaas_update1.png" >}})
+![image]({{< usestatic "advanced-course/dbaas-update1.png" >}})
 
 **Update Process - Step 1**
 
-![image]({{< usestatic "advanced-course/dbaas_update2.png" >}})
+![image]({{< usestatic "advanced-course/dbaas-update2.png" >}})
 
 **Update Process - Step 2**
 
-![image]({{< usestatic "advanced-course/dbaas_update3.png" >}})
+![image]({{< usestatic "advanced-course/dbaas-update3.png" >}})
 
 **Update Process - Step 3**
 
-![image]({{< usestatic "advanced-course/dbaas_update4.png" >}})
+![image]({{< usestatic "advanced-course/dbaas-update4.png" >}})
 
 ### **DBaaS - Further Possibilities**
 

@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Cloud Challenges"
-chapterTitle: "Cloud Challenges"
 description: ""
 title: "Cloud Challenges"
 weight: 1
 ---
 
-### **Overview**
+**Overview**
 
 This section highlights the most common problems you can face on your cloud journey. Awareness of those topics should lead to better architecture decisions and storage technology selections. Therefore, the last two sections in this course are dedicated to these topics in more detail. But first, let's jump into the area of cloud problems and build a better understanding of common pitfalls.
 

@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Storage"
-chapterTitle: "Storage"
 description: ""
 title: "Storage"
 weight: 6
 ---
 
-### **Overview**
+**Overview**
 
 Simple Object Storage (SOS) is an S3-compatible object storage to store your assets, files, and metadata. Furthermore, it is a cost-effective solution to support your application and backup or serve your data from any Exoscale zone with no hidden fees, using your existing S3-compatible tooling and a familiar API.
 
@@ -77,7 +76,7 @@ Simple Object Storage (SOS) is an S3-compatible object storage to store your ass
 - MountainDuck ... mount SOS as Windows Drive
 - rclone ... Linux CLI to copy whole directories, synchronize multiple buckets/zones
 
-![image]({{< usestatic "advanced-course/sos_tool_logos.png" >}})
+![image]({{< usestatic "advanced-course/sos-tool-logos.png" >}})
 
 ### **Content Delivery Network**
 **CDN:**
@@ -89,9 +88,9 @@ Simple Object Storage (SOS) is an S3-compatible object storage to store your ass
 - Easy to use; just the read-URL of the files changes
 - Files must be set to public-read
 
-![image]({{< usestatic "advanced-course/sos_cdn.png" >}})
+![image]({{< usestatic "advanced-course/sos-cdn.png" >}})
 
-![image]({{< usestatic "advanced-course/sos_cdn_arch.png" >}})
+![image]({{< usestatic "advanced-course/sos-cdn-arch.png" >}})
 
 ### **Pre-signed Keys**
 **Pre-signed keys can be used to:**
@@ -101,4 +100,4 @@ Simple Object Storage (SOS) is an S3-compatible object storage to store your ass
 - Key included in the URL
 - Must be created using the CLI or a S3 library
 
-![image]({{< usestatic "advanced-course/sos_presign.png" >}})
+![image]({{< usestatic "advanced-course/sos-presign.png" >}})

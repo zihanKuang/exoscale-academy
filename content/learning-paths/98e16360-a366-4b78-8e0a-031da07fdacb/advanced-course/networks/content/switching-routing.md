@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Switching/Routing"
-chapterTitle: "Switching/Routing"
 description: ""
 title: "Switching/Routing"
 weight: 2
 ---
 
-### **Explained**
+**Explained**
 **Layer 2 - Switching**
 
 - Uses Mac Addresses (hardcoded into devices)
@@ -35,19 +34,19 @@ Example IP address: **10.55.22.1/32**
 ### **IP Addresses**
 **A subnet for one IP address**
 
-![image]({{< usestatic "advanced-course/ip_address1.png" >}})
+![image]({{< usestatic "advanced-course/ip-address1.png" >}})
 
 **A subnet for two IP addresses**
 
-![image]({{< usestatic "advanced-course/ip_address2.png" >}})
+![image]({{< usestatic "advanced-course/ip-address2.png" >}})
 
 **More subnets**
 
-![image]({{< usestatic "advanced-course/ip_addresses.png" >}})
+![image]({{< usestatic "advanced-course/ip-addresses.png" >}})
 
 **A subnet for 256 IP addresses**
 
-![image]({{< usestatic "advanced-course/ip_adress256.png" >}})
+![image]({{< usestatic "advanced-course/ip-adress256.png" >}})
 
 ### **Routing Subnets**
 - Talk to different subnets --> router (gateway) must be used

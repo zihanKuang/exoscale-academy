@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Backup"
-chapterTitle: "Backup"
 description: ""
 title: "Backup"
 weight: 7
 ---
 
-### **Explained**
+**Explained**
 **Solutions:**
 
 - Backup solutions existed well before cloud services were invented
@@ -28,7 +27,7 @@ weight: 7
 - When a VM is deleted, Snapshots are also deleted
 - Can be inconsistent, e.g., recovery of a Database might not be possible.
 
-![image]({{< usestatic "advanced-course/snapshots_ui.png" >}})
+![image]({{< usestatic "advanced-course/snapshots-ui.png" >}})
 
 ### **Agent Based Backup**
 **Backup the filesystem to an S3 bucket (potentially in a different zone):**
@@ -39,16 +38,16 @@ weight: 7
 - Economical
 - Harder to implement -> Requires a third-party application
 
-![image]({{< usestatic "advanced-course/backup_abb1.png" >}})
+![image]({{< usestatic "advanced-course/backup-abb1.png" >}})
 
 **Restoring – Option A:**
 
 - Restore file system directly (i.e., using Restic)
 
-![image]({{< usestatic "advanced-course/backup_abb2.png" >}})
+![image]({{< usestatic "advanced-course/backup-abb2.png" >}})
 
 **Restoring – Option B:**
 
 - Restore whole system (i.e., using UrBackup, Bareos)
 
-![image]({{< usestatic "advanced-course/backup_abb3.png" >}})
+![image]({{< usestatic "advanced-course/backup-abb3.png" >}})

@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Compute"
-chapterTitle: "Compute"
 description: ""
 title: "Compute"
 weight: 1
 ---
 
-### **Overview**
+**Overview**
 
 The Compute product is for scalable, on-demand cloud servers in a privacy-minded public cloud setting to host everything from simple applications to complex architectures. Start a virtual machine (VM) in seconds, and integrate current on-premises or hybrid-cloud deployments using standard DevOps tooling, would that be Terraform, Kubernetes, Ansible, or the tools of your choice.
 
@@ -19,7 +18,7 @@ The Compute product is for scalable, on-demand cloud servers in a privacy-minded
 - **Instance type** - RAM, CPU Core Configurations (T-Shirt Sizes)
 - **Disk size**- Size Configurations
 
-![image]({{< usestatic "advanced-course/user_interface1.png" >}})
+![image]({{< usestatic "advanced-course/user-interface1.png" >}})
 
 ### **VM Creation - Further Properties**
 
@@ -30,7 +29,7 @@ The Compute product is for scalable, on-demand cloud servers in a privacy-minded
 - Anti-Affinity Groups
 - User Data
 
-![image]({{< usestatic "advanced-course/user_interface2.png" >}})
+![image]({{< usestatic "advanced-course/user-interface2.png" >}})
 
 
 ### **EXAMPLE - create a Linux VM and install a web server**
@@ -51,19 +50,19 @@ Security Groups are the VMs firewall, all VMs are linked to at least one Securit
 - BLOCK all incoming traffic
 - ALLOW all outgoing traffic
 
-![image]({{< usestatic "advanced-course/security_group1.png" >}})
+![image]({{< usestatic "advanced-course/security-group1.png" >}})
 
-![image]({{< usestatic "advanced-course/security_group2.png" >}})
+![image]({{< usestatic "advanced-course/security-group2.png" >}})
 
 **Security Group - configure a new sample-group**
 
-![image]({{< usestatic "advanced-course/sample_group1.png" >}})
+![image]({{< usestatic "advanced-course/sample-group1.png" >}})
 
-![image]({{< usestatic "advanced-course/sample_group2.png" >}})
+![image]({{< usestatic "advanced-course/sample-group2.png" >}})
 
-![image]({{< usestatic "advanced-course/sample_group3.png" >}})
+![image]({{< usestatic "advanced-course/sample-group3.png" >}})
 
-![image]({{< usestatic "advanced-course/sample_group_finish.png" >}})
+![image]({{< usestatic "advanced-course/sample-group-finish.png" >}})
 
 For our example:
 
@@ -75,7 +74,7 @@ For our example:
 
 **How-to create an ssh key pair**
 
-![image]({{< usestatic "advanced-course/ssh_keygen.png" >}})
+![image]({{< usestatic "advanced-course/ssh-keygen.png" >}})
 
 **Linux and Mac**
 
@@ -87,14 +86,14 @@ For our example:
 
 ### **Create SSH Key - my-key**
 
-![image]({{< usestatic "advanced-course/create_my-key.png" >}})
+![image]({{< usestatic "advanced-course/create-my-key.png" >}})
 
 ### **Import SSH Key - public key**
 
-![image]({{< usestatic "advanced-course/public_key.png" >}})
+![image]({{< usestatic "advanced-course/public-key.png" >}})
 
 
-![image]({{< usestatic "advanced-course/import_key.png" >}})
+![image]({{< usestatic "advanced-course/import-key.png" >}})
 
 **NOTE:** NEVER share the PRIVATE KEY with anyone !!!
 
@@ -108,10 +107,10 @@ For our example:
 - **Security Groups** = sample-group
 
 
-![image]({{< usestatic "advanced-course/example_vm1.png" >}})
+![image]({{< usestatic "advanced-course/example-vm1.png" >}})
 
 
-![image]({{< usestatic "advanced-course/example_vm2.png" >}})
+![image]({{< usestatic "advanced-course/example-vm2.png" >}})
 
 ### **VM Usage**
 
@@ -130,7 +129,7 @@ Run the following commands:
 - Start the PuTTY authentication agent program Pageant and add the SSH Key
 - Start the program PuTTY and enter the Server IP
 
-![image]({{< usestatic "advanced-course/access_server.png" >}})
+![image]({{< usestatic "advanced-course/access-server.png" >}})
 
 ### **Web Server Install**
 Installing NGINX web server via the **apt-get** package manager:
@@ -139,21 +138,21 @@ Installing NGINX web server via the **apt-get** package manager:
 
 *> systemctl start nginx*
 
-![image]({{< usestatic "advanced-course/install_nginx.png" >}})
+![image]({{< usestatic "advanced-course/install-nginx.png" >}})
 
 *Web Server accessible via server IP:*
 
-![image]({{< usestatic "advanced-course/welcome_nginx.png" >}})
+![image]({{< usestatic "advanced-course/welcome-nginx.png" >}})
 
 ### **EXAMPLE - create a Windows Server VM and access it**
 
 Creating a Windows VM follows the same Step-by-Step pattern as a Linux VM; you select an appropriate Windows Server template. The creation process runs in the same way.
 
-![image]({{< usestatic "advanced-course/windows_server.png" >}})
+![image]({{< usestatic "advanced-course/windows-server.png" >}})
 
 To access the Windows Server VM, you must configure a Security Group that allows port 3389/TCP. This is the port for the remote access protocol used by the Microsoft Remote Desktop application. To connect as administrator to the Windows Server VM, use the shown password and the Microsoft Remote Desktop application.
 
-![image]({{< usestatic "advanced-course/remote_desktop.png" >}})
+![image]({{< usestatic "advanced-course/remote-desktop.png" >}})
 
 
 ### **Virtual Machines (VMs)**

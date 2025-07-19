@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Intro"
-chapterTitle: "Intro"
 description: ""
 title: "Intro"
 weight: 1
 ---
 
-### **Welcome**
+**Welcome**
 
 This ADVANCED Course is where your Exoscale cloud architect journey begins. It will help you learn the core technical concepts, dive into networking components and configuration, and introduce you to critical cloud topics.
 
@@ -19,19 +18,19 @@ This course targets people who do not need to sell cloud services or develop sof
 
 Infrastructure as a Service is the cloud service model we support with the Exoscale platform and a bit more, hence, IaaS+.
 
-![image]({{< usestatic "advanced-course/iaas_arch.png" >}})
+![image]({{< usestatic "advanced-course/iaas-arch.png" >}})
 
 ### **Platform**
 
 A state-of-the-art IaaS platform providing the building blocks for your application infrastructure.
 
-![image]({{< usestatic "advanced-course/iaas_over.png" >}})
+![image]({{< usestatic "advanced-course/iaas-over.png" >}})
 
 ### **Data Centers**
 
 Getting the necessary cloud infrastructure components is easy. In Europe, there is always an Exoscale data center near you.
 
-![image]({{< usestatic "advanced-course/our_dcs.png" >}})
+![image]({{< usestatic "advanced-course/our-dcs.png" >}})
 
 Before we start the Solution Architect journey, we need a quick overview of the main benefits of using the cloud infrastructure provided by the Exoscale platform and the portfolio of products it consists of.
 
@@ -46,4 +45,4 @@ The real beauty of the cloud is that everything is customizable and automatable 
 
 ###  **Exosscale Products**
 
-![image]({{< usestatic "advanced-course/our_wui.png" >}})
+![image]({{< usestatic "advanced-course/our-wui.png" >}})

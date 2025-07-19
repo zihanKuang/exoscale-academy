@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Organization"
-chapterTitle: "Organization"
 description: ""
 title: "Organization"
 weight: 7
 ---
 
-### **Overview**
+**Overview**
 
 In this section of the Portal, you find:
 

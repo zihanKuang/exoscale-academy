@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Private Network"
-chapterTitle: "Private Network"
 description: ""
 title: "Private Network"
 weight: 3
 ---
 
-### **Explained**
+**Explained**
 
 - Local Network between Instances
 - Private networks can be freely created

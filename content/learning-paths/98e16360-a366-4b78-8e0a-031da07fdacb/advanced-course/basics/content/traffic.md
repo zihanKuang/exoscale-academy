@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Traffic"
-chapterTitle: "Traffic"
 description: ""
 title: "Traffic"
 weight: 5
 ---
 
-### **Overview**
+**Overview**
 
 Data exchange between computers is called traffic, and in cloud computing, this is an important topic at least from two angles:
 
@@ -29,12 +28,12 @@ Definition Internal:
 
 **Internal traffic is free!**
 
-![image]({{< usestatic "advanced-course/traffic_internal.png" >}})
+![image]({{< usestatic "advanced-course/traffic-internal.png" >}})
 
 ### **Incoming Traffic**
 Traffic coming from the internet is free.
 
-![image]({{< usestatic "advanced-course/traffic_incoming.png" >}})
+![image]({{< usestatic "advanced-course/traffic-incoming.png" >}})
 
 ### **Outgoing Traffic**
 Traffic towards the Internet is billed. BUT, it comes with a free tier at Exoscale:
@@ -43,7 +42,7 @@ Traffic towards the Internet is billed. BUT, it comes with a free tier at Exosca
 - Free traffic is shared in the organization
 - Free traffic is only available in the hour created
 
-![image]({{< usestatic "advanced-course/traffic_outgoing.png" >}})
+![image]({{< usestatic "advanced-course/traffic-outgoing.png" >}})
 
 ### **Example**
 Two examples to illustrate the free tier and the billing aspects:
@@ -56,4 +55,4 @@ Two examples to illustrate the free tier and the billing aspects:
    - A creates 2 GB of outgoing traffic
    - 1.42 GB are free, 580 MB are to be paid
 
-![image]({{< usestatic "advanced-course/traffic_example.png" >}})
+![image]({{< usestatic "advanced-course/traffic-example.png" >}})

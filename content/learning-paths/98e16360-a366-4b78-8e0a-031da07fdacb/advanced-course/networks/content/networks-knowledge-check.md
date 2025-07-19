@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Networks - Knowledge Check"
-chapterTitle: "Networks - Knowledge Check"
 description: ""
 title: "Networks - Knowledge Check"
 weight: 5
 ---
 
-### **Question 1 - Networks**
+**Question 1 - Networks**
 0.0/1.0 point (ungraded)
 
 **What is a load balancer in Exoscale?**

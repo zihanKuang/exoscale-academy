@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Storage"
-chapterTitle: "Storage"
 description: ""
 title: "Storage"
 weight: 3
 ---
 
-### **Object Storage**
+**Object Storage**
 
 Exoscale's Simple Object Storage (SOS) is a scalable and cost-effective solution for storing and managing large amounts of data. It offers highly available multi-redundancy storage, ensuring data safety and accessibility. You can store various files and objects, such as assets, backups, and media files. Your data remains in the exact location you store it, and Exoscale replicates it in at least three physical copies for maximum safety.
 

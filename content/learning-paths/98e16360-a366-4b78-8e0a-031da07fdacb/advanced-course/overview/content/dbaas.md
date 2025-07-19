@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "DBaaS"
-chapterTitle: "DBaaS"
 description: ""
 title: "DBaaS"
 weight: 4
 ---
 
-### **Details**
+**Details**
 
 Exoscale's end-to-end encrypted database as a service (DBaaS) offering is a powerful solution for businesses to host their data and databases in the cloud securely. With this service, users can start within minutes, making it easy to quickly deploy and manage their databases without any delays or downtime. In addition, Exoscale's DBaaS offering is entirely GDPR-compliant, ensuring businesses can meet regulatory requirements and keep their data safe and secure. Furthermore, as a fully managed service, Exoscale takes care of all the maintenance and management of the databases, allowing users to focus on their core business activities.
 

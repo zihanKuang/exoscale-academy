@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Support"
-chapterTitle: "Support"
 description: ""
 title: "Support"
 weight: 8
 ---
 
-### **Details**
+**Details**
 
 In this section of the Portal, you can view and manage your support tickets by status **(All, New, Waiting, Open, Closed)**. Exoscale’s support services are designed to cater to various customer needs, from developers and testers to enterprises running critical workloads. Here's a breakdown of what each support plan includes:
 

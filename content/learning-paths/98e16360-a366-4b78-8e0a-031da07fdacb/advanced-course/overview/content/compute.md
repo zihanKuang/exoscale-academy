@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Compute"
-chapterTitle: "Compute"
 description: ""
 title: "Compute"
 weight: 2
 ---
 
-### **Details**
+**Details**
 
 Exoscale offers a range of products related to cloud servers, also known as virtual machines or Compute Instances. These products allow users to easily manage virtual machines, create instance pools, and ensure fault tolerance through anti-affinity groups. SKS and Block Storage options provide scalability, increased computational power, and storage flexibility. IAM and organization management tools allow for secure access control and user management. With various networking products available, users can configure workloads to meet their specific requirements, including secure private networking, firewall management, Network Load Balancer, Elastic IP addresses, and IPv6 support.
 

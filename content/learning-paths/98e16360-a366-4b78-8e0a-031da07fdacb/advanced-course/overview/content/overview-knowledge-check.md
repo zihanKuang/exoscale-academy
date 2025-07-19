@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Overview - Knowledge Check"
-chapterTitle: "Overview - Knowledge Check"
 description: ""
 title: "Overview - Knowledge Check"
 weight: 9
 ---
 
-### **Question 1 - Overview**
+**Question 1 - Overview**
 
 0.0/1.0 point (ungraded)
 

@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Advanced - Knowledge Check"
-chapterTitle: "Advanced - Knowledge Check"
 description: ""
 title: "Advanced - Knowledge Check"
 weight: 4
 ---
 
-### **Question 1 - Advanced**
+**Question 1 - Advanced**
 0.0/1.0 point (ungraded)
 
 **What is Infrastructure as Code (IaC)?**

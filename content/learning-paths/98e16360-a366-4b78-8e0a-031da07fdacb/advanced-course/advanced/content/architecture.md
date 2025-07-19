@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Architecture"
-chapterTitle: "Architecture"
 description: ""
 title: "Architecture"
 weight: 2
 ---
 
-### **Explained**
+**Explained**
 
 There are challenges in the cloud. We just have reviewed to most common ones. Building reliable, scalable, and well-performing cloud-based solutions is down to leveraging proven architectures and best practices and thinking of cloud-native approaches to the challenges you want to solve.
 
@@ -15,7 +14,7 @@ There are challenges in the cloud. We just have reviewed to most common ones. Bu
 
 Quickly scale up for more performance and easily scale down to safe cost or serve a scenario with fewer performance needs. It is also important to safely store all data and configurations in backups and enable applications to be highly available. All of those requirements are reflected in your architecture.
 
-![image]({{< usestatic "advanced-course/simple_arch.png" >}})
+![image]({{< usestatic "advanced-course/simple-arch.png" >}})
 
 ### **Stateless Architecture**
 
@@ -33,7 +32,7 @@ Applications with stateless architecture (stateless apps) allow you to easily sc
 
 Two very common application architecture used for designing solution on-permises and in the cloud, but also very different ones.
 
-![image]({{< usestatic "advanced-course/mono_vs_micro.png" >}})
+![image]({{< usestatic "advanced-course/mono-vs-micro.png" >}})
 
 ### **Kubernetes**
 **Scalable Kubernetes Service (SKS)**

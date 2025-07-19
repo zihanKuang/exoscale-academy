@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "Load Balancing"
-chapterTitle: "Load Balancing"
 description: ""
 title: "Load Balancing"
 weight: 4
 ---
 
-### **Explained**
+**Explained**
 
 - Can forward ports/services to different Instance Pools.
 
@@ -40,7 +39,7 @@ NOTE: Cannot be used for outgoing traffic
 ![image]({{< usestatic "advanced-course/meip.png" >}})
 
 ### **Comparison - Network Load Balancer / Managed Elastic IP**
-![image]({{< usestatic "advanced-course/nlb_icon.png" >}})
+![image]({{< usestatic "advanced-course/nlb-icon.png" >}})
 
 **Network Load Balancer**
 
@@ -49,7 +48,7 @@ NOTE: Cannot be used for outgoing traffic
 - Route single ports (services)
 - Healthchecks can be observed
 
-![image]({{< usestatic "advanced-course/meip_icon.png" >}})
+![image]({{< usestatic "advanced-course/meip-icon.png" >}})
 
 ### **Managed Elastic IP**
 
@@ -93,11 +92,11 @@ Allow defining and composing firewall rules:
 - Traffic to and from the Internet can be blocked entirely (private instance)
 - Source address can be specified as a subnet or as another Security Group, or as a Public Security Group (which simply are Security Groups defined by Exoscale for specific purposes)
 
-![image]({{< usestatic "advanced-course/secuirty_groups.png" >}})
+![image]({{< usestatic "advanced-course/secuirty-groups.png" >}})
 
 **Security Groups Examples**
 
-![image]({{< usestatic "advanced-course/SG_example1.png" >}})
+![image]({{< usestatic "advanced-course/SG-example1.png" >}})
 
 ### **Frontend Security Group**
 
@@ -114,4 +113,4 @@ Allow defining and composing firewall rules:
 
 *) without this rule, backend instances cannot access each other on 8080
 
-![image]({{< usestatic "advanced-course/SG_example2.png" >}})
+![image]({{< usestatic "advanced-course/SG-example2.png" >}})

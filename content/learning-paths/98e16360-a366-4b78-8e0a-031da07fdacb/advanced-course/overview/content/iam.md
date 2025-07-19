@@ -1,13 +1,12 @@
 ---
 docType: "Chapter"
 id: "IAM"
-chapterTitle: "IAM"
 description: ""
 title: "IAM"
 weight: 6
 ---
 
-### **Details**
+**Details**
 
 Exoscale provides various interaction methods with its platform, including programmatic access via the command line, your preferred programming language, integrations with third-party tools, and a user-friendly web portal. Regardless of the method, Identity and Access Management (IAM) will define permissions and actions for individuals and services on your platform.
 
