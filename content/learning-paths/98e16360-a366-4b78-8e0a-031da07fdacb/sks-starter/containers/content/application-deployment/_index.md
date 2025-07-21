@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Application Deployments"
-chapterTitle: "Application Deployments"
 description: ""
 title: "Application Deployments"
 weight: 1

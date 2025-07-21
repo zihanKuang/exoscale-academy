@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Running Application"
-chapterTitle: "Running Applications"
 description: ""
 title: "Running Applications"
 weight: 3

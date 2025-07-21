@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Dependencies"
-chapterTitle: "Dependencies"
 description: ""
 title: "Dealing with Dependencies"
 weight: 4

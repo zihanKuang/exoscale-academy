@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Imperative vs Declarative"
-chapterTitle: "Imperative vs Declarative"
 description: ""
 title: "Imperative vs Declarative"
 weight: 3

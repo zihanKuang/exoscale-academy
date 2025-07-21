@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Positoning"
-chapterTitle: "Positoning"
 description: ""
 title: "Positoning"
 weight: 5
@@ -14,7 +12,7 @@ weight: 5
 
 ... **extensible**, and lets users integrate their logging, monitoring, alerting, and many more solutions because it is not monolithic, and these solutions are optional and pluggable.
 
-![positioning]({{< usestatic "sks-starter/positioning.png" >}})
+![positioning](positioning.png)
 
 #### **Kubernetes is NOT ...**
 **... a traditional, all-inclusive PaaS system.**

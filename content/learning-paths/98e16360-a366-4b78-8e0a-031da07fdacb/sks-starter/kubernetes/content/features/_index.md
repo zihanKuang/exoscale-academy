@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Features"
-chapterTitle: "Features"
 description: ""
 title: "Features"
 weight: 4
@@ -9,7 +7,7 @@ weight: 4
 
 ### **Features**
 
-![features]({{< usestatic "sks-starter/features.png" >}})
+![features](features.png)
 
 ### **Kubernetes Feature Details**
 #### **self-healing**

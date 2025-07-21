@@ -1,14 +1,9 @@
 ---
-docType: "Chapter"
 id: "Docker / Kubernetes"
-chapterTitle: "Docker / Kubernetes"
 description: ""
-lectures: 12
 title: "Docker / Kubernetes"
 weight: 12
 ---
-
-
 
 
 ### **From Docker To Kubernetes**
