@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "Exoscale DBaaS Benefits"
-chapterTitle: "Exoscale DBaaS Benefits"
+id: "exoscale-dBaaS-benefits"
 description: ""
 title: "Exoscale DBaaS Benefits"
 weight: 1
@@ -11,7 +9,7 @@ weight: 1
 
 Exoscale DBaaS is an excellent solution for everyone looking for a diverse portfolio of open-source data services used in all types of applications and business solutions.
 
-![dbaas]({{< usestatic "intro-dbaas/dbaas.png" >}}) 
+![dbaas](dbaas.png) 
 
 If you want to know more about the actual service offers, please go to [Exoscale DBaaS](https://www.exoscale.com/dbaas/) on our website.
 

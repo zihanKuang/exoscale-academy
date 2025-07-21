@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "Benefits of Databases"
-chapterTitle: "Benefits of Databases"
+id: "benefits-of-databases"
 description: ""
 title: "Benefits of Databases"
 weight: 6
@@ -9,7 +7,7 @@ weight: 6
 
 ### **Benefits of Databases**
 
-![db-icon-1]({{< usestatic "intro-dbaas/db-icon-1.png" >}}) 
+![db-icon-1](db-icon-1.png) 
 
 #### **Why use computerized Databases?**
 
@@ -23,7 +21,7 @@ Because it makes it easier to:
 
 If there are advantages, then there are also disadvantages, and to get a complete picture of the database situation, let us contrast them.
 
-![db-icon-2]({{< usestatic "intro-dbaas/db-icon-2.png" >}}) 
+![db-icon-2](db-icon-2.png) 
 
 #### **Advantages of Databases:**
 
@@ -36,7 +34,7 @@ If there are advantages, then there are also disadvantages, and to get a complet
 - Data Redundancy Controlling
 - Data Inconsistency Minimizing
 
-![db-icon-3]({{< usestatic "intro-dbaas/db-icon-3.png" >}})
+![db-icon-3](db-icon-3.png)
 
 #### **Disadvantages of Databases:**
 

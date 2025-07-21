@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "Exoscale DBaaS Features"
-chapterTitle: "Exoscale DBaaS Features"
+id: "exoscale-dBaaS-features"
 description: ""
 title: "Exoscale DBaaS Features"
 weight: 2
@@ -9,7 +7,7 @@ weight: 2
 
 ### **Exoscale DBaaS Features**
 
-![dbaas-features]({{< usestatic "intro-dbaas/dbaas-features.png" >}}) 
+![dbaas-features](dbaas-features.png) 
 
 #### **Daily Backups included**
 
