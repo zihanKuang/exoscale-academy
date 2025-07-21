@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 title: "Helm"
 description: "Application management"
 courseTitle: "Helm"
