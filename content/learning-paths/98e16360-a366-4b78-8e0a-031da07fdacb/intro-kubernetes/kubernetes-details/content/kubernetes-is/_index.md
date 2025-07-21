@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "Kubernetes ..."
-chapterTitle: "Kubernetes ..."
+id: "kubernetes-is"
 description: ""
 title: "Kubernetes ..."
 weight: 3
@@ -13,7 +11,7 @@ weight: 3
 
 ... extensible, and lets users integrate their logging, monitoring, alerting, and many more solutions because it is not monolithic, and these solutions are optional and pluggable.
 
-![image]({{< usestatic "intro-k8/kubernetes4.png" >}})
+![image](kubernetes4.png)
 
 ### **Kubernetes does NOT ...**
 **... limit the types of applications supported.**

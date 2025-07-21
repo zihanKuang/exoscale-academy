@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "Container Benefits"
-chapterTitle: "Container Benefits"
+id: "container-benefits"
 description: ""
 title: "Container Benefits"
 weight: 3
@@ -11,11 +9,11 @@ weight: 3
 
 - **dev and ops separation of concerns** create application container images at build/release time rather than deployment time, thereby decoupling applications from infrastructure
 
-![image]({{< usestatic "intro-k8/benefit1.png" >}})
+![image](benefit1.png)
 
 - **continuous development, integration, and deployment** provides for reliable and frequent container image build and deployment with quick and efficient rollbacks – due to image immutability
 
-![image]({{< usestatic "intro-k8/benefit2.png" >}})
+![image](benefit2.png)
 
 - **environmental consistency across dev, test, and prod** runs the same on a laptop as it does on an on-premises server, virtualized server, and in the cloud
 
