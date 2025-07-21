@@ -5,7 +5,7 @@ title: "Traffic"
 weight: 5
 ---
 
-**Overview**
+Overview
 
 Data exchange between computers is called traffic, and in cloud computing, this is an important topic at least from two angles:
 
@@ -18,23 +18,23 @@ Data exchange between computers is called traffic, and in cloud computing, this 
 
 So let’s look into it.
 
-### **Internal Traffic**
+### Internal Traffic
 
 Definition Internal:
 
 - Between all Exoscale Services inside a zone
 - Between all Exoscale Services beyond zone borders
 
-**Internal traffic is free!**
+Internal traffic is free!
 
 ![traffic-internal](traffic-internal.png)
 
-### **Incoming Traffic**
+### Incoming Traffic
 Traffic coming from the internet is free.
 
 ![traffic-incoming](traffic-incoming.png)
 
-### **Outgoing Traffic**
+### Outgoing Traffic
 Traffic towards the Internet is billed. BUT, it comes with a free tier at Exoscale:
 
 - 1.42 GB per instance in the period of one hour
@@ -43,7 +43,7 @@ Traffic towards the Internet is billed. BUT, it comes with a free tier at Exosca
 
 ![traffic-outgoing](traffic-outgoing.png)
 
-### **Example**
+### Example
 Two examples to illustrate the free tier and the billing aspects:
 
 - Instance A and B
