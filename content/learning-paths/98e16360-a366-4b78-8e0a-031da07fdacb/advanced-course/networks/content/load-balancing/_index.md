@@ -5,7 +5,7 @@ title: "Load Balancing"
 weight: 4
 ---
 
-**Explained**
+Explained
 
 - Can forward ports/services to different Instance Pools.
 
@@ -24,7 +24,7 @@ weight: 4
 
 ![nlb](nlb.png)
 
-### **Managed Elastic IP**
+### Managed Elastic IP
 
 - Can forward traffic to one instance or distribute traffic across multiple instances
 - Traffic distribution is not necessarily even
@@ -37,10 +37,10 @@ NOTE: Cannot be used for outgoing traffic
 
 ![meip](meip.png)
 
-### **Comparison - Network Load Balancer / Managed Elastic IP**
+### Comparison - Network Load Balancer / Managed Elastic IP
 ![nlb-icon](nlb-icon.png)
 
-**Network Load Balancer**
+Network Load Balancer
 
 - Routes to Instance-Pools
 - Even traffic distribution
@@ -49,21 +49,21 @@ NOTE: Cannot be used for outgoing traffic
 
 ![meip-icon](meip-icon.png)
 
-### **Managed Elastic IP**
+### Managed Elastic IP
 
 - Routes to individual Virtual Machines
 - Even traffic distribution is not guaranteed
 - Route whole IP/all ports
 - Healthchecks done but cannot be observed
 
-### **Unmanaged Elastic IP**
+### Unmanaged Elastic IP
 
 - Simple Fail-Over IP Address
 - It needs to be configured on the instance itself
 - It can be used as an outgoing IP via a loopback interface
 - Security Groups apply normally
 
-**cloud-init configuration**
+cloud-init configuration
 ```
 #cloud-config
 write_files:
@@ -82,7 +82,7 @@ runcmd:
   - [ netplan, apply ]
 ```
 
-### **Security Groups**
+### Security Groups
 Allow defining and composing firewall rules:
 
 - Power of VLANs
@@ -93,22 +93,22 @@ Allow defining and composing firewall rules:
 
 ![secuirty-groups](secuirty-groups.png)
 
-**Security Groups Examples**
+Security Groups Examples
 
 ![SG-example1](SG-example1.png)
 
-### **Frontend Security Group**
+### Frontend Security Group
 
-- Allow **0.0.0.0/0** for port **80/tcp**
-- Allow **0.0.0.0/0** for port **443/tcp**
-- Allow **90.80.60.0/24** for **port 22/tcp** *
+- Allow 0.0.0.0/0 for port 80/tcp
+- Allow 0.0.0.0/0 for port 443/tcp
+- Allow 90.80.60.0/24 for port 22/tcp *
 
 *) allow clients originating from the given subnet – e.g., company network - to connect to SSH; not on the diagram
 
-### **Backend Security Group**
+### Backend Security Group
 
-- Allow Security Group Frontend for port **8080/tcp**
-- Allow Security Group Backend for port **8080/tcp** *
+- Allow Security Group Frontend for port 8080/tcp
+- Allow Security Group Backend for port 8080/tcp *
 
 *) without this rule, backend instances cannot access each other on 8080
 
