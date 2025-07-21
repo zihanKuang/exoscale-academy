@@ -5,15 +5,15 @@ title: "Automation"
 weight: 3
 ---
 
-**Overview**
+Overview
 
-Taking the basic concept of **cloud-init** to the next level by using methods like:
+Taking the basic concept of cloud-init to the next level by using methods like:
 
 - CLI ... Command Line Interface
 - API ... Application Programming Interface
 - IaC ... Infrastructure as Code
 
-### **Infrastructure as Code**
+### Infrastructure as Code
 
 Infrastructure as Code (IaC) manages and provides computer data centers through machine-readable definition files rather than physical hardware configuration or interactive configuration tools.
 
@@ -23,9 +23,9 @@ Infrastructure as Code (IaC) manages and provides computer data centers through 
 - Code is also documentation
 - Terraform Plugin provided by Exoscale
 
-The approach of **immutable infrastructure** is practiced in this concept by never updating and always replacing.
+The approach of immutable infrastructure is practiced in this concept by never updating and always replacing.
 
-### **Example**
+### Example
 
 ```
 data "exoscale_compute_template" "ubuntu" {
@@ -61,8 +61,8 @@ EOF
 }
 ```
 
-### **Application Programming Interface** 
-**Exoscale Public API**
+### Application Programming Interface 
+Exoscale Public API
 
 https://openapi-v2.exoscale.com
 
@@ -71,7 +71,7 @@ https://openapi-v2.exoscale.com
 - Implementable in every programming language
 - Specifically limit access using IAM
 
-### **Example**
+### Example
 ```
 import requests
 from exoscale_auth import ExoscaleV2Auth
@@ -81,12 +81,12 @@ response = requests.get("https://api-de-fra-1.exoscale.com/v2/instance", auth=au
 print(response.text)
 ```
 
-### **Command Line Interface**
-**Exoscale CLI – exo**
+### Command Line Interface
+Exoscale CLI – exo
 
 https://community.exoscale.com/documentation/tools/exoscale-command-line-interface/
 
-**exo** is Exoscale’s official command line interface to access all platform services. It allows you to manage your infrastructure from a user-friendly command line tool with the benefits of being scriptable.
+exo is Exoscale’s official command line interface to access all platform services. It allows you to manage your infrastructure from a user-friendly command line tool with the benefits of being scriptable.
 
 ```
 > exo compute instance create my-new-vm
