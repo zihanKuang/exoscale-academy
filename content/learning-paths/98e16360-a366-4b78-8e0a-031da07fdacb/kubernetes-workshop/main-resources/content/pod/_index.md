@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 title: "Pod"
 description: "Building blocks for running containers"
 courseTitle: "Pod"

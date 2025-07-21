@@ -1,5 +1,4 @@
 ---
-docType: "Course"
 title: "Concepts"
 description: "Kubernetes Basic Concepts"
 courseTitle: "Concepts"
