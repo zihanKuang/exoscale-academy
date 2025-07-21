@@ -5,21 +5,21 @@ title: "Compute"
 weight: 1
 ---
 
-**Overview**
+Overview
 
 The Compute product is for scalable, on-demand cloud servers in a privacy-minded public cloud setting to host everything from simple applications to complex architectures. Start a virtual machine (VM) in seconds, and integrate current on-premises or hybrid-cloud deployments using standard DevOps tooling, would that be Terraform, Kubernetes, Ansible, or the tools of your choice.
 
-### **VM Creation – Essential Properties**
+### VM Creation – Essential Properties
 
-- **Name** - Easier Server Identification
-- **Template** - Linux, Windows, Custom, Marketplace
-- **Zone** - Data Center Locations
-- **Instance type** - RAM, CPU Core Configurations (T-Shirt Sizes)
-- **Disk size**- Size Configurations
+- Name - Easier Server Identification
+- Template - Linux, Windows, Custom, Marketplace
+- Zone - Data Center Locations
+- Instance type - RAM, CPU Core Configurations (T-Shirt Sizes)
+- Disk size- Size Configurations
 
 ![user-interface1](user-interface1.png)
 
-### **VM Creation - Further Properties**
+### VM Creation - Further Properties
 
 - SSH Keys
 - Public IP Assignemnt
@@ -31,7 +31,7 @@ The Compute product is for scalable, on-demand cloud servers in a privacy-minded
 ![user-interface2](user-interface2.png)
 
 
-### **EXAMPLE - create a Linux VM and install a web server**
+### EXAMPLE - create a Linux VM and install a web server
 
 Walking through a step-by-step example for creating a new cloud server (VM) with a web server manually:
 
@@ -40,11 +40,11 @@ Walking through a step-by-step example for creating a new cloud server (VM) with
 - Start a Virtual Machine
 - Install a Web Server via SSH
 
-### **Security Group**
+### Security Group
 
 Security Groups are the VMs firewall, all VMs are linked to at least one Security Group (default).
 
-**default**
+default
 
 - BLOCK all incoming traffic
 - ALLOW all outgoing traffic
@@ -53,7 +53,7 @@ Security Groups are the VMs firewall, all VMs are linked to at least one Securit
 
 ![security-group2](security-group2.png)
 
-**Security Group - configure a new sample-group**
+Security Group - configure a new sample-group
 
 ![sample-group1](sample-group1.png)
 
@@ -69,41 +69,41 @@ For our example:
 - ALLOW 80 for everyone
 
 
-### **SSH Keys**
+### SSH Keys
 
-**How-to create an ssh key pair**
+How-to create an ssh key pair
 
 ![ssh-keygen](ssh-keygen.png)
 
-**Linux and Mac**
+Linux and Mac
 
-- Use the command line tool **ssh-keygen**
+- Use the command line tool ssh-keygen
 
-**Windows**
+Windows
 
-- Use the program PuTTYgen (**puttygen.exe**) and export the OpenSSH public key
+- Use the program PuTTYgen (puttygen.exe) and export the OpenSSH public key
 
-### **Create SSH Key - my-key**
+### Create SSH Key - my-key
 
 ![create-my-key](create-my-key.png)
 
-### **Import SSH Key - public key**
+### Import SSH Key - public key
 
 ![public-key](public-key.png)
 
 
 ![import-key](import-key.png)
 
-**NOTE:** NEVER share the PRIVATE KEY with anyone !!!
+NOTE: NEVER share the PRIVATE KEY with anyone !!!
 
-### **VM Creation - Example**
-- **Hostename** = my-new-vm
-- **Template** = Linux Ubuntu 20.04 LTS 64-bit
-- **Zone** = DE-FRA-1
-- **Instance Type** = STANDARD - Tiny
-- **Disk** = 10 GB
-- **Keypair** = my-key
-- **Security Groups** = sample-group
+### VM Creation - Example
+- Hostename = my-new-vm
+- Template = Linux Ubuntu 20.04 LTS 64-bit
+- Zone = DE-FRA-1
+- Instance Type = STANDARD - Tiny
+- Disk = 10 GB
+- Keypair = my-key
+- Security Groups = sample-group
 
 
 ![example-vm1](example-vm1.png)
@@ -111,11 +111,11 @@ For our example:
 
 ![example-vm2](example-vm2.png)
 
-### **VM Usage**
+### VM Usage
 
 Connecting to the Server depends on your client OS used to access your VM. Adding the SSH Key and accessing your VM follows a different sequence of tools used. Below you see examples of the most common access scenarios.
 
-### **Access from Linux or Mac**
+### Access from Linux or Mac
 
 Run the following commands:
 
@@ -123,15 +123,15 @@ Run the following commands:
 
 *> ssh root@SERVER-IP*
 
-### **Access from Windows**
+### Access from Windows
 
 - Start the PuTTY authentication agent program Pageant and add the SSH Key
 - Start the program PuTTY and enter the Server IP
 
 ![access-server](access-server.png)
 
-### **Web Server Install**
-Installing NGINX web server via the **apt-get** package manager:
+### Web Server Install
+Installing NGINX web server via the apt-get package manager:
 
 *> apt install -y nginx*
 
@@ -143,7 +143,7 @@ Installing NGINX web server via the **apt-get** package manager:
 
 ![welcome-nginx](welcome-nginx.png)
 
-### **EXAMPLE - create a Windows Server VM and access it**
+### EXAMPLE - create a Windows Server VM and access it
 
 Creating a Windows VM follows the same Step-by-Step pattern as a Linux VM; you select an appropriate Windows Server template. The creation process runs in the same way.
 
@@ -154,7 +154,7 @@ To access the Windows Server VM, you must configure a Security Group that allows
 ![remote-desktop](remote-desktop.png)
 
 
-### **Virtual Machines (VMs)**
+### Virtual Machines (VMs)
 
 Frequently used applications of VMs on Exoscale are:
 
@@ -165,7 +165,7 @@ Frequently used applications of VMs on Exoscale are:
 - Terminal Servers
 - ...
 
-### **Anti-Affinity Groups**
+### Anti-Affinity Groups
 
 How can you increase availability and fault tolerance for your application?
 
