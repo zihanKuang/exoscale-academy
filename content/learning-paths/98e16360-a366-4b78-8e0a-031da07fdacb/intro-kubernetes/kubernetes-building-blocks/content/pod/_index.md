@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "PODs"
-chapterTitle: "PODs"
+id: "pod"
 description: ""
 title: "PODs"
 weight: 2
@@ -11,7 +9,7 @@ weight: 2
 
 Pods are the basic building blocks to run containers inside of Kubernetes. Every Pod holds at least one container and controls the execution of that container. If all containers terminate, the Pod terminates too. Mounting storage, setting environment variables, and feed information into the container are all functions provided by the Pod.
 
-![image]({{< usestatic "intro-k8/pod.png" >}})
+![image](pod.png)
 
 Pods are the smallest deployable units of computing that you can create and manage in Kubernetes. Pods in a Kubernetes cluster are used in two main ways:
 

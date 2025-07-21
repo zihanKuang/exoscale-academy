@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "Without Container Orchestration"
-chapterTitle: "Without Container Orchestration"
+id: "without-container-orchestration"
 description: ""
 title: "Without Container Orchestration"
 weight: 1
@@ -11,7 +9,7 @@ weight: 1
 
 Running services in containers tend to produce numerous containers pretty quick. Handling many containers with no additional aid is a very cumbersome job. Hence, an orchestration solution is necessary to run services in containers efficiently.
 
-![image]({{< usestatic "intro-k8/containers2.png" >}})
+![image](containers2.png)
 
 ### **Without Container Orchestration**
 
@@ -22,4 +20,4 @@ Running services in containers tend to produce numerous containers pretty quick.
 - Scaling services/applications becomes more and more **difficult**.
 - Public cloud provider resource usage becomes more and more **expensive**.
 
-![image]({{< usestatic "intro-k8/kubernetes.png" >}})
+![image](kubernetes.png)

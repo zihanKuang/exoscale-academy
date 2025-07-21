@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "History of Application Deployments"
-chapterTitle: "History of Application Deployments"
+id: "history-of-application-deployments"
 description: ""
 title: "History of Application Deployments"
 weight: 4
@@ -9,7 +7,7 @@ weight: 4
 
 ### **History of Application Deployments**
 
-![image]({{< usestatic "intro-k8/history.png" >}})
+![image](history.png)
 
 #### **Traditional Deployment**
 Early on, organizations ran applications on physical servers. There was no way to define resource boundaries for applications in a physical server, and this caused resource allocation issues. For example, if multiple applications run on a physical server, there can be instances where one application would take up most of the resources, and as a result, the other applications would underperform. A solution for this would be to run each application on a different physical server. But this did not scale as resources were underutilized, and it was expensive for organizations to maintain many physical servers.
