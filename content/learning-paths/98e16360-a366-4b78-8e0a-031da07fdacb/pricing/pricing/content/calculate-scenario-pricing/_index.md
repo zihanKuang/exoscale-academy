@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Calculate Scenario Pricing"
-chapterTitle: "Calculate Scenario Pricing"
 description: ""
 title: "Calculate Scenario Pricing"
 weight: 3

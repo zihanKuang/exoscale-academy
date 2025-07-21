@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Typical Web Application"
-chapterTitle: "Typical Web Application"
 description: ""
 title: "Typical Web Application"
 weight: 1
@@ -33,7 +31,7 @@ in v2 is used as a simple load balancer in this scenario that distributes traffi
 #### **Exoscale DNS**
 responsible for resolving the service domain name (example.com).
 
-![pricing]({{< usestatic "pricing/pricing.png" >}})
+![pricing](pricing.png)
 
 {{< card 
 title="Video: Containers">}}

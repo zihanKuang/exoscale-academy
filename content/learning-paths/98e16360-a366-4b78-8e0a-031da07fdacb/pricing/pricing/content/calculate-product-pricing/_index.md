@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Calculate Product Pricing"
-chapterTitle: "Calculate Product Pricing"
 description: ""
 title: "Calculate Product Pricing"
 weight: 2
