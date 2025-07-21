@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 title: "Learn"
 lectures: 1
 courseTitle: "Jobs & CronJobs"

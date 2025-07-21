@@ -1,5 +1,4 @@
 ---
-docType: "Course"
 title: "Voting App"
 description: "Introduction to a toy application"
 courseTitle: "Voting App"
