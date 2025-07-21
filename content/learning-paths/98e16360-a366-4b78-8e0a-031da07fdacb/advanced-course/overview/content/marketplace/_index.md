@@ -5,18 +5,18 @@ title: "Marketplace"
 weight: 6
 ---
 
-**Details**
+Details
  - Scale up your applications
  - Access a curated collection of solution templates
  - Leverage ready-to-use managed services
 
-### **Web**
+### Web
 
 The compplete marketplace portfolio with description can be found here: [exoscale.com/marketplace](https://www.exoscale.com/marketplace/)
 
 ![marketplace-web](marketplace-web.png)
 
-### **Portal**
+### Portal
 
 The tighly integrated marketplace products are easy to reach in the product portal: [portal.exoscale.com/marketplace](https://portal.exoscale.com/login?next=%2Fmarketplace%3F)
 
