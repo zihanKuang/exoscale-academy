@@ -5,22 +5,22 @@ title: "Backup"
 weight: 7
 ---
 
-**Explained**
-**Solutions:**
+Explained
+Solutions:
 
 - Backup solutions existed well before cloud services were invented
 - Companies or teams had their specific preferred backup solution
 - Exoscale does not impose a specific solution
 - Multiple possibilities available
 
-### **Snapshots**
-**Do a full snapshot of a VM**
+### Snapshots
+Do a full snapshot of a VM
 
 - Easy to implement and automate
 - Easy to fully restore Restores
 - Easily create a template from a Snapshot
 
-**Hard to do partial restores**
+Hard to do partial restores
 
 - Always the full disk is snapshotted -> Consumes a lot of space and incurs cost
 - When a VM is deleted, Snapshots are also deleted
@@ -28,8 +28,8 @@ weight: 7
 
 ![snapshots-ui](snapshots-ui.png)
 
-### **Agent Based Backup**
-**Backup the filesystem to an S3 bucket (potentially in a different zone):**
+### Agent Based Backup
+Backup the filesystem to an S3 bucket (potentially in a different zone):
 
 - Incremental
 - Partial restores
@@ -39,13 +39,13 @@ weight: 7
 
 ![backup-abb1](backup-abb1.png)
 
-**Restoring – Option A:**
+Restoring – Option A:
 
 - Restore file system directly (i.e., using Restic)
 
 ![backup-abb2](backup-abb2.png)
 
-**Restoring – Option B:**
+Restoring – Option B:
 
 - Restore whole system (i.e., using UrBackup, Bareos)
 
