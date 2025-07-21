@@ -1,6 +1,5 @@
 ---
 title: "Learn"
-courseTitle: "Pod"
 weight: 2
 ---
 

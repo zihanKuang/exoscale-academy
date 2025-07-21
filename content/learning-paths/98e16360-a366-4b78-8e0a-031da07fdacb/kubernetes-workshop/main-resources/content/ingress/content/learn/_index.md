@@ -1,6 +1,5 @@
 ---
 title: "Learn"
-courseTitle: "Ingress"
 weight: 2
 ---
 

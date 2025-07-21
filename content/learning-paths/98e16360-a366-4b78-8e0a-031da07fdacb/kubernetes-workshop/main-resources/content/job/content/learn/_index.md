@@ -1,7 +1,6 @@
 ---
 title: "Learn"
 lectures: 1
-courseTitle: "Jobs & CronJobs"
 weight: 2
 ---
 

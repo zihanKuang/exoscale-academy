@@ -1,6 +1,5 @@
 ---
 title: "Practice"
-courseTitle: "Ingress"
 weight: 2
 ---
 

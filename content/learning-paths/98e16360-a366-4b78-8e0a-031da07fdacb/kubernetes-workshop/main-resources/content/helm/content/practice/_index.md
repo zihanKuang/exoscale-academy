@@ -1,6 +1,5 @@
 ---
 title: "Practice"
-courseTitle: "Helm"
 weight: 2
 ---
 ## Package and distribute the VotingApp with Helm

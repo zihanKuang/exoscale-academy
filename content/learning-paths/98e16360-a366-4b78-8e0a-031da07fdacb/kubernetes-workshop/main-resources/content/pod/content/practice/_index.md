@@ -1,6 +1,5 @@
 ---
 title: "Practice"
-courseTitle: "Pod"
 weight: 4
 ---
 

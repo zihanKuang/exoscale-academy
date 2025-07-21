@@ -1,6 +1,5 @@
 ---
 title: "Practice"
-courseTitle: "Service"
 weight: 4
 ---
 
