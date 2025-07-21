@@ -13,11 +13,11 @@ Let's look at two examples. First, a simple hello-world container and second, a 
 
 - simple hello-world container
 
-![hello-world-container]({{< usestatic "sks-starter/hello-world-container.png" >}})
+![hello-world-container](hello-world-container.png)
 
 - simple ubuntu container
 
-![ubuntu-container]({{< usestatic "sks-starter/ubuntu-container.png" >}})
+![ubuntu-container](ubuntu-container.png)
 
 Watch these two examples below in the videos.
 

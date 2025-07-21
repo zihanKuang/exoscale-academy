@@ -32,6 +32,5 @@ node app.js
 ```
 
 The application at work, displaying Hello World!:
-
-![nodejs-app]({{< usestatic "nodejs-app.png" >}})
+![nodejs-app](nodejs-app.png)
 
