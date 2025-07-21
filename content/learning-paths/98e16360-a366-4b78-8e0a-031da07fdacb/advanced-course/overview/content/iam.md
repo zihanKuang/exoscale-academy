@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "IAM"
 description: ""
 title: "IAM"

@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Scaling"
 description: ""
 title: "Scaling"

@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Organization"
 description: ""
 title: "Organization"

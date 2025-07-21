@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Basics - Knowledge Check"
 description: ""
 title: "Basics - Knowledge Check"

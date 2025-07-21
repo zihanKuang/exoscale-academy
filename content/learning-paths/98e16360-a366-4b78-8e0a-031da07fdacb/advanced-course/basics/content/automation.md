@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Automation"
 description: ""
 title: "Automation"

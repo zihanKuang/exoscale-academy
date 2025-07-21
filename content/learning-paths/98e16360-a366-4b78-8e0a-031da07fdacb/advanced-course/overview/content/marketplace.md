@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Marketplace"
 description: ""
 title: "Marketplace"

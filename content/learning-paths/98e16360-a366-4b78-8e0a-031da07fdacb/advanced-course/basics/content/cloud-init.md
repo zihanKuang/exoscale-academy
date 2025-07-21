@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Cloud-Init"
 description: ""
 title: "Cloud-Init"

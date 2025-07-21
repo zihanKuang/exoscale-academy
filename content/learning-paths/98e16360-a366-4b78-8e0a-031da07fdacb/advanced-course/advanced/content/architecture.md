@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Architecture"
 description: ""
 title: "Architecture"

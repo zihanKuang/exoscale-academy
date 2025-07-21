@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Traffic"
 description: ""
 title: "Traffic"

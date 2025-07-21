@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "DBaaS"
 description: ""
 title: "DBaaS"

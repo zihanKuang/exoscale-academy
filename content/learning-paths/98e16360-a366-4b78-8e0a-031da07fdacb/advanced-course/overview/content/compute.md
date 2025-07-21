@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Compute"
 description: ""
 title: "Compute"

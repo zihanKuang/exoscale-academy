@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Intro"
 description: ""
 title: "Intro"
@@ -18,13 +17,13 @@ This course targets people who do not need to sell cloud services or develop sof
 
 Infrastructure as a Service is the cloud service model we support with the Exoscale platform and a bit more, hence, IaaS+.
 
-![image]({{< usestatic "advanced-course/iaas-arch.png" >}})
+![iaas-arch]({{< usestatic "advanced-course/iaas-arch.png" >}})
 
 ### **Platform**
 
 A state-of-the-art IaaS platform providing the building blocks for your application infrastructure.
 
-![image]({{< usestatic "advanced-course/iaas-over.png" >}})
+![iaas-over]({{< usestatic "advanced-course/iaas-over.png" >}})
 
 ### **Data Centers**
 

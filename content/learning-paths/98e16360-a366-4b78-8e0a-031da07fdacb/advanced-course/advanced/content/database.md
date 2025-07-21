@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Database"
 description: ""
 title: "Database"

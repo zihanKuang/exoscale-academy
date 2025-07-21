@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Private Network"
 description: ""
 title: "Private Network"

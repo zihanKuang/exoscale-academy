@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Storage"
 description: ""
 title: "Storage"

@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "DNS"
 description: ""
 title: "DNS"

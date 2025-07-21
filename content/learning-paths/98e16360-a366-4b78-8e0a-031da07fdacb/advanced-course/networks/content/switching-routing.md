@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Switching/Routing"
 description: ""
 title: "Switching/Routing"

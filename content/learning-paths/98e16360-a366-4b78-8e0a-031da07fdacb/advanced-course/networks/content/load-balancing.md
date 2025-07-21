@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Load Balancing"
 description: ""
 title: "Load Balancing"

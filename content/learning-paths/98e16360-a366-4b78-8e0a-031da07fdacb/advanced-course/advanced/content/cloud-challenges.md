@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Cloud Challenges"
 description: ""
 title: "Cloud Challenges"

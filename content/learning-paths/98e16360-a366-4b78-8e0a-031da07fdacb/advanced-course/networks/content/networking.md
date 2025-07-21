@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Networking"
 description: ""
 title: "Networking"

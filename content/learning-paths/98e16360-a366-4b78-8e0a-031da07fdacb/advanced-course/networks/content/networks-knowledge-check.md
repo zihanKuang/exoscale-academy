@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 id: "Networks - Knowledge Check"
 description: ""
 title: "Networks - Knowledge Check"
