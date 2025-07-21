@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 title: "Learn"
 courseTitle: "Configuration"
 weight: 2
