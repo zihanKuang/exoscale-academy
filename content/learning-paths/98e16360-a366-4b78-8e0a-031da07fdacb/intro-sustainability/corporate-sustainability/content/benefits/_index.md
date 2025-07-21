@@ -12,7 +12,7 @@ weight: 3
 - Competitive Advantage
 - Risk Management
 
-![sustainability]({{< usestatic "intro-sustainability/sec3-sub1-unit3-sus101-3.png" >}})
+![sustainability](sec3-sub1-unit3-sus101-3.png)
 
 ### Attracting Investors
 

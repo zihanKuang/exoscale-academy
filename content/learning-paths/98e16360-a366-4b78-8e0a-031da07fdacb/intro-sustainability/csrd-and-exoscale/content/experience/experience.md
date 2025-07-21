@@ -7,7 +7,7 @@ weight: 1
 
 ### Experience
 
-![exo-scale]({{< usestatic "intro-sustainability/sec3-sub6-unit1-csrd-exo-1.png" >}})
+![exo-scale](sec3-sub6-unit1-csrd-exo-1.png)
 
 Exoscale, a European cloud service provider, has developed a pioneering tool, CloudAssess, in collaboration with Resilio and Kleis, to show the environmental impact of customer's cloud usage transparently.
 
