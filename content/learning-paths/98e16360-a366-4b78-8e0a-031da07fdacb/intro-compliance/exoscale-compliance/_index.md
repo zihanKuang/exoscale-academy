@@ -1,7 +1,7 @@
 ---
 title: "Exoscale's Compliance"
 description: ""
-cardImage: "/images/learning-path/kubernetes-icon.svg"
+banner: ""
 courses: 6
 weight: 3
 ---

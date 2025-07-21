@@ -1,7 +1,7 @@
 ---
 title: "Exoscale's Contractual Setup"
 description: ""
-cardImage: "/images/learning-path/kubernetes-icon.svg"
+banner: ""
 courses: 1
 weight: 7
 ---
