@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Use Cases - File Storage"
-chapterTitle: "Use Cases - File Storage"
 description: ""
 title: "Use Cases - File Storage"
 weight: 3

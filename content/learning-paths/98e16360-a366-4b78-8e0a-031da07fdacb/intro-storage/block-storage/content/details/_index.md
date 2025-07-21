@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Details - Block Storage"
-chapterTitle: "Details - Block Storage"
 description: ""
 title: "Details - Block Storage"
 weight: 3

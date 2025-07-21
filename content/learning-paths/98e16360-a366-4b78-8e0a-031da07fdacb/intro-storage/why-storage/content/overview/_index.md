@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Storage Criteria"
-chapterTitle: "Storage Criteria"
 description: ""
 title: "Storage Criteria"
 weight: 3
@@ -9,7 +7,7 @@ weight: 3
 
 ### **Overview**
 
-![storage]({{< usestatic "intro-storage/sec3-sub1-unit2-criteria.png" >}})
+![criteria](criteria.png)
 
 | Criteria      | Description                                              |
 |---------------|----------------------------------------------------------|

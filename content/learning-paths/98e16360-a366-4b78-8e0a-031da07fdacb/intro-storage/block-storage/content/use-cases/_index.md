@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Use Cases - Block Storage"
-chapterTitle: "Use Cases - Block Storage"
 description: ""
 title: "Use Cases - Block Storage"
 weight: 3
