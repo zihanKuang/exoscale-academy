@@ -11,7 +11,7 @@ weight: 5
 - Standards and Frameworks
 - Sustainability Performance
 
-![sustainability]({{< usestatic "sec3-sub1-unit5-sus101-5.png" >}})
+![sustainability](sec3-sub1-unit5-sus101-5.png)
 
 Reporting sustainability performance and strategies is vital for accountability and transparency. Tools like the Global Reporting Initiative (GRI) and Sustainable Accounting Standards Board (SASB) and frameworks like the EU Corporate Sustainability Reporting Directive (CSRD) set standards for reporting on environmental, social, and governance (ESG) criteria.
 

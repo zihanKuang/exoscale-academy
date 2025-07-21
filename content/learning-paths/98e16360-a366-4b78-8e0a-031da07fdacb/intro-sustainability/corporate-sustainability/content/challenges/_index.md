@@ -11,7 +11,7 @@ weight: 4
 - Evolving Expectations
 - Complex Measurement
 
-![sustainability]({{< usestatic "sec3-sub1-unit4-sus101-4.png" >}})
+![sustainability](sec3-sub1-unit4-sus101-4.png)
 
 ### Initial Costs
 

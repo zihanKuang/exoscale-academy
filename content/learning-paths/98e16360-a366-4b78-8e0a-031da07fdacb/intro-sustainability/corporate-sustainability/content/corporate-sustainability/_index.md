@@ -19,7 +19,7 @@ weight: 1
 
 - Social and Environmental Responsibility: Companies must minimize adverse environmental and societal impacts. Adopting sustainable practices demonstrates a commitment to being a responsible corporate citizen, benefiting the company and the wider community. 
 
-![sustainability]({{< usestatic "sec3-sub1-unit1-cs-1.png" >}})
+![sustainability](sec3-sub1-unit1-cs-1.png)
 
 ### Definition
 
