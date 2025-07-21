@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "New Ideas & Concepts"
-chapterTitle: "New Ideas & Concepts"
+id: "new-ideas-&-concepts"
 description: ""
 title: "New Ideas & Concepts"
 weight: 2
@@ -17,4 +15,4 @@ Replication of success is always desirable and sparked a new way of operating IT
 
 Container Technology in the shipping industry Instead of thinking up a separate way of shipping for each product, placing the goods in steel containers designed for pickup by the crane on the dock and fit into the ship is a more efficient way to do transport at scale.
 
-![image]({{< usestatic "intro-k8/ship.png" >}})
+![image](ship.png)

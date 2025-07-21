@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "Features"
-chapterTitle: "Features"
+id: "features"
 description: ""
 title: "Features"
 weight: 3
@@ -9,7 +7,7 @@ weight: 3
 
 ### **Features**
 
-![image]({{< usestatic "intro-k8/features.png" >}})
+![image](features.png)
 
 ### **Kubernetes provides the following features**
 #### **self-healing**

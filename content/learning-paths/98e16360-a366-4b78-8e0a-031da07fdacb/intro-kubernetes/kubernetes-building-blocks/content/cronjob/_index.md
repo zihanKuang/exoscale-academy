@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "CRONJOBs"
-chapterTitle: "CRONJOBs"
+id: "cronjobs"
 description: ""
 title: "CRONJOBs"
 weight: 7
@@ -11,4 +9,4 @@ weight: 7
 
 Use familiar cron syntax to schedule tasks. CronJobs are part of the Batch API for creating short-lived non-server tools. CronJobs provide a method for scheduling the execution of Pods. They are excellent for running periodic tasks like backups, reports, and automated tests.
 
-![image]({{< usestatic "intro-k8/cronjob.png" >}})
+![image](cronjob.png)

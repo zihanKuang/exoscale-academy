@@ -1,7 +1,6 @@
 ---
-title: "INTRO Kubernetes"
+title: "Intro Kubernetes"
 description: "New to container and container orchestration? This INTRO Kubernetes - Learning Path covers the foundational topics for a non-technical audience and conveys the benefits of containers and container orchestration for modern IT scenarios. It will help you learn the basics of terminology associated, understand the essential components' functions, and understand why these new technologies are so important."
-cardImage: "/images/learning-path/kubernetes-icon.svg"
-courses: 6
+banner: "/images/learning-path/kubernetes-icon.svg"
 weight: 1
 ---
