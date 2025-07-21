@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Namespace Theory"
-chapterTitle: "Namespace Theory"
 description: ""
 title: "Namespace Theory"
 weight: 8
@@ -11,7 +9,7 @@ weight: 8
 
 Namespaces provide separation of components and are a construct to introduce additional structure to your configurations.
 
-![image]({{< usestatic "sks-advance/namespace-theory.png" >}})
+![namespace-theory](namespace-theory.png)
 
 How the construct namespace works is shown in the video below.
 

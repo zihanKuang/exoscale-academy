@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Namespace Praxis"
-chapterTitle: "Namespace Praxis"
 description: ""
 title: "Namespace Praxis"
 weight: 9
@@ -11,7 +9,7 @@ weight: 9
 
 How does this separation look like in praxis, and how to leverage the namespace concept for better orchestration.
 
-![image]({{< usestatic "sks-advance/namespace-praxis.png" >}})
+![namespace-praxis](namespace-praxis.png)
 
 See the application of this construct in praxis in the video below.
 

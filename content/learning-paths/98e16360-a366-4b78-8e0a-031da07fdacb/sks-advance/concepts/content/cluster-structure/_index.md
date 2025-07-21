@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Cluster Structure"
-chapterTitle: "Cluster Structure"
 description: ""
 title: "Cluster Structure"
 weight: 4
@@ -11,7 +9,7 @@ weight: 4
 
 Let's have a look at the Kubernetes Cluster and its components. Although it is quite a complex structure, the beauty of SKS is that we manage the complexity. Kubernetes as a managed service remains a very flexible solution because the possibility of shaping the services with add-ons makes it very customizable.
 
-![image]({{< usestatic "sks-advance/cluster-structure.png" >}})
+![cluster-structure](cluster-structure.png)
 
 #### **Cluster Structure"**
 {{< card 

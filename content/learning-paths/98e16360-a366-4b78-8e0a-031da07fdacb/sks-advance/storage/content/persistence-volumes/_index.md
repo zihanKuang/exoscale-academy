@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Persistent Volumes"
-chapterTitle: "Persistent Volumes"
 description: ""
 title: "Persistent Volumes"
 weight: 3

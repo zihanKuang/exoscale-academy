@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Ingress"
-chapterTitle: "Ingress"
 description: ""
 title: "Ingress"
 weight: 2
@@ -13,7 +11,7 @@ We already know the LoadBalancer service in Kubernetes from the SKS starter cour
 
 The Ingress uses a reverse proxy, like Nginx, to handle network layer 7 balancing in the Kubernetes cluster and the often needed additional, multiple routing paths. If there are advanced routing demands, the Ingress service can provide and handle them.
 
-![image]({{< usestatic "sks-advance/ingress.png" >}})
+![ingress](ingress.png)
 
 #### **Ingress**
 {{< card 

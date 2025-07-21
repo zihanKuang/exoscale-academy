@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Longhorn Theory"
-chapterTitle: "Longhorn Theory"
 description: ""
 title: "Longhorn Theory"
 weight: 5
@@ -11,11 +9,11 @@ weight: 5
 
 Longhorn provides a storage class that Kubernetes can use to define a persistent volume claim (PVC).
 
-![image]({{< usestatic "sks-advance/longhorn.png" >}})
+![longhorn-theory](longhorn.png)
 
 Longhorn is a technology that enables local, non-persistent storage provided by the worker nodes as highly available storage for stateful applications with the need for persistent storage, e.g., a database.
 
-![image]({{< usestatic "sks-advance/longhorn2.png" >}})
+![longhorn-theory](longhorn2.png)
 
 #### **Longhorn Theory**
 {{< card 

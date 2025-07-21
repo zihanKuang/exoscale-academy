@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Troubleshooting"
-chapterTitle: "Troubleshooting"
 description: ""
 title: "Troubleshooting"
 weight: 1

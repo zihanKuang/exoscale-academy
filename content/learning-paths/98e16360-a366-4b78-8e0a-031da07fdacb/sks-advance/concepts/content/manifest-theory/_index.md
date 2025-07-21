@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Manifest Theory"
-chapterTitle: "Manifest Theory"
 description: ""
 title: "Manifest Theory"
 weight: 5
@@ -11,7 +9,7 @@ weight: 5
 
 The beauty of Kubernetes lies in its descriptive/declarative nature of infrastructure management and operation. Instead of writing a series of single commands on the CLI, you write it down in a stateless manifest; the format used is a .yaml - file.
 
-![image]({{< usestatic "sks-advance/manifest-theory.png" >}})
+![manifest-theory](manifest-theory.png)
 
 The manifest concept details and how to compose them are laid out in the video below.
 

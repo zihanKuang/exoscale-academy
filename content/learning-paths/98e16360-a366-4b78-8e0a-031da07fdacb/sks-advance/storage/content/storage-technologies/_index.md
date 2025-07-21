@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Storage Technologies"
-chapterTitle: "Storage Technologies"
 description: ""
 title: "Storage Technologies"
 weight: 4

@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Updates Praxis"
-chapterTitle: "Updates Praxis"
 description: ""
 title: "Updates Praxis"
 weight: 11
@@ -15,7 +13,7 @@ The concept of rolling updates allows an update with zero downtime by incrementa
 
 The declarative nature of Kubernetes and the tracking of your actions makes undo's and redo's possible to keep the desired state of your application while extending or fixing the very same application. And, if necessary, make changes to the actual condition in a controlled way to reach the desired state again. Suppose done right with zero downtime for your application.
 
-![image]({{< usestatic "sks-advance/updates-praxis.png" >}})
+![updates-praxis](updates-praxis.png)
 
 The video below demonstrates this rather complex sounding process in some of its possible variations. Therefore, a more extended sequence was necessary to show all the essential concepts coming together and let you experience the flexibility and stability of a Kubernetes environment.
 
