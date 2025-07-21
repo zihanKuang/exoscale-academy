@@ -6,17 +6,17 @@ weight: 2
 ---
 
 
-**Explained**
+Explained
 
 There are challenges in the cloud. We just have reviewed to most common ones. Building reliable, scalable, and well-performing cloud-based solutions is down to leveraging proven architectures and best practices and thinking of cloud-native approaches to the challenges you want to solve.
 
-### **Simple Architecture**
+### Simple Architecture
 
 Quickly scale up for more performance and easily scale down to safe cost or serve a scenario with fewer performance needs. It is also important to safely store all data and configurations in backups and enable applications to be highly available. All of those requirements are reflected in your architecture.
 
 ![simple-arch](simple-arch.png)
 
-### **Stateless Architecture**
+### Stateless Architecture
 
 Applications with stateless architecture (stateless apps) allow you to easily scale:
 
@@ -26,16 +26,16 @@ Applications with stateless architecture (stateless apps) allow you to easily sc
     - Use JWT (JSON Web Tokens)
     - Save session state in a database (e.g., Redis)
 
-**->** Stateless Apps can be booted multiple times in conjunction with a Load Balancer & Cloud-Init.
+-> Stateless Apps can be booted multiple times in conjunction with a Load Balancer & Cloud-Init.
 
-### **Monolith vs Microservices**
+### Monolith vs Microservices
 
 Two very common application architecture used for designing solution on-permises and in the cloud, but also very different ones.
 
 ![mono-vs-micro](mono-vs-micro.png)
 
-### **Kubernetes**
-**Scalable Kubernetes Service (SKS)**
+### Kubernetes
+Scalable Kubernetes Service (SKS)
 
 Potential requirements for your application:
 
@@ -47,12 +47,12 @@ Potential requirements for your application:
 - Cost Effectiveness
 - Simple development and release process
 
-**->** Consider our Managed Kubernetes SKS
+-> Consider our Managed Kubernetes SKS
 
-**->** Courses available: SKS Starter & SKS Advanced
+-> Courses available: SKS Starter & SKS Advanced
 
-### **High Availability & Disaster Recovery**
-**Expect the Unexpected**
+### High Availability & Disaster Recovery
+Expect the Unexpected
 
 - Design and develop plans before things happen
 - Plan how you want to achieve High-Availability use e.g., - Kubernetes, Load-Balancers
