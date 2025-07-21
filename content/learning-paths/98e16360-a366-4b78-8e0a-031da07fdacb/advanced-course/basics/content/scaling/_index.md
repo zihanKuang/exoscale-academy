@@ -5,7 +5,7 @@ title: "Scaling"
 weight: 4
 ---
 
-**Overview**
+Overview
 
 The Exoscale Platform provides two ways of scaling:
 
@@ -16,21 +16,21 @@ Which way should be used also depends on your app's architecture, and there is a
 
 ![scaling-v-h](scaling-v-h.png)
 
-### **Vertical**
+### Vertical
 
 - Can be done any time, while the instance is stopped
 - Billing is always by the second
 
 ![scaling-v](scaling-v.png)
 
-### **Horizontal**
+### Horizontal
 
 - Can be done any time, no instance stopping necessary
 - Billing is always by the second
 
 ![scaling-h](scaling-h.png)
 
-### **Instance Pools**
+### Instance Pools
 
 Multiple compute instances with the same configuration in a group:
 
@@ -43,7 +43,7 @@ Multiple compute instances with the same configuration in a group:
 
 ![my-instance-pool](my-instance-pool.png)
 
-### **Automation**
+### Automation
 - Can be scaled down and up by sending commands to the Exoscale API or CLI
 - Easily and fully automatable out of the box using Kubernetes
 
