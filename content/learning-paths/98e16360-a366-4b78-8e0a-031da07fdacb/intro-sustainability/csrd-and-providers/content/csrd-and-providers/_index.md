@@ -9,7 +9,7 @@ weight: 1
 
 The CSRD promotes enhanced transparency and accountability, urging cloud providers to adopt greener practices and align with global sustainability goals, aiding the shift to a sustainable digital economy.
 
-![docker-run]({{< usestatic "intro-sustainability/sec3-sub5-unit1-csrd-prov-1.png" >}})
+![docker-run]({{< usestatic "sec3-sub5-unit1-csrd-prov-1.png" >}})
 
 ### Impacts
 
