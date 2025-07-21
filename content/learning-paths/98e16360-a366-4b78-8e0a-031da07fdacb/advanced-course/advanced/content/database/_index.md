@@ -5,7 +5,7 @@ title: "Database"
 weight: 3
 ---
 
-**Overview**
+Overview
 
 Looking at databases, we see that the managed version delivers the benefits of simplifying the tasks associated with provisioning and maintaining a database. However, you will still need some experience working with databases to interact with them as you build and scale your app.
 
@@ -20,11 +20,11 @@ Exoscale DBaaS is an excellent solution for everyone looking for a diverse portf
 
 ![dbaas-fully-managed](dbaas-fully-managed.png)
 
-### **DBaas Plans**
+### DBaas Plans
 
 ![dbaas-plans](dbaas-plans.png)
 
-### **DBaaS Update**
+### DBaaS Update
 **Update Process – how does it work ?**
 
 Database always accessible via a DNS-Address
@@ -53,7 +53,7 @@ Update Process handles everything fully automatic in the background:
 
 ![dbaas-update4](dbaas-update4.png)
 
-### **DBaaS - Further Possibilities**
+### DBaaS - Further Possibilities
 
 What is possible depending on the database:
 
