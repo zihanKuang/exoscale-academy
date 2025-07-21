@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Storage Criteria"
-chapterTitle: "Storage Criteria"
 description: ""
 title: "Storage Criteria"
 weight: 3

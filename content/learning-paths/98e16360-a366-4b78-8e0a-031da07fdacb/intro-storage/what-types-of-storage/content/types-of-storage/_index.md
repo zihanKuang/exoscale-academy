@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Storage Types"
-chapterTitle: "Storage Types"
 description: ""
 title: "Storage Types"
 weight: 3

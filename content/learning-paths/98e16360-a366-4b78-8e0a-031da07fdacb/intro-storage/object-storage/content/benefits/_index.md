@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Benefits - Object Storage"
-chapterTitle: "Benefits - Object Storage"
 description: ""
 title: "Benefits - Object Storage"
 weight: 3

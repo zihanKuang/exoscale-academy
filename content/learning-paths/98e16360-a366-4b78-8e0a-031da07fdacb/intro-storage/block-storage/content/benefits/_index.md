@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Benefits - Block Storage"
-chapterTitle: "Benefits - Block Storage"
 description: ""
 title: "Benefits - Block Storage"
 weight: 3

@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Storage Duration"
-chapterTitle: "Storage Duration"
 description: ""
 title: "Storage Duration"
 weight: 3

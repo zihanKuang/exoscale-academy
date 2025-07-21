@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Object vs Block"
-chapterTitle: "Object vs Block"
 description: ""
 title: "Object vs Block"
 weight: 3

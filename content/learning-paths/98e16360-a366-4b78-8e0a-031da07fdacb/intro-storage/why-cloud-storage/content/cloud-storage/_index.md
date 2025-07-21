@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Cloud Storage"
-chapterTitle: "Cloud Storage"
 description: ""
 title: "Cloud Storage"
 weight: 3
