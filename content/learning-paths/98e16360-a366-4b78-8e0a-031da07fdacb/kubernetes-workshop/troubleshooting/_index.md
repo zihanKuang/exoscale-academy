@@ -1,5 +1,4 @@
 ---
-docType: "Course"
 title: "Troubleshooting"
 description: "This section presents some common deployment errors and how to troubleshoot them."
 courseTitle: "Troubleshooting"

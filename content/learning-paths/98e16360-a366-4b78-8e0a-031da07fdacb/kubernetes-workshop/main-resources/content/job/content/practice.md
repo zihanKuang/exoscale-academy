@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 title: "Practice"
 courseTitle: "Jobs & CronJobs"
 weight: 2

@@ -1,5 +1,4 @@
 ---
-docType: "Chapter"
 title: "Practice"
 courseTitle: "Service"
 weight: 4

@@ -1,5 +1,4 @@
 ---
-docType: "Course"
 title: "Resources"
 description: "Learn and Practice Main Resources"
 courseTitle: "Resources"
