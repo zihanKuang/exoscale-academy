@@ -6,8 +6,6 @@ weight: 12
 ---
 
 
-
-
 ### **From Docker To Kubernetes**
 If you want to scale all the container benefits to an entire IT environment, you need additional functions to coordinate, scale, manage, and automate. For example, taking containerized applications from your local machine to your local server can be done without additional help. Still, if you want to do this with 10, 100, or even 1000 applications and start distributing the workloads, clustering them for higher availability and stability in operations to serve the 24/7 demands of today's customers, you need additional help. This help for containerized applications is Kubernetes. This help for a scalable, available, and more flexible infrastructure is Exoscale.
 

@@ -1,9 +1,6 @@
 ---
-docType: "Chapter"
 id: "SKS Welcome"
-chapterTitle: "SKS Welcome"
 description: ""
-lectures: 4
 title: "SKS Welcome"
 weight: 1
 ---
