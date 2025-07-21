@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "Powered by Aiven"
-chapterTitle: "Powered by Aiven"
+id: "powered-by-aiven"
 description: ""
 title: "Powered by Aiven"
 weight: 3
@@ -13,11 +11,11 @@ weight: 3
 - The partnership offers Exoscale customers an integrated environment for their complete cloud infrastructure – without any security compromise.
 - Both companies are GDPR-compliant to ensure the highest standards for customers’ data. The sole use of Open Source projects ensures that customers are not vendor locked-in and always at the latest technology standard.
 
-![aiven-exoscale]({{< usestatic "intro-dbaas/aiven-exoscale.png" >}}) 
+![aiven-exoscale](aiven-exoscale.png) 
 
 ### **About Aiven**
 
-![about-aiven]({{< usestatic "intro-dbaas/about-aiven.png" >}}) 
+![about-aiven](about-aiven.png) 
 
 #### **Fast Facts Aiven**
 

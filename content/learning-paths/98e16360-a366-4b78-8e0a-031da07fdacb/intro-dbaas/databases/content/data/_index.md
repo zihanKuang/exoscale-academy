@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "Data"
-chapterTitle: "Data"
+id: "data"
 description: ""
 title: "Data"
 weight: 1
@@ -14,7 +12,7 @@ Data is the fuel of our society. Can we agree on that? There were many bold stat
 " Like water, data needs to be accessible, it needs to be clean, and it is needed to survive." - Dan Vesset (IDC)
 
 
-![cloud]({{< usestatic "intro-dbaas/data-word-cloud.png" >}}) 
+![cloud](data-word-cloud.png) 
 
 *Data Word Cloud*
 

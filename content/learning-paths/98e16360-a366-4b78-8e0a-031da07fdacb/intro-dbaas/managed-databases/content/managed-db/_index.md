@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
-id: "Managed Databases"
-chapterTitle: "Managed Databases"
+id: "managed-databases"
 description: ""
 title: "Managed Databases"
 weight: 2
@@ -15,7 +13,7 @@ Suppose we do such evaluations in the context of IT services and factor in movin
 
 Please don't put your data center glasses away too quickly. Instead, let us dig into more details about infrastructure and operations costs and look at the table below.
 
-![capex-opex]({{< usestatic "intro-dbaas/capex-opex.png" >}}) 
+![capex-opex](capex-opex.png) 
 
 Running modern applications is a demanding business. Besides the always needed machine and storage components, more sophisticated elements like Kubernetes (k8s) clusters/nodes, load balancers, software licenses, and last but not least, required connectivity to those applications in the form of ingress and egress.
 
