@@ -77,10 +77,10 @@ runcmd:
 
 **cloud-init**
 
-![image]({{< usestatic "advanced-course/cloud-init-info.png" >}})
+![cloud-init-info](cloud-init-info.png)
 
 ### **LINK Cloud-Init Documentation**
 
-![image]({{< usestatic "advanced-course/cloud-init-logo.png" >}})
+![cloud-init-logo](cloud-init-logo.png)
 
 [cloudinit.readthedocs.io](https://cloudinit.readthedocs.io/en/latest/#)

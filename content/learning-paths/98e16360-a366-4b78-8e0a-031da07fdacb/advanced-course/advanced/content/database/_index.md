@@ -18,11 +18,11 @@ Exoscale DBaaS is an excellent solution for everyone looking for a diverse portf
 - **No Vendor Lock-In** - keep your cloud infrastructure independent and flexible with our offering of open-source databases.
 - **Your Data Stays In Europe** - all data is stored in the country of your chosen zone, fully GDPR compliant. DBaaS is available across European zones.
 
-![image]({{< usestatic "advanced-course/dbaas-fully-managed.png" >}})
+![dbaas-fully-managed](dbaas-fully-managed.png)
 
 ### **DBaas Plans**
 
-![image]({{< usestatic "advanced-course/dbaas-plans.png" >}})
+![dbaas-plans](dbaas-plans.png)
 
 ### **DBaaS Update**
 **Update Process – how does it work ?**
@@ -39,19 +39,19 @@ Update Process handles everything fully automatic in the background:
 
 **->** Downtime of less than 10 seconds
 
-![image]({{< usestatic "advanced-course/dbaas-update1.png" >}})
+![dbaas-update1](dbaas-update1.png)
 
 **Update Process - Step 1**
 
-![image]({{< usestatic "advanced-course/dbaas-update2.png" >}})
+![dbaas-update2](dbaas-update2.png)
 
 **Update Process - Step 2**
 
-![image]({{< usestatic "advanced-course/dbaas-update3.png" >}})
+![dbaas-update3](dbaas-update3.png)
 
 **Update Process - Step 3**
 
-![image]({{< usestatic "advanced-course/dbaas-update4.png" >}})
+![dbaas-update4](dbaas-update4.png)
 
 ### **DBaaS - Further Possibilities**
 

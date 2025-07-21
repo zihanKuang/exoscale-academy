@@ -9,7 +9,7 @@ weight: 1
 
 This topic has many layers and can be intimidating and complex sometimes. Therefore, we break it down into smaller pieces to convey the cloud-relevant parts of it and introduce Exoscale networking features. If the diagram below looks intimidating to you, don't worry. After completing this section of the course, it will feel very natural.
 
-![image]({{< usestatic "advanced-course/networking.png" >}})
+![networking](networking.png)
 
 The next steps are to look into the following topics and demystify networking:
 
@@ -19,4 +19,4 @@ The next steps are to look into the following topics and demystify networking:
 
 and at the same time refere to the network layer model and match our topics to it.
 
-![image]({{< usestatic "advanced-course/network-layers.png" >}})
+![network-layers](network-layers.png)

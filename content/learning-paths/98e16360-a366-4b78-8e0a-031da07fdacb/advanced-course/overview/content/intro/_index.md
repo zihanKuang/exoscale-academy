@@ -17,19 +17,19 @@ This course targets people who do not need to sell cloud services or develop sof
 
 Infrastructure as a Service is the cloud service model we support with the Exoscale platform and a bit more, hence, IaaS+.
 
-![iaas-arch]({{< usestatic "advanced-course/iaas-arch.png" >}})
+![iaas-arch](iaas-arch.png)
 
 ### **Platform**
 
 A state-of-the-art IaaS platform providing the building blocks for your application infrastructure.
 
-![iaas-over]({{< usestatic "advanced-course/iaas-over.png" >}})
+![iaas-over](iaas-over.png)
 
 ### **Data Centers**
 
 Getting the necessary cloud infrastructure components is easy. In Europe, there is always an Exoscale data center near you.
 
-![image]({{< usestatic "advanced-course/our-dcs.png" >}})
+![our-dcs](our-dcs.png)
 
 Before we start the Solution Architect journey, we need a quick overview of the main benefits of using the cloud infrastructure provided by the Exoscale platform and the portfolio of products it consists of.
 
@@ -44,4 +44,4 @@ The real beauty of the cloud is that everything is customizable and automatable 
 
 ###  **Exosscale Products**
 
-![image]({{< usestatic "advanced-course/our-wui.png" >}})
+![our-wui](our-wui.png)

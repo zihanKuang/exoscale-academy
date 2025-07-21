@@ -28,27 +28,27 @@ Example IP address: **10.55.22.1/32**
 - Each computer can talk to the other on the same local network
 - And it must be on the same subnet
 
-![image]({{< usestatic "advanced-course/switching.png" >}})
+![switching](switching.png)
 
 ### **IP Addresses**
 **A subnet for one IP address**
 
-![image]({{< usestatic "advanced-course/ip-address1.png" >}})
+![ip-address1](ip-address1.png)
 
 **A subnet for two IP addresses**
 
-![image]({{< usestatic "advanced-course/ip-address2.png" >}})
+![ip-address2](ip-address2.png)
 
 **More subnets**
 
-![image]({{< usestatic "advanced-course/ip-addresses.png" >}})
+![ip-addresses](ip-addresses.png)
 
 **A subnet for 256 IP addresses**
 
-![image]({{< usestatic "advanced-course/ip-adress256.png" >}})
+![ip-adress256](ip-adress256.png)
 
 ### **Routing Subnets**
 - Talk to different subnets --> router (gateway) must be used
 - Gateway IP needs to be specified --> Gateway IP must be usually on same subnet
 
-![image]({{< usestatic "advanced-course/networking1.png" >}})
+![networking1](networking1.png)
