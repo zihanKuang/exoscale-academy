@@ -26,7 +26,7 @@ The choice between these storage types depends on your specific requirements and
 Let's take a closer look at each of them.
 
 
-![storage]({{< usestatic "intro-storage/sec3-sub3-unit1-file-object-block.png" >}})
+![file-object-block](file-object-block.png)
 
 ### **Files Storage**
 

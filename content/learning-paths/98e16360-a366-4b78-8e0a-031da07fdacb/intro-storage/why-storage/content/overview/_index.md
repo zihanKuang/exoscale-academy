@@ -9,7 +9,7 @@ weight: 3
 
 ### **Overview**
 
-![storage]({{< usestatic "intro-storage/sec3-sub1-unit2-criteria.png" >}})
+![criteria](criteria.png)
 
 | Criteria      | Description                                              |
 |---------------|----------------------------------------------------------|

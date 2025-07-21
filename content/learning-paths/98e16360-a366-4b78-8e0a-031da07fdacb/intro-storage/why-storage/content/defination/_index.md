@@ -11,7 +11,7 @@ weight: 3
 Storage is crucial for preserving and accessing computer data, files, applications, and other digital content. Storage refers to the process of storing and retrieving data or information. It is an essential component of any computer system.
 
 
-![storage]({{< usestatic "intro-storage/sec3-sub1-unit1-storage-color.jpg" >}})
+![storage-color](storage-color.jpg)
 
 ### **Basic Storage Types**
 
@@ -63,7 +63,7 @@ Unlike ephemeral storage, which is temporary and local to a computing instance, 
 
 In contrast to ephemeral storage, persistent storage is designed for long-term data storage and is typically provided by external storage systems such as network-attached storage (NAS), storage area networks (SAN), or cloud-based object storage services. Persistent storage is durable and can survive system restarts or failures, ensuring that data is not lost.
 
-![storage_tier]({{< usestatic "intro-storage/sec3-sub1-unit1-storage-tier.jpg" >}})
+![storage_tier](storage-tier.jpg)
 
 ### **Storage Tier**
 
@@ -77,7 +77,7 @@ The purpose of implementing storage tiers is to optimize the utilization of stor
 
 Storage tiers are often associated with hierarchical storage management (HSM) systems or storage virtualization technologies. These systems automatically move data between different tiers based on predefined policies and data access patterns. This dynamic data movement helps to balance performance, cost, and capacity requirements.
 
-![storage_sys]({{< usestatic "intro-storage/sec3-sub1-unit1-storage-sys.jpg" >}})
+![storage_sys](storage-sys.jpg)
 
 ### **Storage Type vs Storage Tier**
 
