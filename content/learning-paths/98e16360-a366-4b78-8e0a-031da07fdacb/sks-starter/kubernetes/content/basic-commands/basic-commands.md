@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Basic Commands"
-chapterTitle: "Basic Commands"
 description: ""
 title: "Basic Commands"
 weight: 6

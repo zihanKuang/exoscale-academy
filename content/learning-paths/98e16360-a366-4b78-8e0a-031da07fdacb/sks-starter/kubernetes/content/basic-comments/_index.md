@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Basic Concepts"
-chapterTitle: "Basic Concepts"
 description: ""
 title: "Basic Concepts"
 weight: 8
@@ -18,7 +16,7 @@ The four foundational Kubernetes concepts listed below are essential to run your
 
 These four concepts are explained in more detail in the videos below.
 
-![basic-concepts]({{< usestatic "sks-starter/basic-concepts.png" >}})
+![basic-concepts](basic-concepts.png)
 
 #### **PODs**
 {{< card 

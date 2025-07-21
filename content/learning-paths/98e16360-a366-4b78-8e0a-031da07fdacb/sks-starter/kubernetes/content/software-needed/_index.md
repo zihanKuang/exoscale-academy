@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Software Needed"
-chapterTitle: "Software Needed"
 description: ""
 title: "Software Needed"
 weight: 2

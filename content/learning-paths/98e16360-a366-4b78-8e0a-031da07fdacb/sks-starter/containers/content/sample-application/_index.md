@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Sample Application"
-chapterTitle: "Sample Application"
 description: ""
 title: "Sample Application"
 weight: 2
@@ -33,5 +31,5 @@ node app.js
 
 The application at work, displaying Hello World!:
 
-![nodejs-app]({{< usestatic "nodejs-app.png" >}})
+![nodejs-app](nodejs-app.png)
 
