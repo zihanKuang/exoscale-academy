@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Basic Concepts"
-chapterTitle: "Basic Concepts"
 description: ""
 title: "Basic Concepts"
 weight: 8

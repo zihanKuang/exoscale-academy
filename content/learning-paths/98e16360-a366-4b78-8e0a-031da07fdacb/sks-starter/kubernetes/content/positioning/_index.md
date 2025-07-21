@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Positoning"
-chapterTitle: "Positoning"
 description: ""
 title: "Positoning"
 weight: 5

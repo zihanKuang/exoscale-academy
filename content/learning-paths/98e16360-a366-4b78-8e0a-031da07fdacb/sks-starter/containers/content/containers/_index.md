@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Containers"
-chapterTitle: "Containers"
 description: ""
 title: "Containers"
 weight: 5

@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Simple Examples"
-chapterTitle: "Simple Examples"
 description: ""
 title: "Simple Examples"
 weight: 7

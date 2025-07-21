@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Docker Hub"
-chapterTitle: "Docker Hub"
 description: ""
 title: "Docker Hub"
 weight: 8

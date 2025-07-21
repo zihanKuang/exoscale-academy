@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Dockerfile"
-chapterTitle: "Dockerfile"
 description: ""
 title: "Dockerfile"
 weight: 6

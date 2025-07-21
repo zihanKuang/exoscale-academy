@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "What is it?"
-chapterTitle: "What is it?"
 description: ""
 title: "What is it?"
 weight: 1

@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Build & Run"
-chapterTitle: "Build & Run"
 description: ""
 title: "Build & Run"
 weight: 7
