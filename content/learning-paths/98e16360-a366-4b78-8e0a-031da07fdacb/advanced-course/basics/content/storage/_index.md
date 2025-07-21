@@ -5,7 +5,7 @@ title: "Storage"
 weight: 6
 ---
 
-**Overview**
+Overview
 
 Simple Object Storage (SOS) is an S3-compatible object storage to store your assets, files, and metadata. Furthermore, it is a cost-effective solution to support your application and backup or serve your data from any Exoscale zone with no hidden fees, using your existing S3-compatible tooling and a familiar API.
 
@@ -15,13 +15,13 @@ Simple Object Storage (SOS) is an S3-compatible object storage to store your ass
 - High-available, replicated 3 copies of each object
 - URLs to files can be configured with ACLs
 - ACLs (Access Control List) permission control:
-    - **private** - only with API key accessible
-    - **public-read** - everyone can read, e.g. for static files
-    - **public-read-write** - everyone can read and write -> NOT RECOMMENDED
-    - **manual edit** - grant specific permissions to other orgs
+    - private - only with API key accessible
+    - public-read - everyone can read, e.g. for static files
+    - public-read-write - everyone can read and write -> NOT RECOMMENDED
+    - manual edit - grant specific permissions to other orgs
 
-### **Use Cases**
-**Case – Static Files:**
+### Use Cases
+Case – Static Files:
 
 - Backups
 - HTML-Files
@@ -34,7 +34,7 @@ Simple Object Storage (SOS) is an S3-compatible object storage to store your ass
     - Shared File Systems
     - Storage under Databases
 
-**Case – Static Web Files:**
+Case – Static Web Files:
 
 - Upload static files to S3
 - Set ACL public-read either manually or automatically (e.g., WordPress plugin)
@@ -42,7 +42,7 @@ Simple Object Storage (SOS) is an S3-compatible object storage to store your ass
 - Users will download files from SOS bucket
 - Providing fast access and high-availability
 
-**Case – Backup Files:**
+Case – Backup Files:
 
 - Install a backup agent on a VM (e.g., CloudBerry)
 - Configure S3 bucket as target
@@ -52,14 +52,14 @@ Simple Object Storage (SOS) is an S3-compatible object storage to store your ass
 - Configure as restore from S3 bucket
 - Backup Files are saved securely and privately in the Storage Bucket
 
-### **Access Methods**
-**Access Interfaces for SOS:**
+### Access Methods
+Access Interfaces for SOS:
 
 - Exoscale UI
 - Exoscale CLI
 - S3 CLI
 
-**Every programming library which supports S3:**
+Every programming library which supports S3:
 - Easy to embed in existing apps
    - PHP
    - Java
@@ -67,7 +67,7 @@ Simple Object Storage (SOS) is an S3-compatible object storage to store your ass
    - Python
    - ...
 
-**Every Application which supports S3:**
+Every Application which supports S3:
 
 - Cyberduck ... browse files with a GUI, delete files, upload large files
 - CloudBerry, Acronis, Veeam, ... Backup Software
@@ -77,8 +77,8 @@ Simple Object Storage (SOS) is an S3-compatible object storage to store your ass
 
 ![sos-tool-logos](sos-tool-logos.png)
 
-### **Content Delivery Network**
-**CDN:**
+### Content Delivery Network
+CDN:
 
 - Automatically distributed all public-read files to the Akamai network if activated
 - 120 locations worldwide- 
@@ -91,8 +91,8 @@ Simple Object Storage (SOS) is an S3-compatible object storage to store your ass
 
 ![sos-cdn-arch](sos-cdn-arch.png)
 
-### **Pre-signed Keys**
-**Pre-signed keys can be used to:**
+### Pre-signed Keys
+Pre-signed keys can be used to:
 
 - Give temporary access to private files
 - Give unique access to private files (e.g., for cloud-init scripts)
