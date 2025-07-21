@@ -1,9 +1,6 @@
 ---
-docType: "Chapter"
 id: "troubleshooting"
-chapterTitle: "Troubleshooting"
 description: "Troubleshoot clusters components, nodes, network and applications."
-lectures: 10
 title: "Troubleshooting"
 weight: 8
 ---
@@ -34,7 +31,7 @@ The following picture illustrates how we can configure logging on a cluster:
 - the container runtime stores the logs on the Node's filesystem, and then an external process (usually deployed as a DaemonSet) reads these logs and ships them to a centralized system
 - a sidecar container is used to generate the logs on stdin/stdout, next the container runtime stores the logs on the Node's filesystem, and then an external process reads these logs and ships them to a centralized system
 
-![logging-levels]({{< usestatic "cka-prep/logging-levels.png" >}})
+![logging-levels](logging-levels.png)
 
 ### Pods & Containers logs
 
@@ -160,7 +157,7 @@ In Kubernetes, metrics come in various types, originate from different layers of
 
 The Prometheus stack is a widely used solution to manage Metrics in a Kubernetes cluster.
 
-![monitoring-prometheus]({{< usestatic "cka-prep/monitoring-prometheus.png" >}})
+![monitoring-prometheus](monitoring-prometheus.png)
 
 ### Metrics server
 
@@ -297,7 +294,7 @@ service/ghost   NodePort   10.43.121.142   <none>        2368:30526/TCP   88s
 
 It happens that the application is not reachable via the NodePort provided.
 
-![application-failure-2]({{< usestatic "cka-prep/application-failure-2.png" >}})
+![application-failure-2](application-failure-2.png)
 
 In this case, we can first describe the Service and check the Endpoints. In the following example, **Endpoints is empty**, which indicates we did not configure the Service correctly.
 
@@ -459,8 +456,3 @@ As kubelet is not running, we can restart it.
 ```bash
 sudo systemctl restart kubelet
 ```
-
-## Practice
----
-
-You can now jump to the [Exercises part](./exercises/) to learn and practice the concepts above.

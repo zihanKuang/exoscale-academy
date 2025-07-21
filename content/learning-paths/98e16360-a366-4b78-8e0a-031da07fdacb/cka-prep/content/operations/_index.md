@@ -1,9 +1,6 @@
 ---
-docType: "Chapter"
 id: "operations"
-chapterTitle: "Operations"
 description: "Perform cluster upgrade and backup/restore of etcd."
-lectures: 10
 title: "Operations"
 weight: 9
 ---
@@ -132,8 +129,3 @@ Then, once etcd is running, we restart the API Server, moving its specification 
 ```bash
 sudo mv /etc/kubernetes/kube-apiserver.yaml /etc/kubernetes/manifests/
 ```
-
-## — Practice —
----
-
-You can now jump to the [Exercises part](./exercises/) to perform these Day-2 operations and a couple of other manipulations on your cluster.

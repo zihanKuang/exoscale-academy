@@ -1,9 +1,6 @@
 ---
-docType: "Chapter"
 id: "scheduling"
-chapterTitle: "Scheduling Pods"
 description: "Learn Pod placement strategies using labels, taints, affinities and more."
-lectures: 10
 title: "Scheduling Pods"
 weight: 4
 ---
@@ -15,7 +12,7 @@ This section is a refresher that provides an overview of the main properties inv
 
 The scheduling step is where Kubernetes decides on which Node a Pod will run on. The Scheduler, running on the control plane, is the process in charge of this action.
 
-![scheduling]({{< usestatic "cka-prep/scheduling.png" >}})
+![scheduling](scheduling.png)
 
 There are various properties/items which can influence the scheduling decision, including:
 
@@ -34,14 +31,14 @@ There are various properties/items which can influence the scheduling decision, 
 
 The `nodeName` property bypasses the scheduling process, indicating directly in the Pod's specification the name of the Node this Pod must be deployed to.
 
-![nodeName]({{< usestatic "cka-prep/nodeName.png" >}})
+![nodeName](nodeName.png)
 
 ## nodeSelector
 ---
 
 The `nodeSelector` property uses Node's labels to schedule a Pod.
 
-![nodeSelector]({{< usestatic "cka-prep/nodeSelector.png" >}})
+![nodeSelector](nodeSelector.png)
 
 ## nodeAffinity
 ---
@@ -161,7 +158,7 @@ The `topologySpreadConstraints` property defines how to spread Pods across a clu
 
 The following Deployment uses the `topologySpreadConstraints` property to ensure Pods are correctly balanced between AZ and Node.
 
-![topologySpreadConstraint]({{< usestatic "cka-prep/topologySpreadConstraint.png" >}})
+![topologySpreadConstraint](topologySpreadConstraint.png)
 
 ```yaml
 apiVersion: apps/v1
@@ -320,8 +317,3 @@ spec:
     image: nginx
   runtimeClass: gvisor
 ```
-
-## Practice
----
-
-You can now jump to the [Exercises part](./exercises/) to learn and practice the concepts above.

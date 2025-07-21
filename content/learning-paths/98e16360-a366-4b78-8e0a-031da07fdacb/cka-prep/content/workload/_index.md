@@ -1,9 +1,6 @@
 ---
-docType: "Chapter"
 id: "workload"
-chapterTitle: "Workloads"
 description: "Create and manage Pods, Deployments, and other workload resources."
-lectures: 10
 title: "Workloads"
 weight: 3
 ---
@@ -12,7 +9,7 @@ Create and manage Pods, Deployments, and other workload resources.
 
 This section is a refresher that provides an overview of the primary Kubernetes resources related to workloads. At the end of this section, please complete the exercises to put these concepts into practice.
 
-![main-resources]({{< usestatic "cka-prep/main-resources.png" >}})
+![main-resources](main-resources.png)
 
 ## Pod
 ---
@@ -50,7 +47,7 @@ kubectl port-forward podinfo 9898:9898 --address 0.0.0.0
 
 This command opens port 9898 on the machine it is run from and forwards traffic to port 9898 in the Pod. The `–address 0.0.0.0` flag ensures this port is available on all the network interfaces of the host machine (otherwise limited to localhost).
 
-![podinfo]({{< usestatic "cka-prep/podinfo.png" >}})
+![podinfo](podinfo.png)
 
 ### Enhanced specification
 
@@ -106,7 +103,7 @@ spec:
 ## Deployment
 ---
 
-![deployment]({{< usestatic "cka-prep/deployment.png" >}})
+![deployment](deployment.png)
 
 ### Purpose
 
@@ -141,7 +138,7 @@ spec:
 ## DaemonSet
 ---
 
-![daemonset]({{< usestatic "cka-prep/daemonset.png" >}})
+![daemonset](daemonset.png)
 
 ### Purpose
 
@@ -348,7 +345,7 @@ spec:
 
 Namespaces are Kubernetes resources that allow grouping resources. The image below illustrates the Namespaces created by default.
 
-![namespace-1]({{< usestatic "cka-prep/namespace-1.png" >}})
+![namespace-1](namespace-1.png)
 
 As Namespaces do not offer strong isolation, specific resources must be applied to a Namespace to limit CPU, RAM usage, and network rules allowed within and across Namespaces. Those resources are:
 
@@ -356,6 +353,4 @@ As Namespaces do not offer strong isolation, specific resources must be applied 
 - **Limits**
 - **NetworkPolicy**
 
-![namespace-2]({{< usestatic "cka-prep/namespace-2.png" >}})
-
-You can now jump to the [Exercises part](./exercises/) to learn and practice the concepts above.
+![namespace-2](namespace-2.png)

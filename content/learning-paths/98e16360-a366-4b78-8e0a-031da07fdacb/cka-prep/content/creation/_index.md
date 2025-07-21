@@ -1,9 +1,6 @@
 ---
-docType: "Chapter"
 id: "creation"
-chapterTitle: "Create a cluster"
 description: "Build a 3-node kubeadm cluster from scratch."
-lectures: 10
 title: "Create a cluster"
 weight: 2
 ---
@@ -12,7 +9,7 @@ This section guides you in creating of a 3-nodes Kubernetes cluster using [kubea
 
 The cluster you'll create is composed of 3 Nodes named **controlplane**, **worker1** and **worker2**. The controlplane Node runs the cluster components (API Server, Controller Manager, Scheduler, etcd), while worker1 and worker2 are the worker Nodes in charge of running the containerized workloads.
 
-![objectives]({{< usestatic "cka-prep/objectives.png" >}})
+![objectives](objectives.png)
 
 ## Provisioning VMs
 ---
@@ -27,7 +24,7 @@ multipass launch --name worker1 --memory 2G --cpus 2 --disk 10G
 multipass launch --name worker2 --memory 2G --cpus 2 --disk 10G
 ```
 
-![step-1]({{< usestatic "cka-prep/step-1.png" >}})
+![step-1](step-1.png)
 
 ## Cluster initialization
 ---
@@ -91,7 +88,7 @@ show-join-command             Show the join command for control-plane and worker
 
 Several commands are returned at the end of the installation process, which you'll use in the next part.
 
-![step-2]({{< usestatic "cka-prep/step-2.png" >}})
+![step-2](step-2.png)
 
 ## Retrieving kubeconfig file
 ---
@@ -146,7 +143,7 @@ sudo kubeadm join 10.81.0.174:6443 --token kolibl.0oieughn4y03zvm7 \
 
 You now have cluster with 3 Nodes.
 
-![step-3]({{< usestatic "cka-prep/step-3.png" >}})
+![step-3](step-3.png)
 
 ## Status of the Nodes
 ---

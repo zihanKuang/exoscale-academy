@@ -1,9 +1,6 @@
 ---
-docType: "Chapter"
 id: "certifications"
-chapterTitle: "Certifications"
 description: "Get an overview of the existing Kubernetes certifications and what you need to learn for the CKA."
-lectures: 10
 title: "Certifications"
 weight: 1
 ---
@@ -15,11 +12,11 @@ Get an overview of the existing Kubernetes certifications and what you need to l
 
 | Certification                                         | Type     | Badge |
 |-------------------------------------------------------|----------|-------|
-| Kubernetes and Cloud Native Associate (KCNA)          | MCQ      | ![kcna]({{< usestatic "cka-prep/kcna.png" >}}) |
-| Kubernetes and Cloud Native Security Associate (KCSA) | MCQ      | ![kcsa]({{< usestatic "cka-prep/kcsa.png" >}}) |
-| Certified Kubernetes Application Developer (CKAD)     | Practice | ![ckad]({{< usestatic "cka-prep/ckad.png" >}}) |
-| Certified Kubernetes Administrator (CKA)              | Practice | ![cka]({{< usestatic "cka-prep/cka.png" >}}) |
-| Certified Kubernetes Security Specialist (CKS)        | Practice | ![cks]({{< usestatic "cka-prep/cks.png" >}}) |
+| Kubernetes and Cloud Native Associate (KCNA)          | MCQ      | ![kcna](kcna.png) |
+| Kubernetes and Cloud Native Security Associate (KCSA) | MCQ      | ![kcsa](kcsa.png) |
+| Certified Kubernetes Application Developer (CKAD)     | Practice | ![ckad](ckad.png) |
+| Certified Kubernetes Administrator (CKA)              | Practice | ![cka](cka.png) |
+| Certified Kubernetes Security Specialist (CKS)        | Practice | ![cks](cks.png) |
 
 \* *passing the CKA is a requirement before passing the CKS*
 
@@ -45,7 +42,7 @@ The CKA is a 2h exam. It contains 15/20 questions and requires at least 66% corr
 
 Before launching the exam, which you do via your [Linux Foundation Training Portal](https://trainingportal.linuxfoundation.org/access/saml/login), you need to perform a couple of prerequisites including making sure the PSI Browser works correctly on your environment. This browser gives you access to the remote Desktop you'll use during the exam.
 
-{{< image src="/images/learning-path/cka/certifications/psi-browser.png" width="100%" align="center" alt="" >}}
+![psi-browser](psi-browser.png)
 
 ## Tips & tricks
 ---

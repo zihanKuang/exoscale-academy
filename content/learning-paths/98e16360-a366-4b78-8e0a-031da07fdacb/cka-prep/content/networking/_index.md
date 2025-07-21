@@ -1,9 +1,6 @@
 ---
-docType: "Chapter"
 id: "networking"
-chapterTitle: "Networking"
 description: "Understand Pod to Pod communication, Service discovery, Ingress resources."
-lectures: 10
 title: "Networking"
 weight: 5
 ---
@@ -38,19 +35,19 @@ There are different types of communication within a cluster:
 
 When a Pod is created, it has its own network namespace which is set up by a **pause container**. This container is special as it does not run any workload and is not visible from the kubectl commands. The other containers of this Pod are all attached to the pause container's network namespace and are thus communicating through `localhost`.
 
-![container-to-container]({{< usestatic "cka-prep/container-to-container.png" >}})
+![container-to-container](container-to-container.png)
 
 ### **Pod to Pod on the Same Node**
 
 Each Pod has its own network namespace and they communicate via a virtual Ethernet (veth) pair connected to a bridge on the host. This setup allows Pod-to-Pod traffic to be switched locally without leaving the Node.
 
-![pod-to-pod-same-node]({{< usestatic "cka-prep/pod-to-pod-same-node.png" >}})
+![pod-to-pod-same-node](pod-to-pod-same-node.png)
 
 ### **Pod to Pod Across Different Nodes**
 
 The network plugin ensures that each Pod's IP is routable across the cluster, using encapsulation, overlays, or native routing. Packets travel across the network infrastructure between Nodes before reaching the destination Pod's virtual interface.
 
-![pod-to-pod-different-nodes]({{< usestatic "cka-prep/pod-to-pod-different-nodes.png" >}})
+![pod-to-pod-different-nodes](pod-to-pod-different-nodes.png)
 
 ## Network Plugin
 ---
@@ -63,7 +60,7 @@ Among the network plugins available, **Kubenet** is a basic and simple one, it h
 - [https://cncf.io/projects](https://cncf.io/projects) - Manages containers' network connectivity
 - More info: [https://bit.ly/about-cni-plugins](https://bit.ly/about-cni-plugins)
 
-![cni]({{< usestatic "cka-prep/cni.png" >}})
+![cni](cni.png)
 
 ## Container Network Interface (CNI)
 ---
@@ -88,13 +85,13 @@ These plugins are typically:
 
 Traffic between Pods is wrapped (encapsulated) in another packet and routed through an overlay network.
 
-![encapsulated]({{< usestatic "cka-prep/encapsulated.png" >}})
+![encapsulated](encapsulated.png)
 
 #### Unencapsulated (BGP)
 
 Traffic is routed directly between nodes without encapsulation, using protocols like BGP to advertise Pod networks.
 
-![uncapsulated]({{< usestatic "cka-prep/uncapsulated.png" >}})
+![uncapsulated](uncapsulated.png)
 
 ## Service
 ---
@@ -117,19 +114,19 @@ Key Characteristics:
 
 A Service of type ClusterIP exposes a group of Pods inside the cluster, so that other Pods can reach them.
 
-![ClusterIP]({{< usestatic "cka-prep/ClusterIP.png" >}})
+![ClusterIP](ClusterIP.png)
 
 ### Service of Type NodePort
 
 A Service of type NodePort exposes a group of Pods to the external world, opening the same port on each Node.
 
-![NodePort]({{< usestatic "cka-prep/NodePort.png" >}})
+![NodePort](NodePort.png)
 
 ### Service of Type LoadBalancer
 
 A Service of type LoadBalancer exposes a group of Pods to the external world through a load balancer. This feature is only available for clusters running on cloud providers.
 
-![LoadBalancer]({{< usestatic "cka-prep/LoadBalancer.png" >}})
+![LoadBalancer](LoadBalancer.png)
 
 ## Endpoints
 ---
@@ -188,7 +185,7 @@ This [article](https://bit.ly/kube-proxy-iptables) provides additional informati
 
 An Ingress Controller is a reverse proxy exposing ClusterIP services to the outside. It's usually the single entry point exposed by an external load balancer.
 
-![ingress]({{< usestatic "cka-prep/ingress.png" >}})
+![ingress](ingress.png)
 
 An Ingress Controller is configured with resources of type Ingress which allows L7 routing via the domain name or a path within the URL. Below is an example of Ingress specification. It redirects all traffic targeting the `/api` endpoint to the `api` Service listening on port 80.
 
@@ -212,8 +209,3 @@ spec:
             port:
               number: 80
 ```
-
-## Practice
----
-
-You can now jump to the [Exercises part](./exercises/) to learn and practice the concepts above.

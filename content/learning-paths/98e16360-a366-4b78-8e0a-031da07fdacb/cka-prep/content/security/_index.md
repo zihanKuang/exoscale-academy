@@ -1,9 +1,6 @@
 ---
-docType: "Chapter"
 id: "security"
-chapterTitle: "Security"
 description: "Create Network Policies and RBAC rules."
-lectures: 10
 title: "Security"
 weight: 7
 ---
@@ -13,7 +10,7 @@ This section is a refresher that provides an overview of the main concepts of se
 ## Authentication & Authorization
 ---
 
-![rbac]({{< usestatic "cka-prep/rbac.png" >}})
+![rbac](rbac.png)
 
 ### Authentication: several methods
 
@@ -55,7 +52,7 @@ users:
 
 This file contains a public/private key pair used for authentication against the API Server. We can use OpenSSL commands to get details about the public key (x509 certificate).
 
-![certificate]({{< usestatic "cka-prep/certificate.png" >}})
+![certificate](certificate.png)
 
 The following screenshot shows the Subject used in the certificate:
 
@@ -70,7 +67,7 @@ The admin kubeconfig file is not the only kubeconfig file generated during the c
 
 The following picture illustrates how the control plane components communicate with each other.
 
-![control-plane]({{< usestatic "cka-prep/control-plane.png" >}})
+![control-plane](control-plane.png)
 
 The /etc/kubernetes folder contains the following files to ensure this communication is secured.
 
@@ -151,14 +148,14 @@ eyJhbGciOiJSUzI1NiIsImtpZCI6IlRwSU85ZXdWUFp0SlpjaDBjekl6ZTNaNGRuUTZSVDFiV2dyWVhq
 
 From [jwt.io](https://jwt.io) we can get the content of this JWT token and see that it authenticates the ServiceAccount named viewer within the default Namespace. We could use this token manually to call the API Server, but when a Pod is using a ServiceAccount a dedicated token is automatically created and mounted into its containers' filesystem.
 
-![jwt]({{< usestatic "cka-prep/jwt.png" >}})
+![jwt](jwt.png)
 
 ## Authorization: RBAC (Role Based Access Control)
 ---
 
 In the previous section, we covered the authentication mechanisms that allow the API Server to verify a user's or an application's identity. Now, we'll look at the resources used to grant permissions.
 
-![rbac-resources]({{< usestatic "cka-prep/rbac-resources.png" >}})
+![rbac-resources](rbac-resources.png)
 
 ### Authorization: Role / RoleBinding
 
@@ -301,7 +298,7 @@ By default, Pods created in separate Namespaces can communicate with each other.
 
 The example below defines a NetworkPolicy restricting the database Pod to receive traffic from the backend Pod only.
 
-![netpol]({{< usestatic "cka-prep/netpol.png" >}})
+![netpol](netpol.png)
 
 The example below (from Kubernetes documentation) is more complex. It illustrates the full capabilities of NetworkPolicies.
 
@@ -357,8 +354,3 @@ It also authorizes **outgoing traffic to** (logical OR):
 - Pods with specific labels in the current namespace
 
 Both incoming and outgoing traffic are limited to specific ports.
-
-## Practice
----
-
-You can now jump to the [Exercises part](./exercises/) to learn and practice the concepts above.

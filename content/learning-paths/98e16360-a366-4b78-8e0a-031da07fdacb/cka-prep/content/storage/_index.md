@@ -1,9 +1,6 @@
 ---
-docType: "Chapter"
 id: "storage"
-chapterTitle: "Storage"
 description: "Understand StorageClass, PV and PVCs stateful applications."
-lectures: 10
 title: "Storage"
 weight: 6
 ---
@@ -147,8 +144,3 @@ spec:
 A StorageClass defines how to dynamically create PersistentVolumes without needing to pre-provision them.
 
 More information in the official documentation at https://kubernetes.io/docs/concepts/storage/
-
-## Practice
----
-
-You can now jump to the [Exercises part](./exercises/) to learn and practice the concepts above.
