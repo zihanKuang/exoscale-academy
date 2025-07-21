@@ -5,7 +5,7 @@ title: "Networking"
 weight: 1
 ---
 
-**Overview**
+Overview
 
 This topic has many layers and can be intimidating and complex sometimes. Therefore, we break it down into smaller pieces to convey the cloud-relevant parts of it and introduce Exoscale networking features. If the diagram below looks intimidating to you, don't worry. After completing this section of the course, it will feel very natural.
 
