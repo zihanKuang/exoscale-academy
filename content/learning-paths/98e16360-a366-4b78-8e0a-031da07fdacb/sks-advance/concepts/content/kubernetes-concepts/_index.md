@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Kubernetes Concepts"
-chapterTitle: "Kubernetes Concepts"
 description: ""
 title: "Kubernetes Concepts"
 weight: 1

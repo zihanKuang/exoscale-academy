@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Manifest Tricks"
-chapterTitle: "Manifest Tricks"
 description: ""
 title: "Manifest Tricks"
 weight: 7
@@ -11,7 +9,7 @@ weight: 7
 
 Building a manifest from scratch can be tedious. However, you can use many cool tricks to develop your manifests, like automatically creating a manifest with the kubectl command and the --dry-run option or using a pre-build manifest from the Kubernetes documentation to start with.
 
-![image]({{< usestatic "sks-advance/manifest-tricks.png" >}})
+![manifest-tricks](manifest-tricks.png)
 
 #### **Manifest Tricks**
 {{< card 

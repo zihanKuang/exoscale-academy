@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Errors, Debugging ..."
-chapterTitle: "Errors, Debugging ..."
 description: ""
 title: "Errors, Debugging ..."
 weight: 2

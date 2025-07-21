@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Longhorn Praxis"
-chapterTitle: "Longhorn Praxis"
 description: ""
 title: "Longhorn Praxis"
 weight: 6
@@ -11,7 +9,7 @@ weight: 6
 
 This section explains how to install Longhorn with a manifest using kubectl and looks at Longhorn's graphical UI— using the CLI and the UI to do configurations and learn about the management of the solution.
 
-![image]({{< usestatic "sks-advance/longhorn-praxis.png" >}})
+![longhorn-praxis](longhorn-praxis.png)
 
 #### **Longhorn Praxis**
 {{< card 

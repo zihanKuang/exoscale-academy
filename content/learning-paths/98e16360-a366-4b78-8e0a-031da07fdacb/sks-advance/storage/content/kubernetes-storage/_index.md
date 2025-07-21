@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Kubernetes Storage"
-chapterTitle: "Kubernetes Storage"
 description: ""
 title: "Kubernetes Storage"
 weight: 1

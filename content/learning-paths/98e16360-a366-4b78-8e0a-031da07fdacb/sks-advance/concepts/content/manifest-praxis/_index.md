@@ -1,7 +1,5 @@
 ---
-docType: "Chapter"
 id: "Manifest Praxis"
-chapterTitle: "Manifest Praxis"
 description: ""
 title: "Manifest Praxis"
 weight: 6
@@ -11,7 +9,7 @@ weight: 6
 
 Let's look at the actual usage of the manifest concept and how to apply it to a Kubernetes cluster and create, configure, and re-configure resources with it.
 
-![image]({{< usestatic "sks-advance/manifest-praxis.png" >}})
+![manifest-praxis](manifest-praxis.png)
 
 The manifest usage details and how to execute them are laid out in the video below.
 
