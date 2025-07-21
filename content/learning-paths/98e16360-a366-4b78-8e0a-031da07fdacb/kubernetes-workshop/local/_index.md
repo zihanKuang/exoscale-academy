@@ -1,5 +1,4 @@
 ---
-docType: "Course"
 title: "Creation of a local cluster"
 description: "Create Local kubernetes cluster"
 courseTitle: "Creation of a local cluster"
