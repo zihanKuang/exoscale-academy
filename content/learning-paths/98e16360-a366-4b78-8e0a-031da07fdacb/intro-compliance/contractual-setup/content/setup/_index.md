@@ -15,7 +15,7 @@ weight: 1
 
 ![terms-of-service](terms-of-service.png)
 
-#### T&C's Categories
+#### T&C's level
 
 1. **Definitions**
 1. **The Services**
