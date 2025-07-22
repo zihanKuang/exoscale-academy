@@ -4,7 +4,8 @@ description: ""
 title: "Features"
 weight: 4
 tags: [kubernetes]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 ### Features

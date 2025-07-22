@@ -4,7 +4,8 @@ description: ""
 title: "Application Deployments"
 weight: 1
 tags: [docker, deployment, containers]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 

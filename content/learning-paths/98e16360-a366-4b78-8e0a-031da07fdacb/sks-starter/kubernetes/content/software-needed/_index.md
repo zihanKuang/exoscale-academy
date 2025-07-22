@@ -4,7 +4,8 @@ description: ""
 title: "Software Needed"
 weight: 2
 tags: [kubernetes, software]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 ### Software Needed

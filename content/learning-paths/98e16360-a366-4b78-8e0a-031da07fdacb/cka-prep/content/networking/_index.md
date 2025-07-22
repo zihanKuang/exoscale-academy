@@ -3,6 +3,9 @@ id: "networking"
 description: "Understand Pod to Pod communication, Service discovery, Ingress resources."
 title: "Networking"
 weight: 5
+tags: [CKA,networking]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 This section is a refresher that provides an overview of the main Kubernetes resources related to networking. At the end of this section, please complete the exercises to put these concepts into practice.
@@ -31,19 +34,19 @@ There are different types of communication within a cluster:
   - LoadBalancer Service
   - Ingress Controller
 
-### Container to Container Communication
+### **Container to Container Communication**
 
 When a Pod is created, it has its own network namespace which is set up by a **pause container**. This container is special as it does not run any workload and is not visible from the kubectl commands. The other containers of this Pod are all attached to the pause container's network namespace and are thus communicating through `localhost`.
 
 ![container-to-container](container-to-container.png)
 
-### Pod to Pod on the Same Node
+### **Pod to Pod on the Same Node**
 
 Each Pod has its own network namespace and they communicate via a virtual Ethernet (veth) pair connected to a bridge on the host. This setup allows Pod-to-Pod traffic to be switched locally without leaving the Node.
 
 ![pod-to-pod-same-node](pod-to-pod-same-node.png)
 
-### Pod to Pod Across Different Nodes
+### **Pod to Pod Across Different Nodes**
 
 The network plugin ensures that each Pod's IP is routable across the cluster, using encapsulation, overlays, or native routing. Packets travel across the network infrastructure between Nodes before reaching the destination Pod's virtual interface.
 

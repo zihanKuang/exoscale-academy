@@ -4,7 +4,8 @@ description: ""
 title: "Docker Hub"
 weight: 8
 tags: [docker, containers]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 

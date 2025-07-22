@@ -4,7 +4,7 @@ title: "Exoscale account"
 courseTitle: "Creating SKS Cluster"
 weight: 1
 tags: [exoscale]
-categories: [introductory]
+level: [introductory]
 ---
 
 ## Creating an account
