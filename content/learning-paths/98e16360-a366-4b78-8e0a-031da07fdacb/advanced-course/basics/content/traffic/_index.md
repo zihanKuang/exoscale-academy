@@ -27,12 +27,20 @@ Definition Internal:
 
 Internal traffic is free!
 
-![traffic-internal](traffic-internal.png)
+{{< meshery-design-embed
+  id="embedded-design-3b115389-7480-4ff2-a952-1543ba10b881"
+  src="internal-traffic.js"
+>}}
+[traffic-internal](traffic-internal.png)
 
 ### Incoming Traffic
 Traffic coming from the internet is free.
 
-![traffic-incoming](traffic-incoming.png)
+{{< meshery-design-embed
+  id="embedded-design-495c6d55-11ad-4c5b-887c-3ea573627569"
+  src="incoming-traffic.js"
+>}}
+[traffic-incoming](traffic-incoming.png)
 
 ### Outgoing Traffic
 Traffic towards the Internet is billed. BUT, it comes with a free tier at Exoscale:
@@ -41,7 +49,12 @@ Traffic towards the Internet is billed. BUT, it comes with a free tier at Exosca
 - Free traffic is shared in the organization
 - Free traffic is only available in the hour created
 
-![traffic-outgoing](traffic-outgoing.png)
+{{< meshery-design-embed
+  id="embedded-design-2c6930f0-3a45-4ca2-befc-12ddc2660d78"
+  src="outgoing-traffic.js"
+>}}
+
+[traffic-outgoing](traffic-outgoing.png)
 
 ### Example
 Two examples to illustrate the free tier and the billing aspects:
