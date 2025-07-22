@@ -6,7 +6,7 @@ courseTitle: "Deploying the VotingApp"
 weight: 2
 banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/exoscale-icon.svg"
 tags: [kubernetes, helm]
-categories: [introductory]
+level: [introductory]
 ---
 
 The VotingApp can be deployed using [Helm](https://helm.sh). It has many configuration options, the default values of which are defined in the following *values.yaml* file.
