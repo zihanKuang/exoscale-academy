@@ -11,7 +11,7 @@ weight: 3
 
 ![value-of-data-1](value-of-data-1.png) 
 
-We looked at the importance of data and want to briefly cover the last introduction aspect relevant to our database and database as a service journey. If you break down the diagram above, you see two significant aspects of data interactions. Production of data and usage of data, those two categories are further divided into collection and publication on the left-hand side and uptake and impact on the right-hand side.
+We looked at the importance of data and want to briefly cover the last introduction aspect relevant to our database and database as a service journey. If you break down the diagram above, you see two significant aspects of data interactions. Production of data and usage of data, those two level are further divided into collection and publication on the left-hand side and uptake and impact on the right-hand side.
 
 Relevance? Think about the tools and the required features to address those tasks effectively and efficiently, keep on thinking, and factor in scalability, availability, and performance. These are all traits of good data handling tools, and there are prominent examples of very successful companies out there who mastered that data value endeavor perfectly.
 
