@@ -4,7 +4,8 @@ description: ""
 title: "Docker / Kubernetes"
 weight: 12
 tags: [docker, containers, kubernetes]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 
