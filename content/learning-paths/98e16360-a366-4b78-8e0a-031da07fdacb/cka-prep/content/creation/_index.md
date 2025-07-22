@@ -11,7 +11,7 @@ The cluster you'll create is composed of 3 Nodes named **controlplane**, **worke
 
 {{< meshery-design-embed
   id="embedded-design-dbfb44b7-5d93-4dc8-9ca7-8396dd0ecb9b"
-  src="embedded-design-meshery_learning_path_design_647.js"
+  src="embedded-design-meshery-learning-path-design-647.js"
 >}}
 
 
