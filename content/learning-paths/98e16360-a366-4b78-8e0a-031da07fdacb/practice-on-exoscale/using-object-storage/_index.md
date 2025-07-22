@@ -5,6 +5,8 @@ description: "Store application assets in Object Storage"
 courseTitle: "Using Object Storage"
 weight: 8
 banner: "/98e16360-a366-4b78-8e0a-031da07fdacb/images/kubernetes-icon.svg"
+tags: [kubernetes, helm, exoscale]
+categories: [introductory]
 ---
 
 In this section, you’ll use Simple Object Storage (SOS), an Exoscale AWS S3-compatible storage service, to store images used by the VotingApp.

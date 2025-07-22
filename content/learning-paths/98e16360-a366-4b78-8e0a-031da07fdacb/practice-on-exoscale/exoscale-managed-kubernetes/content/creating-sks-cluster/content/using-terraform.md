@@ -3,6 +3,8 @@ docType: "Chapter"
 title: "Using Terraform"
 courseTitle: "Creating SKS Cluster"
 weight: 2
+tags: [kubernetes, terraform]
+categories: [intermediate]
 ---
 
 In a new folder, we create the following Terraform configuration files; they contain all the resources to create an SKS cluster and the related components:

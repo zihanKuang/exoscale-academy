@@ -5,6 +5,8 @@ description: "Store application data in Exoscale-managed databses"
 courseTitle: "Persisting data in DBaaS"
 weight: 7
 banner: "/98e16360-a366-4b78-8e0a-031da07fdacb/images/kubernetes-icon.svg"
+tags: [kubernetes, vault, postgres, redis, dbaas]
+categories: [advanced]
 ---
 
 By default, the VotingApp deploys its own Redis and Postgres databases. In this section, you’ll use Exoscale managed databases (DBaaS) instead.

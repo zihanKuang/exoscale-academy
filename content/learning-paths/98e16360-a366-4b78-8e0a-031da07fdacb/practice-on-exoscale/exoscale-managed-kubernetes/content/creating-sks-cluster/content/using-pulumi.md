@@ -3,6 +3,8 @@ docType: "Chapter"
 title: "Using Pulumi"
 courseTitle: "Creating SKS Cluster"
 weight: 3
+tags: [kubernetes, pulumi]
+categories: [intermediate]
 ---
 
 In a new folder, we create the following files:

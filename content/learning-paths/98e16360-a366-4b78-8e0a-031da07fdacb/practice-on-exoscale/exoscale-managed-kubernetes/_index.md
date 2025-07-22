@@ -5,5 +5,7 @@ description: "Create an Exoscale-managed Kubernetes cluster and deploy the demo 
 courseTitle: "Exoscale-managed Kubernetes"
 weight: 2
 banner: "/98e16360-a366-4b78-8e0a-031da07fdacb/images/kubernetes-icon.svg"
+tags: [kubernetes, exoscale, terraform, pulumi, exo-cli, helm]
+categories: [intermediate]
 ---
 
