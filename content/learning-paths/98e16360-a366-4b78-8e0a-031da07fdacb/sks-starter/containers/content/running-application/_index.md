@@ -3,6 +3,8 @@ id: "Running Application"
 description: ""
 title: "Running Applications"
 weight: 3
+tags: [docker, containers]
+categories: [intermediate]
 ---
 
 

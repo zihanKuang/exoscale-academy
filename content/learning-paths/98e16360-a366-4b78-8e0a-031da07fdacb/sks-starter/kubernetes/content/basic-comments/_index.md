@@ -3,6 +3,8 @@ id: "Basic Concepts"
 description: ""
 title: "Basic Concepts"
 weight: 8
+tags: [kubernetes, concepts]
+categories: [intermediate]
 ---
 
 ### **Basic Concepts**

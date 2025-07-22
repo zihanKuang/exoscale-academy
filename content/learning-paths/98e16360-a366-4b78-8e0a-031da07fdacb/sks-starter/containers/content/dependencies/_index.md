@@ -3,6 +3,8 @@ id: "Dependencies"
 description: ""
 title: "Dealing with Dependencies"
 weight: 4
+tags: [docker, dependencies, containers]
+categories: [intermediate]
 ---
 
 ### **Installing Dependencies ...**

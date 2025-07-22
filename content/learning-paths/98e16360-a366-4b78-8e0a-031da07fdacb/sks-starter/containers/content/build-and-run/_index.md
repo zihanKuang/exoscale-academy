@@ -3,6 +3,8 @@ id: "Build & Run"
 description: ""
 title: "Build & Run"
 weight: 7
+tags: [docker, containers]
+categories: [intermediate]
 ---
 
 
