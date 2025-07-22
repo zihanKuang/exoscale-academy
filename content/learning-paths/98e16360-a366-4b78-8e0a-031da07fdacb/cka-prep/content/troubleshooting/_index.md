@@ -3,6 +3,9 @@ id: "troubleshooting"
 description: "Troubleshoot clusters components, nodes, network and applications."
 title: "Troubleshooting"
 weight: 8
+tags: [CKA,troubleshooting]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 This section is a refresher that provides an overview of the main concepts used to troubleshoot a Kubernetes cluster. At the end of this section, please complete the exercises to put these concepts into practice.
