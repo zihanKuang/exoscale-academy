@@ -3,6 +3,8 @@ id: "Imperative vs Declarative"
 description: ""
 title: "Imperative vs Declarative"
 weight: 3
+tags: [kubernetes]
+categories: [intermediate]
 ---
 
 ### **Imperative vs Declarative**

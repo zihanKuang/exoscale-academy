@@ -3,6 +3,8 @@ id: "Positoning"
 description: ""
 title: "Positoning"
 weight: 5
+tags: [kubernetes]
+categories: [intermediate]
 ---
 
 ### **Positoning**
