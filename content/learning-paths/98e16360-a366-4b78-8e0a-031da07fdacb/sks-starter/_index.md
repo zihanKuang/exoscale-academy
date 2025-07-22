@@ -4,4 +4,6 @@ description: "This SKS STARTER - Learning Path covers the entry topics of (manag
 banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/kubernetes-icon.svg"
 courses: 3
 weight: 2
+tags: [kubernetes, containers, docker, orchestration, deployment]
+categories: [intermediate]
 ---

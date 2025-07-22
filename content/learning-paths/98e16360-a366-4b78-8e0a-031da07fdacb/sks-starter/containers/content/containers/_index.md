@@ -3,6 +3,8 @@ id: "Containers"
 description: ""
 title: "Containers"
 weight: 5
+tags: [containers]
+categories: [intermediate]
 ---
 
 

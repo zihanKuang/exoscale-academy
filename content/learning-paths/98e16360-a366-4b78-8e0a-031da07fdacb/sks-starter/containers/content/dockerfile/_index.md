@@ -3,6 +3,8 @@ id: "Dockerfile"
 description: ""
 title: "Dockerfile"
 weight: 6
+tags: [docker, containers]
+categories: [intermediate]
 ---
 
 

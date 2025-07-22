@@ -3,6 +3,8 @@ id: "Simple Examples"
 description: ""
 title: "Simple Examples"
 weight: 7
+tags: [kubernetes, containers]
+categories: [intermediate]
 ---
 
 ### **Simple Examples**
