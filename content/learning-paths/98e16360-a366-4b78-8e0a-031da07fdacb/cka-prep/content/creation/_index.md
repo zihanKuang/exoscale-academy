@@ -9,7 +9,11 @@ This section guides you in creating of a 3-nodes Kubernetes cluster using [kubea
 
 The cluster you'll create is composed of 3 Nodes named **controlplane**, **worker1** and **worker2**. The controlplane Node runs the cluster components (API Server, Controller Manager, Scheduler, etcd), while worker1 and worker2 are the worker Nodes in charge of running the containerized workloads.
 
-![objectives](objectives.png)
+{{< meshery-design-embed
+  id="embedded-design-dbfb44b7-5d93-4dc8-9ca7-8396dd0ecb9b"
+  src="embedded-design-meshery_learning_path_design_647.js"
+>}}
+
 
 ## Provisioning VMs
 ---
