@@ -9,7 +9,7 @@ weight: 4
 
 Understanding the risks that could significantly impact the organization and its ability to achieve its objectives is critical.
 
-Risks are typically grouped into three level:
+Risks are typically grouped into three categories:
 
 - Business Risks
 - Compliance Risks
