@@ -15,9 +15,8 @@ weight: 2
 
 3. Delete the application.
 
-<br/>
-<details>
-<summary markdown="span">Solution</summary>
+
+Solution
 
 1. The specification to define the *seed* CronJob is as follows:
 
@@ -60,5 +59,4 @@ Using the IP address of one of the cluster nodes, you can access the vote and re
 kubectl delete -f .
 ```
 
-</details>
 

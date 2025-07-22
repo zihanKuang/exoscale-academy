@@ -16,9 +16,8 @@ weight: 4
 
 5. Delete the application.
 
-<br/>
-<details>
-<summary markdown="span">Solution</summary>
+
+Solution
 
 1. The password we want to store in the Secret is *dbpass*.
 
@@ -149,5 +148,4 @@ As before, using the IP address of one of the cluster nodes, we can access the v
 kubectl delete -f .
 ```
 
-</details>
 

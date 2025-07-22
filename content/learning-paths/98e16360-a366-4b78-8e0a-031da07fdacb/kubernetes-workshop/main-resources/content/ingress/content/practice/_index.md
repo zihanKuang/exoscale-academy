@@ -56,9 +56,7 @@ If you do not have the necessary permissions to modify your */etc/hosts* file, y
 
 4. Delete the application.
 
-<br/>
-<details>
-<summary markdown="span">Solution</summary>
+Solution
 
 1. The specification for the Ingress resource is as follows:
 
@@ -110,5 +108,3 @@ You can then access the different interfaces using real domain names instead of 
 ``` bash
 kubectl delete -f .
 ```
-
-</details>
