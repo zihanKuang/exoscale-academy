@@ -3,13 +3,16 @@ id: "Imperative vs Declarative"
 description: ""
 title: "Imperative vs Declarative"
 weight: 3
+tags: [kubernetes]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
-### **Imperative vs Declarative**
+### Imperative vs Declarative
 
 Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services that facilitates both automation and declarative configuration."
 
-#### **Configuration Differences**
+#### Configuration Differences
 
 What a difference a configuration makes :).
 
