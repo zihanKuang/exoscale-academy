@@ -4,4 +4,7 @@ description: "New to the Exoscale pricing topic and wondering where to begin? Th
 banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/exoscale-icon.png"
 courses: 1
 weight: 4
+tags: [pricing]
+level: [introductory]
+categories: [exoscale]
 ---
