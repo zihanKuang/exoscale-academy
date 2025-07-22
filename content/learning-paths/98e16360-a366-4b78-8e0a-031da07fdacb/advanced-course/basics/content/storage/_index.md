@@ -89,7 +89,12 @@ CDN:
 
 ![sos-cdn](sos-cdn.png)
 
-![sos-cdn-arch](sos-cdn-arch.png)
+{{< meshery-design-embed
+  id="embedded-design-0e3abb9c-39e7-4d09-b46f-26a0238c3c3d"
+  src="cdn.js"
+>}}
+
+[sos-cdn-arch](sos-cdn-arch.png)
 
 ### Pre-signed Keys
 Pre-signed keys can be used to:
