@@ -3,6 +3,9 @@ id: "storage"
 description: "Understand StorageClass, PV and PVCs stateful applications."
 title: "Storage"
 weight: 6
+tags: [CKA,storage]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 This section is a refresher that provides an overview of the primary Kubernetes resources related to storage. At the end of this section, please complete the exercises to put these concepts into practice.

@@ -3,6 +3,9 @@ id: "security"
 description: "Create Network Policies and RBAC rules."
 title: "Security"
 weight: 7
+tags: [CKA,security]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 This section is a refresher that provides an overview of the main concepts of security in Kubernetes. At the end of this section, please complete the exercises to put these concepts into practice.
