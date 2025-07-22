@@ -4,7 +4,8 @@ description: ""
 title: "Basic Concepts"
 weight: 8
 tags: [kubernetes, concepts]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 ### Basic Concepts

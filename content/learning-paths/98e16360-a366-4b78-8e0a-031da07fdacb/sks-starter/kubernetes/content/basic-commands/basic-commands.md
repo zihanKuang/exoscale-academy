@@ -4,7 +4,8 @@ description: ""
 title: "Basic Commands"
 weight: 6
 tags: [kubernetes]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 ### Basic Commands
