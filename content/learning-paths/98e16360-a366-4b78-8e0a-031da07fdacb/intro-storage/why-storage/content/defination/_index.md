@@ -55,7 +55,7 @@ Persistent storage is typically provided by external storage systems such as har
 Persistent storage is typically slower than ephemeral storage, as it often involves accessing data over a network or from disk-based storage devices. However, it provides the advantage of durability and the ability to retain data even in the event of system failures or restarts.
 ### Ephemeral vs Persistent
 
-The distinction between ephemeral storage and persistent storage lies in the duration of data retention. Ephemeral storage is temporary and volatile, while persistent storage is permanent and non-volatile. The categories for ephemeral storage and persistent storage are as follows:
+The distinction between ephemeral storage and persistent storage lies in the duration of data retention. Ephemeral storage is temporary and volatile, while persistent storage is permanent and non-volatile. The level for ephemeral storage and persistent storage are as follows:
 
 Unlike ephemeral storage, which is temporary and local to a computing instance, persistent storage is designed to retain data over extended periods of time. It is commonly used for storing critical application data, databases, user files, configuration files, and other important information that needs to be preserved and accessed across multiple instances or sessions.
 

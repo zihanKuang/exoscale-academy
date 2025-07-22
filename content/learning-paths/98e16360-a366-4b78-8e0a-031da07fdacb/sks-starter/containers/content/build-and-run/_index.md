@@ -4,7 +4,8 @@ description: ""
 title: "Build & Run"
 weight: 7
 tags: [docker, containers]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 

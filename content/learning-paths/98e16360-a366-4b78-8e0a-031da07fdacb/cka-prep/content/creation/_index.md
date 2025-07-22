@@ -10,12 +10,7 @@ categories: [exoscale,kubernetes]
 
 This section guides you in creating of a 3-nodes Kubernetes cluster using [kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/) bootstrapping tool. This is an important step as you will use this cluster throughout this workshop.
 
-The cluster you'll create is composed of 3 Nodes named **controlplane**, **worker1** and **worker2**. The controlplane Node runs the cluster components (API Server, Controller Manager, Scheduler, etcd), while worker1 and worker2 are the worker Nodes in charge of running the containerized workloads.
-
-{{< meshery-design-embed
-  id="embedded-design-dbfb44b7-5d93-4dc8-9ca7-8396dd0ecb9b"
-  src="embedded-design-meshery-learning-path-design-647.js"
->}}
+The cluster you'll create is composed of 3 Nodes named **controlplane**, **worker1** and **worker2**. The controlplane Node runs the cluster components (API Server, Controller Manager, Scheduler, etcd), while worker1 and worker2 are the worker Nodes in charge of running the containerized workloads. [ref](overview.png)
 
 
 ## Provisioning VMs
@@ -31,7 +26,14 @@ multipass launch --name worker1 --memory 2G --cpus 2 --disk 10G
 multipass launch --name worker2 --memory 2G --cpus 2 --disk 10G
 ```
 
-![step-1](step-1.png)
+
+{{< meshery-design-embed
+  id="embedded-design-8bc644d0-852a-4aed-a54d-f9a366fef40e"
+  src="embedded-design-meshery-learning-path-design-650.js"
+>}}
+
+[step-1](step-1.png)
+
 
 ## Cluster initialization
 ---
@@ -52,7 +54,7 @@ sudo kubeadm init
 
 The initialization should take a few tens of seconds. The list below shows all the steps it takes.
 
-```
+```bash
 preflight                     Run pre-flight checks
 certs                         Certificate generation
   /ca                           Generate the self-signed Kubernetes CA to provision identities for other Kubernetes components
@@ -95,7 +97,12 @@ show-join-command             Show the join command for control-plane and worker
 
 Several commands are returned at the end of the installation process, which you'll use in the next part.
 
-![step-2](step-2.png)
+
+{{< meshery-design-embed
+  id="embedded-design-092fffc5-fb59-4c28-88aa-3c6253f1fb5a"
+  src="embedded-design-meshery-learning-path-design-649.js"
+>}}
+[step-2](step-2.png)
 
 ## Retrieving kubeconfig file
 ---
@@ -150,7 +157,13 @@ sudo kubeadm join 10.81.0.174:6443 --token kolibl.0oieughn4y03zvm7 \
 
 You now have cluster with 3 Nodes.
 
-![step-3](step-3.png)
+
+{{< meshery-design-embed
+  id="embedded-design-3c00dfb2-6ae9-4427-84a2-969f21ee9f2e"
+  src="embedded-design-meshery-learning-path-design-648.js"
+>}}
+[step-3](step-3.png)
+
 
 ## Status of the Nodes
 ---
