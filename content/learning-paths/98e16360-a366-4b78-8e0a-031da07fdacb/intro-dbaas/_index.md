@@ -5,5 +5,6 @@ banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/exoscale-icon.svg"
 weight: 3
 tags: [databases]
 level: [introductory]
+id: "264ccc9b-4c19-4a70-b36a-e28ded515bf3"
 categories: [exoscale,kubernetes]
 ---
