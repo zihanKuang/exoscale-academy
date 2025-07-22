@@ -4,7 +4,8 @@ description: ""
 title: "Imperative vs Declarative"
 weight: 3
 tags: [kubernetes]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 ### Imperative vs Declarative

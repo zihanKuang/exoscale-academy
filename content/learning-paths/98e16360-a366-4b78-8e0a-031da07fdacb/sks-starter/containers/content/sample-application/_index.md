@@ -4,7 +4,8 @@ description: ""
 title: "Sample Application"
 weight: 2
 tags: [docker, containers]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 
