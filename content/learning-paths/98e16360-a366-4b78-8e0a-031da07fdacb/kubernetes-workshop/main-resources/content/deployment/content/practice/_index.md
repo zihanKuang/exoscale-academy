@@ -15,9 +15,8 @@ weight: 2
 
 5. Delete the application
 
-<br/>
-<details>
-<summary markdown="span">Solution</summary>
+
+Solution
 
 
 
@@ -254,4 +253,4 @@ A Deployment ensures that Pods are always present. If we had deleted a Pod that 
 kubectl delete -f .
 ```
 
-</details>
+

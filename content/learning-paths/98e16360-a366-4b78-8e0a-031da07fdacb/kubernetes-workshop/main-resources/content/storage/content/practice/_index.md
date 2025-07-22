@@ -35,9 +35,8 @@ Then modify the *redis* Deployment specification by adding a volume based on thi
 
 5. Delete the application.
 
-<br/>
-<details>
-<summary markdown="span">Solution</summary>
+
+Solution
 
 1. The specification to define the *PersistentVolumeClaim* named *redis*:
 
@@ -172,4 +171,3 @@ persistentvolume/pvc-75b9a32c-eab5-4452-a9b8-12d41dd74e7a   1Gi       RWO       
 kubectl delete -f .
 ```
 
-</deatils>

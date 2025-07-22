@@ -25,9 +25,7 @@ weight: 4
 
 4. Delete the application
 
-<br/>
-<details>
-<summary markdown="span">Solution</summary>
+Solution
 
 1. The specifications are as follows:
 
@@ -185,5 +183,5 @@ The Pods for the different microservices are created, but they cannot communicat
 kubectl delete -f votingapp
 ```
 
-</details>
+
 

@@ -26,9 +26,7 @@ weight: 4
 
 4. Delete the application
 
-<br/>
-<details>
-<summary markdown="span">Solution</summary>
+Solution
 
 1. The Service specifications are as follows:
 
@@ -183,5 +181,5 @@ Using the IP address of one of the cluster nodes, we can access the vote and res
 kubectl delete -f .
 ```
 
-</details>
+
 
