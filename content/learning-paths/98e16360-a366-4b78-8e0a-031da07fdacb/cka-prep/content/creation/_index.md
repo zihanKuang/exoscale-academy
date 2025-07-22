@@ -3,7 +3,7 @@ id: "creation"
 description: "Build a 3-node kubeadm cluster from scratch."
 title: "Create a cluster"
 weight: 2
-tags: [CKA,creation]
+tags: [CKA, installation]
 level: [intermediate]
 categories: [exoscale,kubernetes]
 ---
