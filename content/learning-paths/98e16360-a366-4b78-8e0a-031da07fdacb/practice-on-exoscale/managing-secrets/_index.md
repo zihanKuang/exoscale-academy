@@ -4,7 +4,7 @@ title: "Managing Secrets with Vault"
 description: "Secure sensitive information with HashiCorp Vault"
 courseTitle: "Managing Secrets with Vault"
 weight: 6
-banner: "/98e16360-a366-4b78-8e0a-031da07fdacb/images/kubernetes-icon.svg"
+banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/exoscale-icon.svg"
 tags: [kubernetes, vault, postgres, helm]
 categories: [advanced]
 ---

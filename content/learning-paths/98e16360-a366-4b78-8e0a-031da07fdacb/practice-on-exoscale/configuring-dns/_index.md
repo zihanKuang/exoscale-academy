@@ -4,7 +4,7 @@ title: "Configuring DNS"
 description: "Expose application on its own domain"
 courseTitle: "Configuring DNS"
 weight: 4
-banner: "/98e16360-a366-4b78-8e0a-031da07fdacb/images/kubernetes-icon.svg"
+banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/exoscale-icon.svg"
 tags: [kubernetes, dns]
 categories: [intermediate]
 ---
