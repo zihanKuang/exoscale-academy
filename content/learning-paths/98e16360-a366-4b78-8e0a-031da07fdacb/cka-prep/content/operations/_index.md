@@ -3,6 +3,9 @@ id: "operations"
 description: "Perform cluster upgrade and backup/restore of etcd."
 title: "Operations"
 weight: 9
+tags: [CKA,operations]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 This section details some Day-2 operations, the main ones being the cluster upgrade and etcd backup/restore. At the end of this section, please complete the exercises in the order provided.

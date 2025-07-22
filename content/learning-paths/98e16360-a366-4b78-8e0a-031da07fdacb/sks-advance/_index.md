@@ -4,4 +4,7 @@ description: "This  SKS ADVANCED - Learning Paths covers the deeper technical to
 banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/exoscale-icon.svg"
 courses: 4
 weight: 3
+tags: [sks]
+categories: [exoscale,kubernetes]
+level: [advanced]
 ---

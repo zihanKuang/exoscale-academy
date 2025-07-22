@@ -13,7 +13,7 @@ Many people have a complex job building, testing, and running systems based on o
 
 ### Experiences we want to change!
 
-### BUILD - Life of a Developer
+#### BUILD - Life of a Developer
 Here you see a developer who brought her code into production, only to find out that it didn't run like on her laptop ...
 
 ![image](exp1.png)
@@ -23,7 +23,7 @@ Here you can see system architects who mistakenly made a load test on a producti
 
 ![image](exp2.png)
 
-### RUN - Life of a System Administrator
+#### RUN - Life of a System Administrator
 Here you can see a system administrator who was woken at 3 am to restart a process ...
 
 ![image](exp3.png)

@@ -9,7 +9,12 @@ weight: 1
 
 Suppose you don't have the time, the budget, and the human resources to master all the complexity of Kubernetes on your own. In that case, your best option is to select a managed alternative to benefit from the power of Kubernetes in your developer and infrastructure platforms.
 
-![image](manages-kubernetes.png)
+
+{{< meshery-design-embed
+  id="embedded-design-a9022be8-42d1-47ad-b434-a42d2e6a2125"
+  src="embedded-design-managed-kubernetes.js"
+>}}
+[managed-kubernetes.png](managed-kubernetes.png)
 
 A simple who is responsible for what and pain versus gain comparison from available solutions should paint a clear picture of the golden mean, which is managed Kubernetes for most newcomers to the topic at hand.
 
