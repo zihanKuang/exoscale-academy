@@ -7,7 +7,7 @@ weight: 2
 
 This section guides you in creating of a 3-nodes Kubernetes cluster using [kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/) bootstrapping tool. This is an important step as you will use this cluster throughout this workshop.
 
-The cluster you'll create is composed of 3 Nodes named **controlplane**, **worker1** and **worker2**. The controlplane Node runs the cluster components (API Server, Controller Manager, Scheduler, etcd), while worker1 and worker2 are the worker Nodes in charge of running the containerized workloads.
+The cluster you'll create is composed of 3 Nodes named **controlplane**, **worker1** and **worker2**. The controlplane Node runs the cluster components (API Server, Controller Manager, Scheduler, etcd), while worker1 and worker2 are the worker Nodes in charge of running the containerized workloads. [ref](overview.png)
 
 
 ## Provisioning VMs
