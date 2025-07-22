@@ -22,7 +22,13 @@ Explained
    - Round-Robin - Incoming traffic will be forwarded to each member in equal proportions and circular order.
    - Source-Hash - A given source address will always be forwarded to the same instance.
 
-![nlb](nlb.png)
+
+{{< meshery-design-embed
+  id="embedded-design-f7b18766-0a3a-4270-9d2f-0a72951c329b"
+  src="nlb.js"
+>}}
+[nlb](nlb.png)
+
 
 ### Managed Elastic IP
 
@@ -35,7 +41,12 @@ Explained
 
 NOTE: Cannot be used for outgoing traffic
 
-![meip](meip.png)
+{{< meshery-design-embed
+  id="embedded-design-0d879683-6584-4f85-a50e-9d2eea160fbf"
+  src="meip.js"
+>}}
+[meip](meip.png)
+
 
 ### Comparison - Network Load Balancer / Managed Elastic IP
 ![nlb-icon](nlb-icon.png)
