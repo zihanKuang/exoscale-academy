@@ -1,14 +1,12 @@
 ---
-docType: "Course"
 title: "Voting App"
 description: "Introduction to a toy application"
-courseTitle: "Voting App"
 weight: 5
-banner: "/98e16360-a366-4b78-8e0a-031da07fdacb/images/kubernetes-icon.svg"
+banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/exoscale-icon.svg"
 ---
 The VotingApp is mainly used for demos and follows a microservices architecture. While it may not adhere to all architectural best practices, it is a good example of an application that utilizes various languages and databases. It helps in learning concepts related to Docker and Kubernetes. The VotingApp consists of 7 microservices, as illustrated in the following diagram:
 
-![architecture]({{< usestatic "k8s-workshop/architecture.png" >}})
+![architecture](architecture.png)
 
 - vote-ui: A Vue.js frontend that allows users to choose between Cat and Dog
 - vote: A backend API built with Python / Flask

@@ -1,10 +1,8 @@
 ---
-docType: "Course"
 title: "Concepts"
 description: "Kubernetes Basic Concepts"
-courseTitle: "Concepts"
 weight: 1
-banner: "/98e16360-a366-4b78-8e0a-031da07fdacb/images/kubernetes-icon.svg"
+banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/exoscale-icon.svg"
 ---
 
 ## History
@@ -27,23 +25,23 @@ Kubernetes is a container orchestrator offering main functionalities, such as:
 
 ## Manages applications in production
 
-![environments]({{< usestatic "k8s-workshop/environments.png" >}})
+![environments](environments.png)
 ## Major project in the open-source ecosystem
 
 Kubernetes is the first graduated project within the [CNCF](https://cncf.io/projects), it was followed by major players like [etcd](https://etcd.io) and [Prometheus](https://prometheus.io/) 
 
-![cncf]({{< usestatic "k8s-workshop/cncf.png" >}})
+![cncf](cncf.png)
 ## What is a Kubernetes cluster made of ?
 
 A Kubernetes cluster is composed of nodes, where a node is either a virtual machine or a bare metal server. A node can belong to the Control Plane which run processes in charge of managing the cluster and the applications running on it. Or, a node can be a Worker dedicated to run Pods, a group of containers sharing a network stack and storage.
 
-![cluster]({{< usestatic "k8s-workshop/cluster.png" >}})
+![cluster](cluster.png)
 
 ## How to access a cluster
 
 A cluster usually comes with a kubeconfig file which contains all the information to communicate with the cluster API Server. This file can be used to configure the standard *kubectl* binary to manage the cluster. The kubeconfig file can also be used with tools like [k9s](https://k9scli.io/), [Mirantis Lens](https://k8slens.dev/), ... which give a higher level view of the cluster.
 
-![access]({{< usestatic "k8s-workshop/access.png" >}})
+![access](access.png)
 
 ## Various workload resources for different use cases
 
@@ -54,11 +52,11 @@ To run a Pod we often rely on a higher level resource, instead of running it dir
 - Job / CronJob : batch
 - StatefulSet : stateful application
 
-![workloads]({{< usestatic "k8s-workshop/workloads.png" >}})
+![workloads](workloads.png)
 
 A request that reaches a Service is load-balanced between the exposed Pods
 
-![service]({{< usestatic "k8s-workshop/service.png" >}})
+![service]({{< usestatic "service.png" >}})
 
 
 A Pod can use several resources
@@ -67,17 +65,17 @@ A Pod can use several resources
 - Secret : contains sensitive data
 - PersistentVolumeClaim / PersistentVolume : storage management
 
-![pod-resources]({{< usestatic "k8s-workshop/pod-resources.png" >}})
+![pod-resources](pod-resources.png)
 
 
 ## Several types of resources
 
-![summary]({{< usestatic "k8s-workshop/summary.png" >}})
+![summary](summary.png)
 
 ## An application runs in a Namespace
 
 
-![namespace]({{< usestatic "k8s-workshop/namespace.png" >}})
+![namespace](namespace.png)
 
 ## Resource creation
 
