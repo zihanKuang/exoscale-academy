@@ -4,7 +4,8 @@ description: ""
 title: "Dockerfile"
 weight: 6
 tags: [docker, containers]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 

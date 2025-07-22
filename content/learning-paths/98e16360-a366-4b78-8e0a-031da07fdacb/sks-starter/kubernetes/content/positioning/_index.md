@@ -4,7 +4,8 @@ description: ""
 title: "Positoning"
 weight: 5
 tags: [kubernetes]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 ### Positoning
