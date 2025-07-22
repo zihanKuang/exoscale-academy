@@ -4,7 +4,8 @@ description: ""
 title: "What is it?"
 weight: 1
 tags: [kubernetes, introduction]
-categories: [intermediate]
+level: [intermediate]
+categories: [exoscale,kubernetes]
 ---
 
 ### What is it?
