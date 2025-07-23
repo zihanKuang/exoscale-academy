@@ -22,6 +22,7 @@ The last question from the list above is essential in modern applications becaus
   id="embedded-design-8df52341-0ca7-43eb-a61a-b43fdaa0a40d"
   src="embedded-design-exoscale-scenario.js"
 >}}
+[scenario](scenario.png) 
 
 Looking back on the diagram of the example application shows that more and more data technologies are being utilized. So, sourcing different database technologies from a managed service provider is definitely not the final solution there. However, they are reducing complexity, increasing convenience for data service usage.
 
