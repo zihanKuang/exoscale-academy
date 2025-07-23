@@ -94,8 +94,6 @@ CDN:
   src="cdn.js"
 >}}
 
-[sos-cdn-arch](sos-cdn-arch.png)
-
 ### Pre-signed Keys
 Pre-signed keys can be used to:
 

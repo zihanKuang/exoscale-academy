@@ -27,8 +27,6 @@ Explained
   id="embedded-design-f7b18766-0a3a-4270-9d2f-0a72951c329b"
   src="nlb.js"
 >}}
-[nlb](nlb.png)
-
 
 ### Managed Elastic IP
 
@@ -45,7 +43,6 @@ NOTE: Cannot be used for outgoing traffic
   id="embedded-design-0d879683-6584-4f85-a50e-9d2eea160fbf"
   src="meip.js"
 >}}
-[meip](meip.png)
 
 
 ### Comparison - Network Load Balancer / Managed Elastic IP
@@ -114,13 +111,13 @@ Security Groups Examples
 - Allow 0.0.0.0/0 for port 443/tcp
 - Allow 90.80.60.0/24 for port 22/tcp *
 
-*) allow clients originating from the given subnet – e.g., company network - to connect to SSH; not on the diagram
+> allow clients originating from the given subnet – e.g., company network - to connect to SSH; not on the diagram
 
 ### Backend Security Group
 
 - Allow Security Group Frontend for port 8080/tcp
 - Allow Security Group Backend for port 8080/tcp *
 
-*) without this rule, backend instances cannot access each other on 8080
+> without this rule, backend instances cannot access each other on 8080
 
 ![SG-example2](SG-example2.png)

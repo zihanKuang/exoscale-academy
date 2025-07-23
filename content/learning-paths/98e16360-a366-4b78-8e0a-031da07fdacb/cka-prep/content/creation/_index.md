@@ -32,8 +32,6 @@ multipass launch --name worker2 --memory 2G --cpus 2 --disk 10G
   src="embedded-design-meshery-learning-path-design-650.js"
 >}}
 
-[step-1](step-1.png)
-
 
 ## Cluster initialization
 ---
@@ -102,7 +100,6 @@ Several commands are returned at the end of the installation process, which you'
   id="embedded-design-092fffc5-fb59-4c28-88aa-3c6253f1fb5a"
   src="embedded-design-meshery-learning-path-design-649.js"
 >}}
-[step-2](step-2.png)
 
 ## Retrieving kubeconfig file
 ---
@@ -162,8 +159,6 @@ You now have cluster with 3 Nodes.
   id="embedded-design-3c00dfb2-6ae9-4427-84a2-969f21ee9f2e"
   src="embedded-design-meshery-learning-path-design-648.js"
 >}}
-[step-3](step-3.png)
-
 
 ## Status of the Nodes
 ---
