@@ -8,7 +8,7 @@ Welcome to **Exoscale Academy**, the dedicated cloud education and training plat
 - [Getting Started](#getting-started)
 - [Repository Structure](#repository-structure)
 - [Content Authoring Workflow](#content-authoring-workflow)
-- [Managing Assets (Images & Videos)](#managing-assets-images--videos)
+- [Managing Assets: Images, Videos, and Embedded Designs](#managing-assets-images-videos-and-embedded-designs)
 - [Local Development](#local-development)
 - [Deploying & Going Live](#deploying--going-live)
 - [Contributing](#contributing)
@@ -105,7 +105,7 @@ Each level uses `_index.md` and lessons use `.md` files with [Hugo frontmatter](
 3. **Organize Lessons**
    - Add new folders and markdown files for each learning path, course, chapter, and lesson.
 
-## Managing Assets (Images & Videos)
+## Managing Assets: Images, Videos, and Embedded Designs
 
 Enhance your courses with images and rich visual content. For compatibility with the Layer5 Academy’s multi-tenant architecture, **do not use standard Markdown image links**. Use shortcodes as described below.
 
@@ -137,8 +137,25 @@ Embed videos in a visually distinct `card` using:
 </video>
 {{</* /card */>}}
 ```
+## How to Add a Meshery Design
 
-> Always use these shortcodes for images and videos so assets remain portable, visible, and cloud-ready.
+1. Place Design Assets  
+   Put your design files (e.g., `cdn.js`, design YAMLs) alongside your course or lesson content, ideally following the same directory conventions used for images.
+
+2. Embed Using the meshery-design-embed Shortcode  
+   In your lesson markdown, use:
+  
+  ```markdown
+  {{< meshery-design-embed
+  id="embedded-design-0e3abb9c-39e7-4d09-b46f-26a0238c3c3d"
+  src="cdn.js"
+  >}}
+  ```
+
+   - Replace `id` with the unique identifier for your design.
+   - Replace `src` with the path to your JS asset responsible for rendering.
+
+> Always use these shortcodes for images, videos, and embedded designs. This keeps assets portable, ensures they resolve correctly for each organization, and integrates properly with the Academy platform’s build and deployment flow.
 
 ## Local Development
 
