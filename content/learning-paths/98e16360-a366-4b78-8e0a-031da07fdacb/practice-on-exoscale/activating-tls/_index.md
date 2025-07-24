@@ -4,7 +4,7 @@ title: "Activating TLS"
 description: "Automate certificate management with cert-manager"
 courseTitle: "Activating TLS"
 weight: 5
-banner: "images/exoscale-icon.svg"
+banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/exoscale-icon.svg"
 tags: [kubernetes, tls]
 level: [advanced]
 categories: [exoscale]

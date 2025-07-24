@@ -2,7 +2,7 @@
 title: "Pod"
 description: "Building blocks for running containers"
 weight: 6
-banner: "images/pod.png"
+banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/pod.png"
 tags: [kubernetes,pod]
 categories: [kubernetes]
 level: [introductory]
