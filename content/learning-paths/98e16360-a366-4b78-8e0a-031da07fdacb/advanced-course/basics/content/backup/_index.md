@@ -37,16 +37,26 @@ Backup the filesystem to an S3 bucket (potentially in a different zone):
 - Economical
 - Harder to implement -> Requires a third-party application
 
-![backup-abb1](backup-abb1.png)
+{{< meshery-design-embed
+  id="embedded-design-5cea201d-9ba7-4f5e-815d-1e1824374152"
+  src="backup-abb1.js"
+>}}
 
 Restoring – Option A:
 
 - Restore file system directly (i.e., using Restic)
 
-![backup-abb2](backup-abb2.png)
+{{< meshery-design-embed
+  id="embedded-design-4ef2618a-84d9-42a9-8b79-fff0580abb1f"
+  src="backup-abb2.js"
+>}}
+
 
 Restoring – Option B:
 
 - Restore whole system (i.e., using UrBackup, Bareos)
 
-![backup-abb3](backup-abb3.png)
+{{< meshery-design-embed
+  id="embedded-design-864f5d5d-a804-48e3-8801-331e637c9bba"
+  src="backup-abb3.js"
+>}}
