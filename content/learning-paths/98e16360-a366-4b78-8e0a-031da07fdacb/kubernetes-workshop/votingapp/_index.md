@@ -2,7 +2,7 @@
 title: "Voting App"
 description: "Introduction to a toy application"
 weight: 5
-banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/exoscale-icon.svg"
+banner: "images/exoscale-icon.svg"
 tags: [kubernetes]
 categories: [kubernetes]
 level: [introductory]
