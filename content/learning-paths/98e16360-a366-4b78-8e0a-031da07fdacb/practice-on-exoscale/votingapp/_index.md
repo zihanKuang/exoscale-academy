@@ -5,7 +5,7 @@ description: "Introduction to our sample application"
 courseTitle: "Voting App"
 weight: 1
 banner: "images/exoscale-icon.svg"
-tags: [kubernetes, docker, microservices]
+tags: [kubernetes, docker, infrastructure]
 level: [introductory]
 categories: [exoscale]
 ---

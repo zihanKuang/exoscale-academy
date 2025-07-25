@@ -5,7 +5,7 @@ description: "Store application assets in Object Storage"
 courseTitle: "Using Object Storage"
 weight: 8
 banner: "images/exoscale-icon.svg"
-tags: [kubernetes, helm, exoscale]
+tags: [kubernetes, infrastructure]
 level: [introductory]
 categories: [exoscale]
 ---

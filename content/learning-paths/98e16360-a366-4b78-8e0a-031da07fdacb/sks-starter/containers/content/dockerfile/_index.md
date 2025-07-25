@@ -3,9 +3,6 @@ id: "Dockerfile"
 description: ""
 title: "Dockerfile"
 weight: 6
-tags: [docker, containers]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 

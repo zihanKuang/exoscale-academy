@@ -3,9 +3,6 @@ id: "Running Application"
 description: ""
 title: "Running Applications"
 weight: 3
-tags: [docker, containers]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 

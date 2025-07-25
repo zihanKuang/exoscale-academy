@@ -3,9 +3,6 @@ id: "Sample Application"
 description: ""
 title: "Sample Application"
 weight: 2
-tags: [docker, containers]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 

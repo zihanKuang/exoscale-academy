@@ -5,7 +5,7 @@ description: "Launch the application in exoscale managed cluster"
 courseTitle: "Deploying the VotingApp"
 weight: 2
 banner: "images/exoscale-icon.svg"
-tags: [kubernetes, helm]
+tags: [kubernetes, infrastructure, exoscale]
 level: [introductory]
 ---
 

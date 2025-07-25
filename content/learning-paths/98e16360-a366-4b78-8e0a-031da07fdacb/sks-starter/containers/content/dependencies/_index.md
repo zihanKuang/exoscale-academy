@@ -3,9 +3,6 @@ id: "Dependencies"
 description: ""
 title: "Dealing with Dependencies"
 weight: 4
-tags: [docker, dependencies, containers]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 ### Installing Dependencies ...

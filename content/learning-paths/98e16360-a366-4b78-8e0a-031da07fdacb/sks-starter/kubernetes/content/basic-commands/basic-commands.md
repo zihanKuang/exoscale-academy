@@ -3,9 +3,6 @@ id: "Basic Commands"
 description: ""
 title: "Basic Commands"
 weight: 6
-tags: [kubernetes]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 ### Basic Commands

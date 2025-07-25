@@ -3,9 +3,6 @@ id: "Containers"
 description: ""
 title: "Containers"
 weight: 5
-tags: [containers]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 

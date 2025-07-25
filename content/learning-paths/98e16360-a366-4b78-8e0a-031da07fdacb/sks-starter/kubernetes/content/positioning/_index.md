@@ -3,9 +3,6 @@ id: "Positoning"
 description: ""
 title: "Positoning"
 weight: 5
-tags: [kubernetes]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 ### Positoning

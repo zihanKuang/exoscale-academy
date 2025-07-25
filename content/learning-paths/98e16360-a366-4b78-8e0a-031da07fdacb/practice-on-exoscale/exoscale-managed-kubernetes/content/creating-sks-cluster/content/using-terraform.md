@@ -3,7 +3,7 @@ docType: "Chapter"
 title: "Using Terraform"
 courseTitle: "Creating SKS Cluster"
 weight: 2
-tags: [kubernetes, terraform]
+tags: [kubernetes, infrastructure]
 level: [intermediate]
 ---
 

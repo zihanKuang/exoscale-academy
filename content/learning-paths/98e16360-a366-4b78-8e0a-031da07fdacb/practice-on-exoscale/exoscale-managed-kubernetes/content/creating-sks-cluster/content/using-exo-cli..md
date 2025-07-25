@@ -3,7 +3,7 @@ docType: "Chapter"
 title: "Using exo CLI"
 courseTitle: "Creating SKS Cluster"
 weight: 4
-tags: [kubernetes, exo-cli]
+tags: [kubernetes, exo-cli, infrastructure]
 level: [intermediate]
 ---
 
