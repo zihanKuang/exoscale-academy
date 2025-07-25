@@ -3,7 +3,7 @@ title: "Exoscale"
 description: "Learn about Exoscale, its services, and how to use them effectively."
 banner: "images/exoscale-icon.png"
 weight: 2
-tags: [exoscale]
+tags: [exoscale, compliance, cloud]
 level: [introductory]
 categories: [exoscale,kubernetes]
 ---

@@ -5,7 +5,7 @@ description: "Secure sensitive information with HashiCorp Vault"
 courseTitle: "Managing Secrets with Vault"
 weight: 6
 banner: "images/exoscale-icon.svg"
-tags: [kubernetes, deployment]
+tags: [kubernetes, deployment, configuration]
 level: [advanced]
 categories: [exoscale]
 ---

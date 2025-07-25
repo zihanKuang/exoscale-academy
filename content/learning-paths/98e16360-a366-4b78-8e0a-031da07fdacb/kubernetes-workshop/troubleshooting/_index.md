@@ -3,7 +3,7 @@ title: "Troubleshooting"
 description: "This section presents some common deployment errors and how to troubleshoot them."
 weight: 4
 banner: "images/exoscale-icon.svg"
-tags: [kubernetes]
+tags: [kubernetes, troubleshooting]
 categories: [kubernetes]
 level: [introductory]
 

@@ -3,7 +3,7 @@ title: "Troubleshooting"
 description: "Learn how to troubleshoot common issues in Kubernetes, including networking, storage, and application problems."
 banner: "images/exoscale-icon.svg"
 weight: 4
-tags: [sks, kubernetes]
+tags: [sks, kubernetes, troubleshooting]
 categories: [exoscale,kubernetes]
 level: [advanced]
 ---

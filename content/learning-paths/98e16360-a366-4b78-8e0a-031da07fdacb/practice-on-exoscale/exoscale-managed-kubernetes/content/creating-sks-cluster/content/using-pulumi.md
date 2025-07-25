@@ -3,7 +3,7 @@ docType: "Chapter"
 title: "Using Pulumi"
 courseTitle: "Creating SKS Cluster"
 weight: 3
-tags: [kubernetes, pulumi]
+tags: [kubernetes, kubernetes-resources]
 level: [intermediate]
 ---
 

@@ -5,7 +5,7 @@ description: "Expose application on its own domain"
 courseTitle: "Configuring DNS"
 weight: 4
 banner: "images/exoscale-icon.svg"
-tags: [kubernetes, deployment]
+tags: [kubernetes, deployment, networking]
 level: [advanced]
 categories: [exoscale]
 ---
