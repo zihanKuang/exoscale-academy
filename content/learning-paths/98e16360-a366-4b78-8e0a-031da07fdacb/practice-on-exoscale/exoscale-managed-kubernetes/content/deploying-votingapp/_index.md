@@ -125,8 +125,8 @@ Using the following command, get the external IP of any node and verify you can 
 $ kubectl get no -o wide
 ```
 
-![access-nodeport](access-nodeport)
+![access-nodeport](access-nodeport.png)
 
-![access-nodeport2](access-nodeport2)
+![access-nodeport2](access-nodeport2.png)
 
 Using NodePort Services is not a recommended way to expose production application; for this purpose, we need to use a LoadBalancer Services, as we will explore in the next section.

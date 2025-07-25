@@ -7,4 +7,4 @@ weight: 2
 
 ### Packaging & Pricing
 
-![image](pricing.png)
+![pricing](pricing.png)

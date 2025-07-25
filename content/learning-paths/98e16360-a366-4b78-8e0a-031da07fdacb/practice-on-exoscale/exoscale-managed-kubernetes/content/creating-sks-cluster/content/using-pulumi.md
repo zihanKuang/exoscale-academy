@@ -168,7 +168,7 @@ We can verify the stack exists in the Pulumi backend.
 pulumi stack ls
 ```
 
-![pulumi-template](pulumi-template)
+![pulumi-template](pulumi-template.png)
 
 Before deploying the stack, we preview the resources it will create.
 
@@ -206,7 +206,7 @@ Resources:
 > [!INFO]
 > It takes about 2 minutes for the cluster and the associated resources to be available.
 
-![pulumi-cluster](pulumi-cluster)
+![pulumi-cluster](pulumi-cluster.png)
 
 Next, we retrieve the kubeconfig file.
 
