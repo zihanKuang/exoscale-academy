@@ -15,4 +15,4 @@ Replication of success is always desirable and sparked a new way of operating IT
 
 Container Technology in the shipping industry Instead of thinking up a separate way of shipping for each product, placing the goods in steel containers designed for pickup by the crane on the dock and fit into the ship is a more efficient way to do transport at scale.
 
-![image](ship.png)
+![ship](ship.png)

@@ -11,6 +11,6 @@ Google open-sourced the Kubernetes project in 2014. Kubernetes combines over 15 
 
 The name Kubernetes originates from Greek, meaning helmsman or pilot.
 
-![image](kubernetes3.png)
+![kubernetes3](kubernetes3.png)
 
 **Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services that facilitates both automation and declarative configuration.**

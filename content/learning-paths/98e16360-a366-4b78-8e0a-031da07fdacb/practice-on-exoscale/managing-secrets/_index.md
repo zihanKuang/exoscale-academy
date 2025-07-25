@@ -37,65 +37,65 @@ The Exoscale Marketplace provides various tools you can deploy in your organizat
 
 Click on *Manage* to start the installation of Vault.
 
-![marketplace-vault](marketplace-vault)
+![marketplace-vault](marketplace-vault.png)
 
 Next, enable the starter plan.
 
-![starterplan-enable](starterplan-enable)
+![starterplan-enable](starterplan-enable.png)
 
 Then, confirm your choice.
 
-![starterplan-confirm](starterplan-confirm)
+![starterplan-confirm](starterplan-confirm.png)
 
 This activates the starter plan, which is a single Vault instance.
 
-![vault-instance](vault-instance)
+![vault-instance](vault-instance.png)
 
 After a couple of minutes, you should receive an email like the following. It contains a link to your Glasskube console. Glasskube is the Exoscale partner that provides the managed Vault service.
 
-![console-email](console-email)
+![console-email](console-email.png)
 
 The console allows you to configure your Vault instance. Leave the default values, acknowledge the T&C, and click on Save.
 
-![configure-vault](configure-vault)
+![configure-vault](configure-vault.png)
 
 Your Vault environment is building.
 
-![vault-environment-building](vault-environment-building)
+![vault-environment-building](vault-environment-building.png)
 
 After a few minutes, you’ll receive another email with the address of your Vault.
 
-![vault-address-email](vault-address-email)
+![vault-address-email](vault-address-email.png)
 
 Using this URL, you’ll be able to select the number of keys to seal/unseal your Vault.
 
-![seal-unseal-vault](seal-unseal-vault)
+![seal-unseal-vault](seal-unseal-vault.png)
 
 Download the keys and save them in a secure location on your local machine.
 
-![vault-keys](vault-keys)
+![vault-keys](vault-keys.png)
 
 Use 2 of the keys to unseal the Vault.
 
-![unseal-vault](unseal-vault)
+![unseal-vault](unseal-vault.png)
 
 Once the Vault is unsealed, use the root token to log in.
 
-![signin-vault](signin-vault)
+![signin-vault](signin-vault.png)
 
 You can now configure the way you want to store your sensitive data.
 
-![secrets-engines](secrets-engines)
+![secrets-engines](secrets-engines.png)
 
 ## Creating new secrets
 
 First, create a kv (key-value) store, which you’ll use to save the Postgres credentials.
 
-![kv-store](kv-store)
+![kv-store](kv-store.png)
 
 Specify *votingapp* in the Path and validate the creation.
 
-![configure-kv-store](configure-kv-store)
+![configure-kv-store](configure-kv-store.png)
 
 We’ll perform the next actions using vault cli instead of using the web interface.
 

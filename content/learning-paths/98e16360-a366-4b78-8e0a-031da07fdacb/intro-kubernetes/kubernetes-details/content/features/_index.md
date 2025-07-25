@@ -7,7 +7,7 @@ weight: 3
 
 ### Features
 
-![image](features.png)
+![features](features.png)
 
 ### Kubernetes provides the following features
 #### self-healing

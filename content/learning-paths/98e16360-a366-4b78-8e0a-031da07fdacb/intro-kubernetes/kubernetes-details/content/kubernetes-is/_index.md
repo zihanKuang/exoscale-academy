@@ -11,7 +11,7 @@ weight: 3
 
 ... extensible, and lets users integrate their logging, monitoring, alerting, and many more solutions because it is not monolithic, and these solutions are optional and pluggable.
 
-![image](kubernetes4.png)
+![kubernetes4](kubernetes4.png)
 
 ### Kubernetes does NOT ...
 **... limit the types of applications supported.**

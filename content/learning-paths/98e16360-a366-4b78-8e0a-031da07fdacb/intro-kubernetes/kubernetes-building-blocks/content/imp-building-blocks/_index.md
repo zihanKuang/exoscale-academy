@@ -13,4 +13,4 @@ A critical fault on the node where your Pod runs means that all the Pods on that
 
 Instead, you can use workload resources that address a set of Pods on your behalf. These resources configure controllers that ensure the correct number and right kind of Pods are running to match the state you specified. Kubernetes provides several built-in workload resources: Pods, ReplicaSet, Deployment, DaemonSet, Ingress, and CronJob, to name a few of those building blocks.
 
-![image](kubernetes5.png)
+![kubernetes5](kubernetes5.png)

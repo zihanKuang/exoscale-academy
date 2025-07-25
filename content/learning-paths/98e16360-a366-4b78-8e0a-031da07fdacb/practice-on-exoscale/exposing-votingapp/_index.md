@@ -23,7 +23,7 @@ helm install traefik traefik/traefik --version 33.2.1 -n traefik --create-namesp
 
 In the background, this creates a Kubernetes Service of type LoadBalancer responsible for exposing the Traefik Ingress Controller. This Service triggers the creation of a Network Load Balancer on the Exoscale infrastructure to expose the Ingress Controller to the internet. From the Exoscale portal, we can get the details of this Load Balancer, including its IP address.
 
-![nlb](nlb)
+![nlb](nlb.png)
 
 You can also get the LoadBalancer’s IP Address from the command line:
 
@@ -66,9 +66,9 @@ NOTE: you need to use the IP address of your own LoadBalancer
 159.100.240.231 result.votingapp.cc
 ```
 
-![nlb-votingapp1](nlb-votingapp1)
+![nlb-votingapp1](nlb-votingapp1.png)
 
-![nlb-votingapp2](nlb-votingapp2)
+![nlb-votingapp2](nlb-votingapp2.png)
 
 If you do not have permission to modify your */etc/hosts*, you can temporarily use [nip.io](https://nip.io), a handy DNS resolver tool. For example, with *nip.io*, the domain *vote.159.100.240.231.nip.io* automatically resolves to *159.100.240.231.*
 
@@ -90,7 +90,7 @@ helm upgrade --install vote oci://registry-1.docker.io/voting/app --version v1.0
 
 Open a browser at http://vote.LOAD_BALANCER_IP.nip.io to access the application.
 
-![nlb-nip.io](nlb-nip.io)
+![nlb-nip.io](nlb-nip.io.png)
 
 > [!WARNING]
 > Before going any further, make sure to remove the changes we made previously in the /etc/hosts file.

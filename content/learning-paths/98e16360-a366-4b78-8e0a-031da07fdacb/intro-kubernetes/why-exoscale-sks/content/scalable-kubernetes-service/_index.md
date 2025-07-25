@@ -9,7 +9,7 @@ weight: 1
 
 Start with a privacy-minded public cloud to host from single applications to complex architectures. Deploy a production-ready cluster in 90 seconds and manage it with a simple web portal, CLI, API or your choice of tools (Terraform).
 
-![image](exoscale.png)
+![exoscale](exoscale.png)
 
 ### SKS Features
 **Access to all compute instance types**
@@ -35,4 +35,4 @@ With a free STARTER version and an affordable PRO plan, SKS provides straightfor
 
 Deploy your cluster where you need to, in the region that suits your latency, privacy or redundancy strategy.
 
-![image](kubernetes6.png)
+![kubernetes6](kubernetes6.png)

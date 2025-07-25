@@ -49,9 +49,9 @@ helm upgrade --install vote oci://registry-1.docker.io/voting/app --version v1.0
 
 The *vote-ui* and *result-ui* web interfaces should now display images as follows:
 
-![vote-ui-sos](vote-ui-sos)
+![vote-ui-sos](vote-ui-sos.png)
 
-![result-ui-sos](result-ui-sos)
+![result-ui-sos](result-ui-sos.png)
 
 In the next part, you’ll use your images.
 
@@ -59,35 +59,35 @@ In the next part, you’ll use your images.
 
 First, go to the Storage section.
 
-![buckets-sos](buckets-sos)
+![buckets-sos](buckets-sos.png)
 
 Next, create a bucket.
 
-![create-buckets-sos](create-buckets-sos)
+![create-buckets-sos](create-buckets-sos.png)
 
 > [!WARNING]
 > Since bucket names are global, do not use generic names, as somebody may already use them.
 
-![display-buckets-sos](display-buckets-sos)
+![display-buckets-sos](display-buckets-sos.png)
 
 Next, explore the bucket’s detailed page and select the “Upload Object” action.
 
-![upload-object](upload-object)
+![upload-object](upload-object.png)
 
 Select two images from your local machine.
 
 > [!INFO]
 > Please use square PNG images
 
-![votingapp-bucket-tom](votingapp-bucket-tom)
+![votingapp-bucket-tom](votingapp-bucket-tom.png)
 
 Change the “content-type” header into “image/png” for each image.
 
-![content-type-sos](content-type-sos)
+![content-type-sos](content-type-sos.png)
 
 Next, add the PUBLIC_READ ACL to make the images public.
 
-![public-read-sos](public-read-sos)
+![public-read-sos](public-read-sos.png)
 
 From the image’s detail page, get the public URL and use it in the *values.yaml* file as follows:
 
@@ -103,9 +103,9 @@ items:
 helm upgrade --install vote oci://registry-1.docker.io/voting/app --version v1.0.36 --namespace vote --create-namespace -f values.yaml
 ```
 
-![vote-sos](vote-sos)
+![vote-sos](vote-sos.png)
 
-![result-sos](result-sos)
+![result-sos](result-sos.png)
 
 > [!INFO]
 > Want to know more about Exoscale Object Storage offering? Visit the [documentation](https://community.exoscale.com/product/storage/) to get the entire feature set.

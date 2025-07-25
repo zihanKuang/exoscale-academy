@@ -16,28 +16,28 @@ By default, the VotingApp deploys its own Redis and Postgres databases. In this 
 
 From the DBAAS menu, create a Postgres database.
 
-![dbaas-service-portal](dbaas-service-portal)
+![dbaas-service-portal](dbaas-service-portal.png)
 
 Provide a name (*postgres* in this example) and permit access from all IP addresses (*0.0.0.0/0*).
 
 > [!WARNING]
 > We would limit the range of IP addresses to the strict minimum for a production database.
 
-![add-dbaas-service](add-dbaas-service)
+![add-dbaas-service](add-dbaas-service.png)
 
 After a few tens of seconds, the database is ready to be used.
 
-![dbaas-service-ready](dbaas-service-ready)
+![dbaas-service-ready](dbaas-service-ready.png)
 
 Get the database connection string.
 
-![database-string](database-string)
+![database-string](database-string.png)
 
 Next, get the admin password.
 
-![admin-password](admin-password)
+![admin-password](admin-password.png)
 
-![admin-password2](admin-password2)
+![admin-password2](admin-password2.png)
 
 > [!WARNING]
 > We would create an additional user for a production database and use it instead of the admin one.
@@ -52,28 +52,28 @@ In the current example, the database connection string is the following one.
 
 From the DBAAS menu, create a Cache database.
 
-![cache-database](cache-database)
+![cache-database](cache-database.png)
 
 Enter the database’s name (*redis* in this example) and allow access from all IP Address (*0.0.0.0/0*).
 
 > [!WARNING]
 > We would limit the range of IP addresses to the strict minimum for a production database.
 
-![add-cache-service](add-cache-service)
+![add-cache-service](add-cache-service.png)
 
 After a few tens of seconds, the database is ready to be used.
 
-![cache-database-ready](cache-database-ready)
+![cache-database-ready](cache-database-ready.png)
 
 Get the database connection string.
 
-![cache-database-string](cache-database-string)
+![cache-database-string](cache-database-string.png)
 
 Next, get the admin password.
 
-![cache-admin-password](cache-admin-password)
+![cache-admin-password](cache-admin-password.png)
 
-![cache-admin-password2](cache-admin-password2)
+![cache-admin-password2](cache-admin-password2.png)
 
 > [!WARNING]
 > For a production database, we would create an additional user and use it instead of the admin one.
@@ -167,9 +167,9 @@ worker-77f6588f5f-5b2rx      1/1     Running   0          16s
 
 Verify the application is still working fine.
 
-![dbaas-votingapp1](dbaas-votingapp1)
+![dbaas-votingapp1](dbaas-votingapp1.png)
 
-![dbaas-votingapp2](dbaas-votingapp2)
+![dbaas-votingapp2](dbaas-votingapp2.png)
 
 > [!INFO]
 > Want to know more about Exoscale Database as a Service offering? Visit the [documentation](https://community.exoscale.com/product/dbaas/) to get the entire feature set.

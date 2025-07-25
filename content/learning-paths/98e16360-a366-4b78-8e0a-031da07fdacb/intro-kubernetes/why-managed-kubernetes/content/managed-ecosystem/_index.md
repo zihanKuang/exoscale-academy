@@ -13,7 +13,7 @@ Container lifecycle management as well as monitoring, backup, CI/CD, security, l
 
 K8s comes with multiple options and plugins for each layer. Each team has its preferences for ecosystem decisions.
 
-![image](ecosystem.png)
+![ecosystem](ecosystem.png)
 
 ### Managed Container Orchestration Ecosystems
 
@@ -29,4 +29,4 @@ VSHN's APPUiO is the leading Kubernetes based Container Platform for the design,
 
 Elastisys' Compliant Kubernetes (CK8s) is a security-hardened, CNCF certified Kubernetes distribution that allows organizations to enjoy the benefits of Kubernetes while fulfilling regulatory requirements – all the way from development to deployment to operations and audits. Compliant Kubernetes comes pre-configured with CNCF approved open source projects that make life easier at audits and enforces compliance policies for your workloads, helping fulfil regulatory standards. You can rely on pre-configured templates and best practices and define your policies to achieve your regulatory goals. The managed service scope is fully managed.
 
-![image](ecosystem2.png)
+![ecosystem2](ecosystem2.png)
