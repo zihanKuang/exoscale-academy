@@ -5,7 +5,7 @@ description: "Store application data in Exoscale-managed databses"
 courseTitle: "Persisting data in DBaaS"
 weight: 7
 banner: "images/exoscale-icon.svg"
-tags: [kubernetes, deployment, databases]
+tags: [kubernetes, infrastructure, databases]
 level: [advanced]
 categories: [exoscale]
 ---

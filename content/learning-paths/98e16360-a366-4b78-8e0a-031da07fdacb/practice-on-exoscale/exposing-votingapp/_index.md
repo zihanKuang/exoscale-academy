@@ -5,7 +5,7 @@ description: "Use network load balancer to expose the application"
 courseTitle: "Exposing the VotingApp"
 weight: 3
 banner: "images/exoscale-icon.svg"
-tags: [kubernetes, deployment]
+tags: [kubernetes, infrastructure, kubernetes-resources]
 level: [advanced]
 categories: [exoscale]
 ---

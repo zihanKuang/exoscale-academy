@@ -3,7 +3,7 @@ title: "Helm"
 description: "Application management"
 weight: 3
 banner: "images/helm.png"
-tags: [kubernetes,kubernetes-resources]
+tags: [kubernetes, infrastructure]
 categories: [kubernetes]
 level: [introductory]
 ---
