@@ -3,9 +3,6 @@ id: "What is it?"
 description: ""
 title: "What is it?"
 weight: 1
-tags: [kubernetes, introduction]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 ### What is it?

@@ -4,6 +4,6 @@ description: "This ADVANCED - Course is where to get the technical Exoscale know
 weight: 5
 banner: "images/exoscale-icon.svg"
 id: "754023a4-7993-4b01-a7f0-c66c0517d1d1"
-tags: [orchestration]
+tags: [infrastructure]
 categories: [introductory]
 ---

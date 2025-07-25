@@ -3,7 +3,7 @@ id: "networking"
 description: "Understand Pod to Pod communication, Service discovery, Ingress resources."
 title: "Networking"
 weight: 5
-tags: [CKA,networking]
+tags: [CKA, kubernetes]
 level: [intermediate]
 categories: [exoscale,kubernetes]
 ---

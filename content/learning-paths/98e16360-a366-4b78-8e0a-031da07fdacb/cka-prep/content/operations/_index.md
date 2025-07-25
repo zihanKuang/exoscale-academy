@@ -3,7 +3,7 @@ id: "operations"
 description: "Perform cluster upgrade and backup/restore of etcd."
 title: "Operations"
 weight: 9
-tags: [CKA,operations]
+tags: [CKA, kubernetes]
 level: [intermediate]
 categories: [exoscale,kubernetes]
 ---

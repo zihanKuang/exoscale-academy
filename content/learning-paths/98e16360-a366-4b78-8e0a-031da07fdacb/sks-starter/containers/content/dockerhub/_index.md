@@ -3,9 +3,6 @@ id: "Docker Hub"
 description: ""
 title: "Docker Hub"
 weight: 8
-tags: [docker, containers]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 

@@ -3,9 +3,6 @@ id: "Software Needed"
 description: ""
 title: "Software Needed"
 weight: 2
-tags: [kubernetes, software]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 ### Software Needed

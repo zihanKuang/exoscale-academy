@@ -3,9 +3,6 @@ id: "Docker / Kubernetes"
 description: ""
 title: "Docker / Kubernetes"
 weight: 12
-tags: [docker, containers, kubernetes]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 

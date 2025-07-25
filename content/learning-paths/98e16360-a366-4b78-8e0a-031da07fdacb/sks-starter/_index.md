@@ -5,7 +5,7 @@ description: "This SKS STARTER - Learning Path covers the entry topics of (manag
 banner: "images/exoscale-icon.svg"
 courses: 3
 weight: 2
-tags: [kubernetes, containers, docker, orchestration, deployment]
+tags: [kubernetes, containers, orchestration, docker, sks]
 level: [intermediate]
 categories: [exoscale,kubernetes]
 ---

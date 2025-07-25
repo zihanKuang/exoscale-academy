@@ -3,9 +3,6 @@ id: "Imperative vs Declarative"
 description: ""
 title: "Imperative vs Declarative"
 weight: 3
-tags: [kubernetes]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 ### Imperative vs Declarative

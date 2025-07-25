@@ -3,9 +3,6 @@ id: "Features"
 description: ""
 title: "Features"
 weight: 4
-tags: [kubernetes]
-level: [intermediate]
-categories: [exoscale,kubernetes]
 ---
 
 ### Features

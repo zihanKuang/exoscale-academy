@@ -4,4 +4,7 @@ description: "New to container and container orchestration? This INTRO Kubernete
 banner: "images/exoscale-icon.svg"
 weight: 1
 id: "bdd58085-326e-401f-9304-61c038f98096"
+tags: [kubernetes, containers, orchestration, docker]
+level: [introductory]
+categories: [exoscale,kubernetes]
 ---

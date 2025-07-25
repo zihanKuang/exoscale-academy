@@ -3,7 +3,7 @@ id: "certifications"
 description: "Get an overview of the existing Kubernetes certifications and what you need to learn for the CKA."
 title: "Certifications"
 weight: 1
-tags: [CKA , certifications]
+tags: [CKA, kubernetes]
 level: [intermediate]
 categories: [exoscale,kubernetes]
 ---
