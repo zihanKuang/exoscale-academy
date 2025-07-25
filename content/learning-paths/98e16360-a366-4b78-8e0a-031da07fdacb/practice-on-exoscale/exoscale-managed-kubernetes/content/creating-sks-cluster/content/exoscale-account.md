@@ -38,14 +38,14 @@ The last step is to generate an API Key; you need this key pair to configure the
 
 First, go to the IAM menu and create a role. Exoscale offers a very granular and unique role configuration. In this example you will make a role with rights on the compute service. You can select the Compute service class and allow all the operations.
 
-![role](role)
+![role](role.png)
 
 Then, create a key associated with this role; you can give this key the name of your choice. Associate the role you created above.
 
-![apikey](apikey)
+![apikey](apikey.png)
 
 This process generates a key pair.
 
-![dummy-keypair](dummy-keypair)
+![dummy-keypair](dummy-keypair.png)
 
 Store these keys in the EXOSCALE_API_KEY and EXOSCALE_API_SECRET environment variables as you need them in the next step.

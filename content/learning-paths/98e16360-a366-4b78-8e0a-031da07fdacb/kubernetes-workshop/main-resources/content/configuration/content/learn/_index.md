@@ -231,7 +231,7 @@ spec:
 
 The previous exercise left the app with the following components:
 
-![votingapp-1]("votingapp-1.png)
+![votingapp-1](votingapp-1.png)
 
 We will now add a Secret to store the password required to connect to the PostgreSQL database.
 

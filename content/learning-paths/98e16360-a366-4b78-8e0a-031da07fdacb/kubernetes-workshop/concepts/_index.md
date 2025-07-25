@@ -59,7 +59,7 @@ To run a Pod we often rely on a higher level resource, instead of running it dir
 
 A request that reaches a Service is load-balanced between the exposed Pods
 
-![service]({{< usestatic "service.png" >}})
+![service](service.png)
 
 
 A Pod can use several resources
