@@ -4,7 +4,7 @@ title: "Persisting data in DBaaS"
 description: "Store application data in Exoscale-managed databses"
 courseTitle: "Persisting data in DBaaS"
 weight: 7
-banner: "98e16360-a366-4b78-8e0a-031da07fdacb/images/exoscale-icon.svg"
+banner: "images/exoscale-icon.svg"
 tags: [kubernetes, vault, postgres, redis, dbaas]
 level: [advanced]
 categories: [exoscale]
