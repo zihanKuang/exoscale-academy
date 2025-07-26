@@ -57,7 +57,7 @@ To run a Pod we often rely on a higher level resource, instead of running it dir
 
 <!-- ![workloads](workloads.png) -->
 {{< meshery-design-embed
-id="embedded-design-0e3abb9c-39e7-4d09-b46f-26a0238c3c3d"
+id="embedded-design-1a9cfdfb-daaf-4c19-be93-6d9bc0f7b94d"
 src="image-3.js"
 >}}
 
