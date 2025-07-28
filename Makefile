@@ -32,7 +32,7 @@ build:
 
 ## Build site for local consumption
 build-preview:
-	hugo --baseURL=https://layer5io.github.io/exoscale-academy
+	hugo --baseURL=$(BASEURL)
 
 ## Empty build cache and run on your local machine.
 clean: 
