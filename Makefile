@@ -30,6 +30,10 @@ site: check-go
 build:
 	hugo build
 
+## Build site for local consumption
+build-preview:
+	hugo --baseURL=https://layer5io.github.io/exoscale-academy
+
 ## Empty build cache and run on your local machine.
 clean: 
 	hugo --cleanDestinationDir
