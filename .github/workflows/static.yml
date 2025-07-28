@@ -45,6 +45,7 @@ jobs:
         with:
           # Upload just the public folder
           path: 'public'
+          token: ${{ secrets.GH_ACCESS_TOKEN }}
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
