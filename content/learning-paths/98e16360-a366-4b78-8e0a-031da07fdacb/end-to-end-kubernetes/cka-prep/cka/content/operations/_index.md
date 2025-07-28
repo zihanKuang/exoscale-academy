@@ -5,7 +5,7 @@ description: "Perform cluster upgrade and backup/restore of etcd."
 title: "Operations"
 weight: 9
 tags: [CKA, kubernetes]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---
 

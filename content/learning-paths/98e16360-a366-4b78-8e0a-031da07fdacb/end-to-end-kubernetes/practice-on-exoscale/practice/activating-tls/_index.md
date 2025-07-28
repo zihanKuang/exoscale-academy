@@ -5,7 +5,7 @@ description: "Automate certificate management with cert-manager"
 weight: 5
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, deployment, networking]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale]
 ---
 

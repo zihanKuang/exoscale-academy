@@ -6,6 +6,6 @@ description: "This SKS STARTER - Course covers the entry topics of (managed) Kub
 banner: "images/exoscale-icon.svg"
 weight: 2
 tags: [kubernetes, containers, orchestration, docker, sks]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---

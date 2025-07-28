@@ -5,7 +5,7 @@ description: "Secure sensitive information with HashiCorp Vault"
 weight: 6
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, infrastructure, configuration]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale]
 ---
 

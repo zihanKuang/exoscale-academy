@@ -5,7 +5,7 @@ description: "Troubleshoot clusters components, nodes, network and applications.
 title: "Troubleshooting"
 weight: 8
 tags: [CKA, kubernetes, troubleshooting]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---
 

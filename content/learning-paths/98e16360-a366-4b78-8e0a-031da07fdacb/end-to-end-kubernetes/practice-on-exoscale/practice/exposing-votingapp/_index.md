@@ -5,7 +5,7 @@ description: "Use network load balancer to expose the application"
 weight: 3
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, infrastructure, kubernetes-resources]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale]
 ---
 

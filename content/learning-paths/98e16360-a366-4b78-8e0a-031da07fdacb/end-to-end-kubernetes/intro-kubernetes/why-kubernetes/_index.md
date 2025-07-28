@@ -5,6 +5,6 @@ description: "Kubernetes is a powerful platform for managing containerized appli
 banner: "images/exoscale-icon.svg"
 weight: 2
 tags: [kubernetes, containers, orchestration]
-level: [introductory]
+level: "beginner"
 categories: [exoscale,kubernetes]
 ---

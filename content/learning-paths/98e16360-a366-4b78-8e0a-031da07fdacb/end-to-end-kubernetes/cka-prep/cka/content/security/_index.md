@@ -5,7 +5,7 @@ description: "Create Network Policies and RBAC rules."
 title: "Security"
 weight: 7
 tags: [CKA, kubernetes, configuration]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---
 

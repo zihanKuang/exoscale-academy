@@ -5,7 +5,7 @@ description: "Build a 3-node kubeadm cluster from scratch."
 title: "Create a cluster"
 weight: 2
 tags: [CKA, kubernetes]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale,kubernetes]
 ---
 

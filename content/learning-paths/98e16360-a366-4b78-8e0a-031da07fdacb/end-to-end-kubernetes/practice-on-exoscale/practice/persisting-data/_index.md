@@ -5,7 +5,7 @@ description: "Store application data in Exoscale-managed databses"
 weight: 7
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, infrastructure, databases]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale]
 ---
 

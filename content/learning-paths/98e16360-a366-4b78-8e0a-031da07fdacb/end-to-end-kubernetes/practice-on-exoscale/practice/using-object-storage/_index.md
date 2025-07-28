@@ -5,7 +5,7 @@ description: "Store application assets in Object Storage"
 weight: 8
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, infrastructure]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale]
 ---
 

@@ -6,6 +6,6 @@ description: "This course provides hands-on workshop where you’ll learn to dep
 weight: 5
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, docker, deployment, exoscale, databases, kubernetes-resources, infrastructure]
-level: [intermediate]
+level: "intermediate"
 categories: [exoscale]
 ---

@@ -5,6 +5,6 @@ description: "Discover the benefits of using Exoscale's managed Kubernetes servi
 banner: "images/exoscale-icon.svg"
 weight: 6
 tags: [kubernetes, sks, exoscale]
-level: [introductory]
+level: "beginner"
 categories: [exoscale,kubernetes]
 ---
