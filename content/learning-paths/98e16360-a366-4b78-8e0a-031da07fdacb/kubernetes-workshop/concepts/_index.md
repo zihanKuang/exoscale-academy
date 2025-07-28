@@ -63,7 +63,12 @@ src="image-3.js"
 
 A request that reaches a Service is load-balanced between the exposed Pods
 
-![service](service.png)
+<!-- ![service](service.png) -->
+{{< meshery-design-embed
+id="embedded-design-7dd69208-b63e-49b9-8225-8b1979966f28"
+src="image-4.js"
+>}}
+
 
 
 A Pod can use several resources
