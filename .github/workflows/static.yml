@@ -14,6 +14,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  pull-requests: write
   
 concurrency:
   group: "pages-${{ github.event.pull_request.number || github.run_id }}"
@@ -45,7 +46,6 @@ jobs:
         with:
           # Upload just the public folder
           path: 'public'
-          token: ${{ secrets.GH_ACCESS_TOKEN }}
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
@@ -53,6 +53,13 @@ jobs:
         if: github.event_name == 'pull_request'
         uses: marocchino/sticky-pull-request-comment@v2
         with:
-          github_token: ${{ secrets.GH_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           message: |
-            🚀 Preview: ${{ steps.deployment.outputs.page_url }}
+            🚀 **Preview deployment for PR #${{ github.event.pull_request.number }}**
+            
+            📖 Preview: ${{ steps.deployment.outputs.page_url }}
+            🌐 Alternative URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+            
+            > Environment: `pr-preview-${{ github.event.pull_request.number }}`
+            
+            This preview will be updated automatically when you push new commits to this PR.
