@@ -45,7 +45,6 @@ jobs:
         with:
           # Upload just the public folder
           path: 'public'
-          token: ${{ secrets.GH_ACCESS_TOKEN }}
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
@@ -53,5 +52,6 @@ jobs:
         if: github.event_name == 'pull_request'
         uses: marocchino/sticky-pull-request-comment@v2
         with:
+          token: ${{ secrets.GH_ACCESS_TOKEN }}
           message: |
             🚀 Preview: ${{ steps.deployment.outputs.page_url }}
