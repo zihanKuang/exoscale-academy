@@ -4,6 +4,6 @@ description: ""
 banner: "images/exoscale-icon.png"
 weight: 6
 tags: [compliance]
-level: [introductory]
+level: "introductory"
 categories: [exoscale,kubernetes]
 ---
