@@ -40,7 +40,7 @@ jobs:
       - name: Install dependencies
         run: make setup
       - name: Build Academy
-        run: make build-preview
+        run: make build-preview BASEURL=https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/pr-preview-${{ github.event.pull_request.number || github.run_id }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -57,9 +57,7 @@ jobs:
           message: |
             🚀 **Preview deployment for PR #${{ github.event.pull_request.number }}**
             
-            📖 Preview: ${{ steps.deployment.outputs.page_url }}
-            🌐 Alternative URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
-            
-            > Environment: `pr-preview-${{ github.event.pull_request.number }}`
+            🌐 PR URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/pr-preview-${{ github.event.pull_request.number || github.run_id }}
+            > 📖 General Preview: ${{ steps.deployment.outputs.page_url }}
             
             This preview will be updated automatically when you push new commits to this PR.
