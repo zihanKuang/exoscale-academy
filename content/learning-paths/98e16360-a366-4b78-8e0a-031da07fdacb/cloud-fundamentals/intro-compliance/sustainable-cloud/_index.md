@@ -1,7 +1,7 @@
 ---
 type: "module"
 title: "Exoscale's Sustainable Cloud"
-description: ""
+description: "Learn about Exoscale's sustainable cloud initiatives, including energy efficiency, carbon neutrality, and environmental impact reduction."
 banner: "images/exoscale-icon.png"
 weight: 4
 tags: [compliance]
