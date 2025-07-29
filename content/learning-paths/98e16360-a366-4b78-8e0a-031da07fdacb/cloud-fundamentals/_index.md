@@ -2,7 +2,7 @@
 type: "learning-paths"
 title: "Cloud Fundamentals"
 id: ""
-description: ""
+description: "Intro to Cloud Fundamentals course offers non-technical beginners a clear overview of cloud computing essentials, covering storage, sustainability, compliance, and DBaaS."
 banner: "images/exoscale-icon.png"
 weight: 1
 tags: [cloud]
