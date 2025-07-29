@@ -6,5 +6,5 @@ banner: "images/exoscale-icon.svg"
 weight: 1
 tags: [docker, containers]
 level: "beginner"
-categories: "basics"
+categories: "foundations"
 ---

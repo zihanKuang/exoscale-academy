@@ -6,6 +6,6 @@ description: "This learning path provides an introduction to Kubernetes, focusin
 weight: 3
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes]
-categories: "basics"
+categories: "foundations"
 level: "beginner"
 ---

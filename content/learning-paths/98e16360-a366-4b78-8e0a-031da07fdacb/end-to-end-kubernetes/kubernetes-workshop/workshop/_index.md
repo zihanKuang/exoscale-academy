@@ -5,6 +5,6 @@ description: "This workshop provides a hands-on introduction to Kubernetes, cove
 weight: 1
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes]
-categories: "basics"
+categories: "foundations"
 level: "beginner"
 ---

@@ -6,5 +6,5 @@ banner: "images/exoscale-icon.svg"
 weight: 3
 tags: [kubernetes, orchestration, sks, kubernetes-resources]
 level: "beginner"
-categories: "basics"
+categories: "foundations"
 ---
