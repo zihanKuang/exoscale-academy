@@ -1,4 +1,5 @@
 ---
+type: "module"
 id: "Networks"
 title: "Networks"
 description: "This course clear your Network concept"

@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Partner"
 description: ""
 title: "Partner"

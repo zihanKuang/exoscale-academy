@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Private Network"
 description: ""
 title: "Private Network"

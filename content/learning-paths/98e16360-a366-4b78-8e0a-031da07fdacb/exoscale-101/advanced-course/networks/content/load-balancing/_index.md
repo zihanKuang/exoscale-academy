@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Load Balancing"
 description: ""
 title: "Load Balancing"

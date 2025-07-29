@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Scaling"
 description: ""
 title: "Scaling"

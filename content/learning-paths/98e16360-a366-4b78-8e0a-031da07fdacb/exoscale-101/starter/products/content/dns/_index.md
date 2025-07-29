@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "DNS"
 description: ""
 title: "DNS"

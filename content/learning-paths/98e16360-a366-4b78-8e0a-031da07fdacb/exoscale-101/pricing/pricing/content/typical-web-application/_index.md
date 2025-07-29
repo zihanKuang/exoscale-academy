@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Typical Web Application"
 description: ""
 title: "Typical Web Application"

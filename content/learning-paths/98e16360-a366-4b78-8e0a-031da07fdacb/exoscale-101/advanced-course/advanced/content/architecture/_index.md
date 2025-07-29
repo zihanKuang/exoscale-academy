@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Architecture"
 description: ""
 title: "Architecture"

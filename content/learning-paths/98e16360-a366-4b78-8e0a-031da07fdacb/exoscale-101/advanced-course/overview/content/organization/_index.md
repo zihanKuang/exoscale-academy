@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Organization"
 description: ""
 title: "Organization"

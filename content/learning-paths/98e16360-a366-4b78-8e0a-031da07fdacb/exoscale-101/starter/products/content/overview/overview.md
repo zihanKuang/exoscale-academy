@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Overview"
 description: ""
 title: "Overview"

@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Calculate Product Pricing"
 description: ""
 title: "Calculate Product Pricing"

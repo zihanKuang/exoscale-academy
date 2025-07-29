@@ -1,7 +1,6 @@
 ---
-docType: "Chapter"
+type: "page"
 id: "Support"
-chapterTitle: "Support"
 description: ""
 title: "Support"
 weight: 9

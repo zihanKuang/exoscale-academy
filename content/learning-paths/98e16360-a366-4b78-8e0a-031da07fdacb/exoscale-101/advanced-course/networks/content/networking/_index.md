@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Networking"
 description: ""
 title: "Networking"

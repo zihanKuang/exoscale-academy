@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Unique Selling Points"
 description: ""
 title: "Unique Selling Points"

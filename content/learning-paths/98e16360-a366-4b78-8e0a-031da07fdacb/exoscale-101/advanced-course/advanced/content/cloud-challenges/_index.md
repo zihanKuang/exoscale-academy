@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Cloud Challenges"
 description: ""
 title: "Cloud Challenges"

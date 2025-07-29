@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Cloud Computing"
 description: ""
 title: "Cloud Computing"

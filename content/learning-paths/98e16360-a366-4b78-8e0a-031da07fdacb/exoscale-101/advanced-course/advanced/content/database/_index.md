@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Database"
 description: ""
 title: "Database"

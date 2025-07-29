@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Continuous Delivery"
 description: ""
 title: "Continuous Delivery"

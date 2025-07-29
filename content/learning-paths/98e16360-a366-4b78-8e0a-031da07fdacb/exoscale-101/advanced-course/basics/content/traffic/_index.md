@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Traffic"
 description: ""
 title: "Traffic"

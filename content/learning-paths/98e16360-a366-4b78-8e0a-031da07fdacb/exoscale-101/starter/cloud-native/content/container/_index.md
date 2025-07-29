@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Container"
 description: ""
 title: "Container"

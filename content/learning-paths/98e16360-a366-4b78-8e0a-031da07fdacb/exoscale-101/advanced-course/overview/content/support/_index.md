@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Support"
 description: ""
 title: "Support"

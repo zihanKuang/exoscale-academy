@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Exoscale"
 description: ""
 title: "Exoscale"

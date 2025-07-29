@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "DBaaS"
 description: ""
 title: "DBaaS"

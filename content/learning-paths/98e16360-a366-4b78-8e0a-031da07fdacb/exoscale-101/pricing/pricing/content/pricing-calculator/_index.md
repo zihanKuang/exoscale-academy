@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Pricing Calculator"
 description: ""
 title: "Pricing Calculator"

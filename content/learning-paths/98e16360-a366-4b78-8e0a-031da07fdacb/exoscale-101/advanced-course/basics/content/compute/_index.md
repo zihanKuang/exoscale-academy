@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Compute"
 description: ""
 title: "Compute"

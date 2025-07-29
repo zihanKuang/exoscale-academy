@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Storage"
 description: ""
 title: "Storage"

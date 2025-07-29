@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Cloud-Native"
 description: ""
 title: "Cloud-Native"

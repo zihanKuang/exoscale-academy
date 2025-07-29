@@ -1,4 +1,5 @@
 ---
+type: "page"
 docType: "Chapter"
 id: "Community"
 chapterTitle: "Community"

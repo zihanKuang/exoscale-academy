@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "DevOps"
 description: ""
 title: "DevOps"

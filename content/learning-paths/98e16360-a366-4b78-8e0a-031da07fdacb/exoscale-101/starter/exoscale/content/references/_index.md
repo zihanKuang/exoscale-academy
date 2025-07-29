@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "References"
 description: ""
 title: "References"

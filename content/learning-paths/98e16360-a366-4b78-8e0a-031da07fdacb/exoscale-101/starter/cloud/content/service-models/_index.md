@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Service Models"
 description: ""
 title: "Service Models"

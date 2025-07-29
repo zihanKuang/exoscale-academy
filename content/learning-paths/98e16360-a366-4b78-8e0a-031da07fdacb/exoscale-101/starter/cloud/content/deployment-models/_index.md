@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Deployment Models"
 description: ""
 title: "Deployment Models"

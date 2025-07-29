@@ -1,5 +1,5 @@
 ---
-docType: "Chapter"
+type: "page"
 id: "Scenarios"
 chapterTitle: "Scenarios"
 description: ""

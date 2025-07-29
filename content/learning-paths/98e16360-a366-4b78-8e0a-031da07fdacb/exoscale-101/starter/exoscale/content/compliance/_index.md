@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Compliance"
 description: ""
 title: "Compliance"

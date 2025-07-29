@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Switching/Routing"
 description: ""
 title: "Switching/Routing"

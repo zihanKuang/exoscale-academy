@@ -1,4 +1,5 @@
 ---
+type: "module"
 id: "Advanced"
 title: "Advanced"
 description: "This Course is where you learn some Advanced concept"
