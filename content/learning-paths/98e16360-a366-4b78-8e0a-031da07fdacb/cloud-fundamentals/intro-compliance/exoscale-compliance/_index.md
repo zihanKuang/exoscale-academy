@@ -5,6 +5,6 @@ description: ""
 banner: "images/exoscale-icon.png"
 weight: 3
 tags: [compliance]
-level: [introductory]
+level: "beginner"
 categories: [exoscale]
 ---

@@ -7,5 +7,5 @@ weight: 3
 id: "aaba810a-b666-4b18-a7d7-45fe0ffe11ec"
 tags: [compliance]
 categories: [exoscale,kubernetes]
-level: "introductory"
+level: "beginner"
 ---
