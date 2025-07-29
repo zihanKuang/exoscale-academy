@@ -1,8 +1,7 @@
 ---
 title: "Introduction to Kubernetes"
 id: "quiz-101-k8s"
-total_marks: 20
-passing_marks: 14
+passing_percentage: 70
 questions:
   - id: "q1"
     text: "What command is used to view the status of pods in a Kubernetes cluster?"
