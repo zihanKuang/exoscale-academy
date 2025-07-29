@@ -1,7 +1,7 @@
 ---
 type: "course"
 title: "Intro DBaaS"
-description: "This Intro DBaaS - Learning Paths covers the foundational topics of DBaaS for a non-technical audience and conveys the benefits of data services and databases as a service for modern IT scenarios. It will help you learn the basics of terminology associated, understand the essential components' functions, and why these new technologies are so important."
+description: "This Intro DBaaS(Database as a Service) - Course by Exoscale covers the foundational topics of DBaaS for a non-technical audience and conveys the benefits of data services and databases as a service for modern IT scenarios. It will help you learn the basics of terminology associated, understand the essential components' functions, and why these new technologies are so important."
 banner: "images/exoscale-icon.svg"
 weight: 3
 tags: [databases]

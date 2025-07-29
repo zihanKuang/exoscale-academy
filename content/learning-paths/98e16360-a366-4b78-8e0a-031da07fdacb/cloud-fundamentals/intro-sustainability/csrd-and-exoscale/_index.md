@@ -1,7 +1,7 @@
 ---
 type: "module"
 title: "CSRD & Exoscale"
-description: ""
+description: "Learn how Exoscale's cloud services align with the Corporate Sustainability Reporting Directive (CSRD) to enhance corporate sustainability efforts and ensure compliance."
 banner: "images/exoscale-icon.png"
 weight: 6
 tags: [sustainability, cloud, exoscale]

@@ -1,5 +1,6 @@
 ---
 type: "learning-path"
+id: "ee2e653d-ad49-42e6-bf39-2d41ddf0dcfb"
 title: "Exoscale 101"
 description: "Build your Exoscale expertise from the ground up. Start with core cloud concepts and terminology in the Starter path, dive into technical networking and configuration in the Advanced course, and learn to calculate costs with confidence in the Pricing module. Everything you need to understand, deploy, and optimize on Exoscale."
 banner: "images/exoscale-icon.svg"
