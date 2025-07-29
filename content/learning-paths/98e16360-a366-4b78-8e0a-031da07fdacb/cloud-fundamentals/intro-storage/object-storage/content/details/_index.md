@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Details - Object Storage"
 description: ""
 title: "Details - Object Storage"

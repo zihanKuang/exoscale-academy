@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "selection-of-databases"
 description: ""
 title: "Selection of Databases"

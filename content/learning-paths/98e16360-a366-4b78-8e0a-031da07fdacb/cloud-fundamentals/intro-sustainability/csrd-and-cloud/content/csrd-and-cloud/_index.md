@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "CSRD & Cloud"
 description: ""
 title: "CSRD & Cloud"

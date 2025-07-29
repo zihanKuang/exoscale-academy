@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Challenges"
 description: ""
 title: "Challenges"

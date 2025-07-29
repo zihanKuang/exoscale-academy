@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "CSRD & Exoscale"
 description: ""
 title: "CSRD & Exoscale"

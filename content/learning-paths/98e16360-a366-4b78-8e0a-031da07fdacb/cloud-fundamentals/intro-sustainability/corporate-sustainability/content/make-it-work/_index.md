@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Make it Work"
 description: ""
 title: "Make it Work"

@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "tools-for-data"
 description: ""
 title: "Tools for Data"

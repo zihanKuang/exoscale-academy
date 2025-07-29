@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Storage Duration"
 description: ""
 title: "Storage Duration"

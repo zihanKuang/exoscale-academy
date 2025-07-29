@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Use Cases - File Storage"
 description: ""
 title: "Use Cases - File Storage"

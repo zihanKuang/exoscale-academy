@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "managed-databases"
 description: ""
 title: "Managed Databases"

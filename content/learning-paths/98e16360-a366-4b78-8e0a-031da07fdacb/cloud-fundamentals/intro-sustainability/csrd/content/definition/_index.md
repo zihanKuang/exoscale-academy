@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Deinition"
 description: ""
 title: "Deinition"

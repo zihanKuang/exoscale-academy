@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Use Cases - Object Storage"
 description: ""
 title: "Use Cases - Object Storage"

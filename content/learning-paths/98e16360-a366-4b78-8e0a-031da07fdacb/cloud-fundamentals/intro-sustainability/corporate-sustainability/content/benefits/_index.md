@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Benefits"
 description: ""
 title: "Benefits"

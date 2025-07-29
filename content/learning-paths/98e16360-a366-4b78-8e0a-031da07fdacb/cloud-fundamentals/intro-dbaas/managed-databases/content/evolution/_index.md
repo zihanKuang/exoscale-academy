@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "evolution-of-data-services"
 description: ""
 title: "Evolution of Data Services"

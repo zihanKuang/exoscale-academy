@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Cloud Storage"
 description: ""
 title: "Cloud Storage"

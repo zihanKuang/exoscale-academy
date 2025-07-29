@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Storage Types"
 description: ""
 title: "Storage Types"

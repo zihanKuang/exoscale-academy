@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "CSRD & Providers"
 description: ""
 title: "CSRD & Providers"

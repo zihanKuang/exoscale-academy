@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "volume-of-data"
 description: ""
 title: "Volume of Data"

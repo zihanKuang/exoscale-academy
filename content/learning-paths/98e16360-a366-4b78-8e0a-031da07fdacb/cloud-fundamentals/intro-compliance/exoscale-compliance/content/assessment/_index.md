@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "risk-assessment"
 description: ""
 title: "Risk Assessment"

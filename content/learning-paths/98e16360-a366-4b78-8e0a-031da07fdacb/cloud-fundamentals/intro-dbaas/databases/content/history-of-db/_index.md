@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "history-of-databases"
 description: ""
 title: "History of Databases"

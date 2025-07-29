@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Benefits - File Storage"
 description: ""
 title: "Benefits - File Storage"

@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "standard-compliance"
 description: ""
 title: "Standard Compliance"

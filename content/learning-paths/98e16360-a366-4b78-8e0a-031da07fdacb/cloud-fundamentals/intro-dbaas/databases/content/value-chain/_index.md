@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "value-chain-of-data"
 description: ""
 title: "Value Chain of Data"

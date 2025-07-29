@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Use Cases - Block Storage"
 description: ""
 title: "Use Cases - Block Storage"

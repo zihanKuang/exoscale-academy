@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "data-center"
 description: ""
 title: "Data Center"

@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Object vs Block"
 description: ""
 title: "Object vs Block"

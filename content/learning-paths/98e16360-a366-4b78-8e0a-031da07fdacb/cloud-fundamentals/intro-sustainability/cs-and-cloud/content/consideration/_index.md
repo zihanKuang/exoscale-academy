@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Considerations"
 description: ""
 title: "Considerations"

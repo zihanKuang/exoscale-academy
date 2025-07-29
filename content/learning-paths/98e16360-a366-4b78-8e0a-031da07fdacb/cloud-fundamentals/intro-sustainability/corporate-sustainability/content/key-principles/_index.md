@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Key Principles"
 description: ""
 title: "Key Principles"

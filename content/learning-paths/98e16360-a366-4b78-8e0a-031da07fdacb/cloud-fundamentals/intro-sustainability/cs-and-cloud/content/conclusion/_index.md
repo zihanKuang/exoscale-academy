@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Conclusion"
 description: ""
 title: "Conclusion"

@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "exoscale-dBaaS-features"
 description: ""
 title: "Exoscale DBaaS Features"

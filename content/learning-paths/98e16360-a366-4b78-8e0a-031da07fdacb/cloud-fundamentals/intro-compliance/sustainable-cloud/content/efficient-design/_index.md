@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "energy-efficient-design"
 description: ""
 title: "Energy-Efficient Design"

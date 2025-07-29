@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Corporate Sustainability (CS)"
 description: ""
 title: "Corporate Sustainability (CS)"

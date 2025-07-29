@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Benefits - Object Storage"
 description: ""
 title: "Benefits - Object Storage"

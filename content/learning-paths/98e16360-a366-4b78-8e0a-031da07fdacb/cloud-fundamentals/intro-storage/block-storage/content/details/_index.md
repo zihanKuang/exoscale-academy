@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Details - Block Storage"
 description: ""
 title: "Details - Block Storage"

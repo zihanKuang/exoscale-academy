@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "CSRD"
 description: ""
 title: "CSRD"

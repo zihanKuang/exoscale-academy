@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "renewable-energy"
 description: ""
 title: "Renewable Energy"

@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "compliance-security"
 description: ""
 title: "Compliance Security"

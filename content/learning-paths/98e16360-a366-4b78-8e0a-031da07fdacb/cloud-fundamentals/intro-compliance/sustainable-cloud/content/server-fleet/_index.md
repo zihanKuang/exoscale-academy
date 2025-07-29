@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "extende-derver-fleet-life"
 description: ""
 title: "Extended Server Fleet Life"

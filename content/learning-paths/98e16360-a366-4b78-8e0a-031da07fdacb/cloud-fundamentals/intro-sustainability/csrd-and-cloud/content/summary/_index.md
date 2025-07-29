@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Summary"
 description: ""
 title: "Summary"

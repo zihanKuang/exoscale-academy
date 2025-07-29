@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "response-support"
 description: ""
 title: "Response & Support"

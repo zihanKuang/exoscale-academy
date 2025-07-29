@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "exoscale-goals"
 description: ""
 title: "Exoscale's Goals"

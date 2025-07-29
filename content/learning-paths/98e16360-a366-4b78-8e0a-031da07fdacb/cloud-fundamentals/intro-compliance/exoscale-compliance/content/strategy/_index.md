@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Exoscale's Strategy"
 description: ""
 title: "Exoscale's Strategy"

@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "sustainable-cloud"
 description: ""
 title: "Sustainable Cloud"

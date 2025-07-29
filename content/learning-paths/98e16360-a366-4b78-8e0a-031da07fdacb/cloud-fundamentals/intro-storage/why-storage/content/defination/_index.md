@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Definition"
 description: ""
 title: "Calculate Scenario Pricing"

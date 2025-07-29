@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "WhyCompliance"
 description: ""
 title: "Why Compliance?"

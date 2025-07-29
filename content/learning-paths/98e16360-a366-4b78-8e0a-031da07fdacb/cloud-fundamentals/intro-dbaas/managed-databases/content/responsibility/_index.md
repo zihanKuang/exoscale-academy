@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "responsibility-and-expertise"
 description: ""
 title: "Responsibility and Expertise"

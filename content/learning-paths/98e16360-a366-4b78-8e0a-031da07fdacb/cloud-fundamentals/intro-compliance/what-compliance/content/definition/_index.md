@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "What is Compliance?"
 description: ""
 title: "What is Compliance?"

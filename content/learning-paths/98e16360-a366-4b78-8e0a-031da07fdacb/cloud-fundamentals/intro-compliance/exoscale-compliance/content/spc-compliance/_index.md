@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "specific-compliance"
 description: ""
 title: "Specific Compliance"

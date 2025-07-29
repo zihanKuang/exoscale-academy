@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Benefits - Block Storage"
 description: ""
 title: "Benefits - Block Storage"

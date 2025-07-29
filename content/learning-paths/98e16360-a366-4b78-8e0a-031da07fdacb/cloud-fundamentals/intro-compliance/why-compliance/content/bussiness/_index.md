@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "businessCompliance"
 description: ""
 title: "Business Aspects of Compliance"

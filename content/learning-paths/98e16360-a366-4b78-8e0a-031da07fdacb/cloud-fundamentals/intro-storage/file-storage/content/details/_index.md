@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "Details - File Storage"
 description: ""
 title: "Details - File Storage"

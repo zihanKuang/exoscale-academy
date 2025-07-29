@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "high-density-rack-design"
 description: ""
 title: "High-Density Rack Design"

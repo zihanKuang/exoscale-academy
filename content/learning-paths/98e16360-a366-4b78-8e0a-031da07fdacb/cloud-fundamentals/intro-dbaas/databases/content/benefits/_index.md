@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "benefits-of-databases"
 description: ""
 title: "Benefits of Databases"

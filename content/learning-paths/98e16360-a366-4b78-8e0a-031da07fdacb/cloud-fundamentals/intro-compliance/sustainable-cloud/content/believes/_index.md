@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "exoscale-believes"
 description: ""
 title: "Exoscale's Believes"

@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "direct-shipping"
 description: ""
 title: "Direct Shipping"

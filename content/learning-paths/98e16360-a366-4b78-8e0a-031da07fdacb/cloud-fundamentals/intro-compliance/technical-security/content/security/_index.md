@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "technical-security"
 description: ""
 title: "Technical Security"

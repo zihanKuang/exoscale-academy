@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "What is Cloud Compliance?"
 description: ""
 title: "What is Cloud Compliance?"

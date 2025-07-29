@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "powered-by-aiven"
 description: ""
 title: "Powered by Aiven"

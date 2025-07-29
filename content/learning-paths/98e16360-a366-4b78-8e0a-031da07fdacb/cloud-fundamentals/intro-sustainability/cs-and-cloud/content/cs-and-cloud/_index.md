@@ -1,4 +1,5 @@
 ---
+type: "page"
 id: "CS & Cloud"
 description: ""
 title: "CS & Cloud"
