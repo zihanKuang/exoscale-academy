@@ -7,5 +7,5 @@ weight: 6
 id: "65bcb930-a38b-451e-aea0-8e2faaa0c0bd"
 tags: [CKA]
 level: "intermediate"
-categories: [exoscale,kubernetes]
+categories: "operations"
 ---

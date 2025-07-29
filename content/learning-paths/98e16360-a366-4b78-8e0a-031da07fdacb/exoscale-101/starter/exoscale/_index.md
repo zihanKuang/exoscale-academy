@@ -6,5 +6,5 @@ banner: "images/exoscale-icon.png"
 weight: 2
 tags: [exoscale, compliance, cloud]
 level: "beginner"
-categories: [exoscale,kubernetes]
+categories: "platform"
 ---

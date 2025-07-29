@@ -4,9 +4,6 @@ id: "workload"
 description: "Create and manage Pods, Deployments, and other workload resources."
 title: "Workloads"
 weight: 3
-tags: [CKA, kubernetes, kubernetes-resources, infrastructure]
-level: "intermediate"
-categories: [exoscale,kubernetes]
 ---
 
 Create and manage Pods, Deployments, and other workload resources.

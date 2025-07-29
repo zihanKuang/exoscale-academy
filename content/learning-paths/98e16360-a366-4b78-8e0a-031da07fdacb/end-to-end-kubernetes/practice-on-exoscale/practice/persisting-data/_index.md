@@ -3,10 +3,7 @@ type: "page"
 title: "Persisting data in DBaaS"
 description: "Store application data in Exoscale-managed databses"
 weight: 7
-banner: "images/exoscale-icon.svg"
-tags: [kubernetes, infrastructure, databases]
-level: "intermediate"
-categories: [exoscale]
+id: "persisting-data"
 ---
 
 By default, the VotingApp deploys its own Redis and Postgres databases. In this section, you’ll use Exoscale managed databases (DBaaS) instead.

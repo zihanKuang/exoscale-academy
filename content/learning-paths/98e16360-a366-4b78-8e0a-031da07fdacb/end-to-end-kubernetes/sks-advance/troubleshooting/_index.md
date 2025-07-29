@@ -5,6 +5,6 @@ description: "Learn how to troubleshoot common issues in Kubernetes, including n
 banner: "images/exoscale-icon.svg"
 weight: 4
 tags: [sks, kubernetes, troubleshooting]
-categories: [exoscale,kubernetes]
+categories: "operations"
 level: "advanced"
 ---

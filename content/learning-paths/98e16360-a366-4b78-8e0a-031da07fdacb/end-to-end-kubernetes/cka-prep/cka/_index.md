@@ -6,5 +6,5 @@ banner: "images/exoscale-icon.png"
 weight: 1
 level: "intermediate"
 tags: [CKA]
-categories: [exoscale,kubernetes]
+categories: "operations"
 ---

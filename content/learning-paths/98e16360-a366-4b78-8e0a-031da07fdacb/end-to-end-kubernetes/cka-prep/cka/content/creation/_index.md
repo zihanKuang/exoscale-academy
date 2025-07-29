@@ -4,9 +4,6 @@ id: "creation"
 description: "Build a 3-node kubeadm cluster from scratch."
 title: "Create a cluster"
 weight: 2
-tags: [CKA, kubernetes]
-level: "intermediate"
-categories: [exoscale,kubernetes]
 ---
 
 This section guides you in creating of a 3-nodes Kubernetes cluster using [kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/) bootstrapping tool. This is an important step as you will use this cluster throughout this workshop.

@@ -3,10 +3,7 @@ type: "page"
 title: "Concepts"
 description: "Kubernetes Basic Concepts"
 weight: 1
-banner: "images/exoscale-icon.svg"
-tags: [kubernetes]
-categories: [kubernetes]
-level: "beginner"
+id: "concepts"
 ---
 
 ## History

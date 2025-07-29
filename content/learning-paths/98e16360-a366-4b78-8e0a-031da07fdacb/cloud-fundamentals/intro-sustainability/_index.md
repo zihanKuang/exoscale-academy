@@ -7,5 +7,5 @@ banner: "images/exoscale-icon.png"
 weight: 2
 tags: [sustainability]
 level: "beginner"
-categories: [exoscale,kubernetes]
+categories: "compliance"
 ---
