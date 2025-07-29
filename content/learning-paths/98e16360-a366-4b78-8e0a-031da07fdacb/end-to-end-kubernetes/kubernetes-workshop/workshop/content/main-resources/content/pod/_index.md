@@ -4,6 +4,6 @@ description: "Building blocks for running containers"
 weight: 6
 banner: "images/pod.png"
 tags: [kubernetes,kubernetes-resources]
-categories: [kubernetes]
+categories: "kubernetes"
 level: "beginner"
 ---

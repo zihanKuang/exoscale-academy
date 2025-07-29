@@ -3,10 +3,7 @@ type: "page"
 title: "Exposing the VotingApp"
 description: "Use network load balancer to expose the application"
 weight: 3
-banner: "images/exoscale-icon.svg"
-tags: [kubernetes, infrastructure, kubernetes-resources]
-level: "intermediate"
-categories: [exoscale]
+id: "exposing-votingapp"
 ---
 
 In this section, you’ll expose the VotingApp to the internet using a Network Load Balancer.

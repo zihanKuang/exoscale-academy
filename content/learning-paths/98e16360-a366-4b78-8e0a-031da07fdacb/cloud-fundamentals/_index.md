@@ -6,5 +6,5 @@ description: "Intro to Cloud Fundamentals offers non-technical beginners a clear
 banner: "images/exoscale-icon.png"
 weight: 1
 tags: [cloud]
-categories: [exoscale]
+categories: "cloud"
 ---

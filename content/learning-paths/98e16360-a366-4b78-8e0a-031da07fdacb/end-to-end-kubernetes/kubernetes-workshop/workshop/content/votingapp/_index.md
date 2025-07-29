@@ -3,10 +3,7 @@ type: "page"
 title: "Voting App"
 description: "Introduction to a toy application"
 weight: 5
-banner: "images/exoscale-icon.svg"
-tags: [kubernetes]
-categories: [kubernetes]
-level: "beginner"
+id: "voting-app"
 ---
 The VotingApp is mainly used for demos and follows a microservices architecture. While it may not adhere to all architectural best practices, it is a good example of an application that utilizes various languages and databases. It helps in learning concepts related to Docker and Kubernetes. The VotingApp consists of 7 microservices, as illustrated in the following diagram:
 

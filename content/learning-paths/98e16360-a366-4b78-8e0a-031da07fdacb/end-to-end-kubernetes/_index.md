@@ -5,5 +5,5 @@ description: "New to container and container orchestration? This End-to-End Kube
 banner: "images/exoscale-icon.svg"
 weight: 1
 tags: [kubernetes]
-categories: [exoscale,kubernetes]
+categories: "kubernetes"
 ---

@@ -6,5 +6,5 @@ banner: "images/exoscale-icon.png"
 weight: 3
 tags: [exoscale, databases, storage, networking]
 level: "beginner"
-categories: [exoscale,kubernetes]
+categories: "platform"
 ---

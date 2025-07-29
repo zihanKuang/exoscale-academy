@@ -4,9 +4,6 @@ id: "scheduling"
 description: "Learn Pod placement strategies using labels, taints, affinities and more."
 title: "Scheduling Pods"
 weight: 4
-tags: [CKA, kubernetes, job]
-level: "intermediate"
-categories: [exoscale,kubernetes]
 ---
 
 This section is a refresher that provides an overview of the main properties involved in the scheduling phase. At the end of this section, please complete the exercises to apply these concepts.

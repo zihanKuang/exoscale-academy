@@ -6,5 +6,5 @@ banner: "images/exoscale-icon.svg"
 weight: 3
 tags: [kubernetes]
 level: "beginner"
-categories: [exoscale,kubernetes]
+categories: "foundations"
 ---

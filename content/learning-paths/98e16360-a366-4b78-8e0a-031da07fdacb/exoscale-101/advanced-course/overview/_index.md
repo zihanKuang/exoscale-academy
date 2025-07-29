@@ -6,5 +6,5 @@ description: "This Course is where your Exoscale cloud architect journey begins 
 weight: 1
 banner: "images/kubernetes-icon.svg"
 tags: [infrastructure, databases, networking]
-categories: [introductory]
+categories: "platform"
 ---

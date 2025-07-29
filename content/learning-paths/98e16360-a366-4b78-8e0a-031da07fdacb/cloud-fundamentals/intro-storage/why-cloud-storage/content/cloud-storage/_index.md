@@ -4,7 +4,6 @@ id: "Cloud Storage"
 description: ""
 title: "Cloud Storage"
 weight: 3
-categories: [exoscale,kubernetes]
 ---
 ### Definition
 

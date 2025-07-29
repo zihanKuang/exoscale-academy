@@ -5,6 +5,6 @@ description: "This section provides an introduction to Exoscale pricing, includi
 banner: "images/exoscale-icon.png"
 weight: 1
 tags: [pricing]
-level: "introductory"
-categories: [exoscale]
+level: "beginner"
+categories: "platform"
 ---

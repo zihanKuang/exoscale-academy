@@ -7,5 +7,5 @@ weight: 3
 tags: [databases]
 level: "beginner"
 id: "264ccc9b-4c19-4a70-b36a-e28ded515bf3"
-categories: [exoscale,kubernetes]
+categories: "infrastructure"
 ---

@@ -7,5 +7,5 @@ banner: "images/exoscale-icon.svg"
 weight: 2
 tags: [kubernetes, containers, orchestration, docker, sks]
 level: "intermediate"
-categories: [exoscale,kubernetes]
+categories: "foundations"
 ---

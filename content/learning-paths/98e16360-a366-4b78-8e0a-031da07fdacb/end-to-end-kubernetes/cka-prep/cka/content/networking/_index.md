@@ -4,9 +4,6 @@ id: "networking"
 description: "Understand Pod to Pod communication, Service discovery, Ingress resources."
 title: "Networking"
 weight: 5
-tags: [CKA, kubernetes, networking]
-level: "intermediate"
-categories: [exoscale,kubernetes]
 ---
 
 This section is a refresher that provides an overview of the main Kubernetes resources related to networking. At the end of this section, please complete the exercises to put these concepts into practice.

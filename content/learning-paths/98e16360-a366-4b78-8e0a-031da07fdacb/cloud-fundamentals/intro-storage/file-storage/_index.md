@@ -6,5 +6,5 @@ banner: "images/exoscale-icon.svg"
 weight: 4
 tags: [storage]
 level: "intermediate"
-categories: [exoscale,kubernetes]
+categories: "infrastructure"
 ---

@@ -3,10 +3,7 @@ type: "page"
 title: "Configuring DNS"
 description: "Expose application on its own domain"
 weight: 4
-banner: "images/exoscale-icon.svg"
-tags: [kubernetes, deployment, networking]
-level: "intermediate"
-categories: [exoscale]
+id: "configuring-dns"
 ---
 
 In this section, you’ll expose the VotingApp on a real domain name. We’ll consider several possibilities:

@@ -6,6 +6,6 @@ description: "This  SKS ADVANCED - Learning Paths covers the deeper technical to
 banner: "images/exoscale-icon.svg"
 weight: 4
 tags: [sks, kubernetes]
-categories: [exoscale,kubernetes]
+categories: "operations"
 level: "advanced"
 ---

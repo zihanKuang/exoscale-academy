@@ -4,6 +4,6 @@ description: "Application management"
 weight: 3
 banner: "images/helm.png"
 tags: [kubernetes, infrastructure]
-categories: [kubernetes]
+categories: "kubernetes"
 level: "beginner"
 ---

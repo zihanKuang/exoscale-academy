@@ -3,10 +3,7 @@ type: "page"
 title: "Managing Secrets with Vault"
 description: "Secure sensitive information with HashiCorp Vault"
 weight: 6
-banner: "images/exoscale-icon.svg"
-tags: [kubernetes, infrastructure, configuration]
-level: "intermediate"
-categories: [exoscale]
+id: "managing-secrets"
 ---
 
 Since an application often needs access to sensitive data (e.g. SSH keys, login/password, …) to access other systems or APIs, we must ensure this information is stored securely. In this section, you’ll use a managed instance of HashiCorp Vault, available within Exoscale’s Marketplace.

@@ -6,5 +6,5 @@ weight: 1
 banner: "images/exoscale-icon.svg"
 tags: [kubernetes, docker, deployment, exoscale, databases, kubernetes-resources, infrastructure]
 level: "intermediate"
-categories: [exoscale]
+categories: "operations"
 ---
