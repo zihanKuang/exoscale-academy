@@ -50,4 +50,6 @@ questions:
           is_correct: true
         - id: "c"
           text: "Host and run a container inside the container registry provider (e.g., Docker Hub)"
+layout: "quiz"
+type: "quiz"
 ---

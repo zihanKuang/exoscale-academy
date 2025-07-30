@@ -65,4 +65,6 @@ questions:
         - id: "e"
           text: "Events of the Pod"   
           is_correct: true
+layout: "quiz"
+type: "quiz"
 ---
