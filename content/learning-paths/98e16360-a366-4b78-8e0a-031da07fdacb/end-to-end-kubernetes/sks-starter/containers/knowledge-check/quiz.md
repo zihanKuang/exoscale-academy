@@ -26,7 +26,7 @@ questions:
           text: "Drivers"
     
     - id: "q2"
-      text: "You can create multiple Containers from an image?"
+      text: "You can create multiple Containers from an image? (true/false)"
       type: "mcq"
       marks: 2
       options:
