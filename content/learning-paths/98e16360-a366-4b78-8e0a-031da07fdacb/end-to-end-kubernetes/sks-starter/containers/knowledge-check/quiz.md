@@ -31,10 +31,10 @@ questions:
       marks: 2
       options:
         - id: "a"
-            text: "true"
-            is_correct: true
+          text: "true"
+          is_correct: true
         - id: "b"
-            text: "false"
+          text: "false"
 
 
     - id: "q3"
