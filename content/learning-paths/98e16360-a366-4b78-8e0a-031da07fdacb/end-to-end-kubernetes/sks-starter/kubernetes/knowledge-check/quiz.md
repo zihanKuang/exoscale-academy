@@ -1,5 +1,5 @@
 ---
-title: "Kubernetes"
+title: "Knowledge Check"
 id: "quiz-kubernetes"
 passing_percentage: 75
 questions:
