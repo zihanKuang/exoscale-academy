@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Check"
-id: "object vs block"
+id: "object-vs-block"
 passing_percentage: 75
 questions:
     - id: "q1"
