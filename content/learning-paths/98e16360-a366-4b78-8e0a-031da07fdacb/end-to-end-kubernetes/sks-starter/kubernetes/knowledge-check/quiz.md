@@ -6,7 +6,6 @@ questions:
     - id: "q1"
       text: "A Deployment consists of:"
       type: "mcq"
-      multiple_answers: true
       marks: 2
       options:
         - id: "a"
