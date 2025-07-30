@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Kubernetes"
+title: "Introduction to Kubernetes (Quiz)"
 id: "quiz-101-k8s"
 passing_percentage: 70
 questions:
@@ -19,9 +19,16 @@ questions:
         text: "kubectl describe cluster"
 
   - id: "q2"
-    text: "Kubernetes is a container orchestration platform. (true/false)"
-    type: "short_answer"
+    text: "Kubernetes is a container orchestration platform."
+    type: "mcq"
     marks: 2
+    options:
+      - id: "a"
+        text: "true"
+        is_correct: true
+      - id: "b"
+        text: "false"
+
     correct_answer: "true"
 
   - id: "q3"
