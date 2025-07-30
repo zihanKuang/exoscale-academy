@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Check"
-id: "why cloud storage"
+id: "why-cloud-storage"
 passing_percentage: 75
 questions:
     - id: "q1"
