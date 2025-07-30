@@ -1,5 +1,5 @@
 ---
-title: "Concepts"
+title: "Knowledge Check"
 id: "quiz-concepts"
 passing_percentage: 75
 questions:

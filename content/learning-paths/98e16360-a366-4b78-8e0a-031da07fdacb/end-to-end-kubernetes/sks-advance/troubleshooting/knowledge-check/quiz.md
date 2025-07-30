@@ -1,5 +1,5 @@
 ---
-title: "Know"
+title: "Knowledge Check"
 id: "quiz-storage"
 passing_percentage: 75
 questions:
