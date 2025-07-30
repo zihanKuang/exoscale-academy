@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Check"
-id: "block storage"
+id: "block-storage"
 passing_percentage: 75
 questions:
     - id: "q1"
