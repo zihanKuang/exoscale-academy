@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Check"
-id: "object storage"
+id: "object-storage"
 passing_percentage: 75
 questions:
     - id: "q1"
