@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Check"
-id: "file storage"
+id: "file-storage"
 passing_percentage: 75
 questions:
     - id: "q1"
