@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Check"
-id: "why storage"
+id: "why-storage"
 passing_percentage: 75
 questions:
     - id: "q1"
