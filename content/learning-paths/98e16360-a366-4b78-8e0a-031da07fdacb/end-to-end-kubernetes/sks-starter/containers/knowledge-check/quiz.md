@@ -35,7 +35,6 @@ questions:
             is_correct: true
         - id: "b"
             text: "false"
-      correct_answer: "true"
 
 
     - id: "q3"
