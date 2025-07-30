@@ -1,5 +1,5 @@
 ---
-title: "Containers"
+title: "Knowledge Check"
 id: "quiz-containers"
 passing_percentage: 75
 questions:
