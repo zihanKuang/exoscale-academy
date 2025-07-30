@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Check"
-id: "what types of storage"
+id: "what-types-of-storage"
 passing_percentage: 75
 questions:
     - id: "q1"
