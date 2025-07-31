@@ -1,6 +1,6 @@
 ---
-title: "Knowledge Check - CSRD & Exoscale"
-id: "csrd-exoscale"
+title: "Knowledge Check"
+id: "csrd-and-exoscale"
 passing_percentage: 75
 questions:
   - id: "q1"
