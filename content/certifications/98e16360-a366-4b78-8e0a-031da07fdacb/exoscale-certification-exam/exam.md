@@ -1,5 +1,4 @@
 ---
-title: "Final Exam"
 weight: 5
 passing_percentage: 70
 questions:
