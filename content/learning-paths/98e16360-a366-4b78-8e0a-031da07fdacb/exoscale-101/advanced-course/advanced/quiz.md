@@ -1,12 +1,10 @@
 ---
 title: "Advanced - Knowledge Check (Quiz)"
-id: "quiz-advanced"
 passing_percentage: 70
 questions:
   - id: "q1"
     text: "What is Infrastructure as Code (IaC)?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"
@@ -20,7 +18,6 @@ questions:
   - id: "q2"
     text: "What is the benefit of microservices?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"
@@ -34,7 +31,6 @@ questions:
   - id: "q3"
     text: "What is cloud-init?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"

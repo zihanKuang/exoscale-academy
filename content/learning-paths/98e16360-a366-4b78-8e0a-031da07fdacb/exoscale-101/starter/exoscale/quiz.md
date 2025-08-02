@@ -1,12 +1,10 @@
 ---
 title: "Knowledge Check (Quiz)"
-id: "quiz-challenge-yourself"
 passing_percentage: 70
 questions:
   - id: "q1"
     text: "Which of the following is true?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"

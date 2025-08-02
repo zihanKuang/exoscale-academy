@@ -1,12 +1,10 @@
 ---
 title: "Knowledge Check"
-id: "quiz-contractual-setup"
 passing_percentage: 70
 questions:
   - id: "q1"
     text: "Terms and Conditions and any Order shall be governed by the laws of: "
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"

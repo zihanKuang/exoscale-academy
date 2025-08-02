@@ -1,6 +1,5 @@
 ---
 title: "Basics - Knowledge Check (Quiz)"
-id: "quiz-basics"
 passing_percentage: 70
 questions:
   - id: "q1"
@@ -26,7 +25,6 @@ questions:
   - id: "q2"
     text: "What is an Anti-Affinity Group in cloud computing?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"
@@ -42,7 +40,6 @@ questions:
   - id: "q3"
     text: "What is object storage?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"

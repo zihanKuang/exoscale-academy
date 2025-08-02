@@ -1,6 +1,5 @@
 ---
 title: "Knowledge Check"
-id: "quiz-exoscale-compliance"
 passing_percentage: 70
 questions:
   - id: "q1"
@@ -92,7 +91,6 @@ questions:
   - id: "q5"
     text: "The Security Referential Is:"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"
