@@ -4,7 +4,7 @@ passing_percentage: 70
 questions:
     - id: "q1"
       text: "The command > kubectl logs my-pod outputs ..."
-      type: "mcq"
+      type: "single-answer"
       marks: 2
       options:
         - id: "a"
@@ -17,8 +17,7 @@ questions:
 
     - id: "q2"
       text: "The Pod frontend in the namespace webapp doesn’t work as expected. Which commands can you use to get more information about that?"
-      type: "mcq"
-      multiple_answers: true
+      type: "multiple-answers"
       marks: 2
       options:
         - id: "a"

@@ -4,8 +4,7 @@ passing_percentage: 70
 questions:
   - id: "q1"
     text: "What is Compliance?"
-    type: "mcq"
-    multiple_answers: true
+    type: "multiple-answers"
     marks: 2
     options:
       - id: "a"
@@ -22,8 +21,7 @@ questions:
 
   - id: "q2"
     text: "What is cloud compliance?"
-    type: "mcq"
-    multiple_answers: true
+    type: "multiple-answers"
     marks: 2
     options:
       - id: "a"

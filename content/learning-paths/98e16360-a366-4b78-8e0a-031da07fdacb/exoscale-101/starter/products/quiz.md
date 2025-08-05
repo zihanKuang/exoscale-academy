@@ -4,8 +4,7 @@ passing_percentage: 70
 questions:
   - id: "q1"
     text: "Identify the Exoscale products in the list below."
-    type: "mcq"
-    multiple_answers: true
+    type: "multiple-answers"
     marks: 2
     options:
       - id: "a"
@@ -34,7 +33,7 @@ questions:
 
   - id: "q2"
     text: "What does SOS stand for in Exoscale's context?"
-    type: "mcq"
+    type: "single-answer"
     marks: 2
     options:
       - id: "a"
