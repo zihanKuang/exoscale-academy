@@ -4,8 +4,7 @@ passing_percentage: 70
 questions:
   - id: "q1"
     text: "Which items of the following list are part of our 'Technical Security' approach?"
-    type: "mcq"
-    multiple_answers: true
+    type: "multiple-answers"
     marks: 2
     options:
       - id: "a"
