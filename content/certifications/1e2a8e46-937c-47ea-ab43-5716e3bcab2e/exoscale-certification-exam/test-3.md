@@ -1,4 +1,5 @@
 ---
+title: "Exam 3"
 weight: 3
 passing_percentage: 70
 questions:
