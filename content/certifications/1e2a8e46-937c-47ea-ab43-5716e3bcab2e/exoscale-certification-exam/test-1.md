@@ -1,4 +1,5 @@
 ---
+title: "Exam 1"
 weight: 1
 passing_percentage: 70
 questions:

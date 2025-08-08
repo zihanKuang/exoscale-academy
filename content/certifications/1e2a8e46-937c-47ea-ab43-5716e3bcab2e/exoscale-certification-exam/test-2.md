@@ -1,4 +1,5 @@
 ---
+title: "Exam 2"
 weight: 2
 passing_percentage: 70
 questions:
@@ -43,3 +44,5 @@ questions:
 layout: "test"
 type: "test"
 ---
+
+
