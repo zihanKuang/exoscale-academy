@@ -8,4 +8,10 @@ weight: 1
 tags: [exoscale, cloud, infrastructure]
 level: "beginner"
 categories: "platform"
+
+badge:
+   svg: "exoscale-icon.svg"
+   png: "exoscale-icon.svg"
+   title: "Exoscale Certified"
+   description: "Demonstrate your expertise in Exoscale's cloud platform with the Exoscale Certification. This certification validates your understanding of core concepts, technical networking, and cost management on Exoscale."
 ---
