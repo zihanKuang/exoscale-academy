@@ -16,7 +16,7 @@ badge:
    description: "Demonstrate your expertise in Exoscale's cloud platform with the Exoscale Certification. This certification validates your understanding of core concepts, technical networking, and cost management on Exoscale."
 
 certificate:
-    title: "Solutions Architect"
+    title: "Sample Exoscale Certification"
     description: "The Exoscale Certification validates your expertise in Exoscale's cloud platform, covering core concepts, technical networking, and cost management. This certification is ideal for professionals looking to demonstrate their proficiency in deploying and optimizing solutions on Exoscale."
     issuing_authorities:
       - name: "James"
