@@ -40,9 +40,13 @@ A Kubernetes cluster is composed of nodes, where a node is either a virtual mach
 
 ## How to access a cluster
 
-A cluster usually comes with a kubeconfig file which contains all the information to communicate with the cluster API Server. This file can be used to configure the standard *kubectl* binary to manage the cluster. The kubeconfig file can also be used with tools like [k9s](https://k9scli.io/), [Mirantis Lens](https://k8slens.dev/), ... which give a higher level view of the cluster.
+A cluster usually comes with a kubeconfig file which contains all the information to communicate with the cluster API Server. This file can be used to configure the standard *kubectl* binary to manage the cluster. The kubeconfig file can also be used with tools like [Meshery](https://meshery.io), [k9s](https://k9scli.io/), [Mirantis Lens](https://k8slens.dev/), ... which give a higher level view of the cluster.
 
-![access](access.png)
+<!-- ![access](access.png) -->
+{{< meshery-design-embed
+id="embedded-design-9f7e3466-41e5-42cb-8512-8ba952b1c198"
+src="image-2.js"
+>}}
 
 ## Various workload resources for different use cases
 
@@ -75,7 +79,11 @@ A Pod can use several resources
 - Secret : contains sensitive data
 - PersistentVolumeClaim / PersistentVolume : storage management
 
-![pod-resources](pod-resources.png)
+<!-- ![pod-resources](pod-resources.png) -->
+{{< meshery-design-embed
+id="embedded-design-c30516a2-2448-47d2-8fce-6758808c4614"
+src="image-5.js"
+>}}
 
 
 ## Several types of resources

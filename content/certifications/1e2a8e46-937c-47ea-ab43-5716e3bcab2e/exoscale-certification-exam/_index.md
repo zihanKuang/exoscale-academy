@@ -10,8 +10,8 @@ level: "beginner"
 categories: "platform"
 
 badge:
-   svg: "exoscale-icon.svg"
-   png: "exoscale-icon.svg"
+   svg: "exoscale-csa-200.png"
+   png: "exoscale-csa-200.png"
    title: "Exoscale Certified"
    description: "Demonstrate your expertise in Exoscale's cloud platform with the Exoscale Certification. This certification validates your understanding of core concepts, technical networking, and cost management on Exoscale."
 
