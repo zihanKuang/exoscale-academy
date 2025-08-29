@@ -1,7 +1,7 @@
 ---
 title: "Quiz"
 id: "cs-and-cloud"
-passing_percentage: 70
+passrcentage: 70
 questions:
   - id: "q1"
     text: "What are the benefits of cloud computing for corporate sustainability?"

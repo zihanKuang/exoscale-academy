@@ -1,7 +1,7 @@
 ---
 title: "Quiz"
 id: "kubernetes-building-blocks"
-passing_percentage: 70
+pass_percentage: 70
 questions:
     - id: "q1"
       text: "What is true about Pods in Kubernetes?"

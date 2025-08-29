@@ -1,6 +1,6 @@
 ---
 title: "Exam"
-passing_percentage: 70
+pass_percentage: 70
 final: true
 questions:
   - id: "q1"
