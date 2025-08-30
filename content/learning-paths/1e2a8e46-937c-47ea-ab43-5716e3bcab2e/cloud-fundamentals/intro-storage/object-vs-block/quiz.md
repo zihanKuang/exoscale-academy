@@ -49,21 +49,6 @@ questions:
           is_correct: true
         - id: "d"
           text: "Block storage surpasses object storage in scalability and is better suited for distributed data storage"
-    - id: "q4"
-      text: "What are the key performance characteristics of object and block storage?"
-      type: "multiple-answers"
-      marks: 2
-      options:
-        - id: "a"
-          text: "Block storage typically provides lower latency, suitable for databases and virtual machines"
-          is_correct: true
-        - id: "b"
-          text: "Object storage offers the best performance for all types of workfloads due to its scalability"
-        - id: "c"
-          text: "Object storage can deliver higher throughput for large data access requests, thanks to parallel data access"
-          is_correct: true
-        - id: "d"
-          text: "Block storage surpasses object storage in scalability and is better suited for distributed data storage"
 layout: "test"
 type: "test"
 ---
